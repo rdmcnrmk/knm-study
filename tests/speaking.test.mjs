@@ -13,3 +13,9 @@ test('all five Notion sets are complete with stable IDs and two translated answe
 test('picture prompts ship their illustrations locally under the repository base',()=>{
  for(const q of bank){assert.equal(q.images.length,['one','two','three'].includes(q.group)?1:0);for(const path of q.images){assert.match(path,/^speaking\/[a-z0-9-]+\.(png|jpg)$/);const file=new URL('../public/'+path,import.meta.url);assert.ok(existsSync(file));assert.ok(readFileSync(file).length>1000);}}
 });
+test('every question and both example answers have distinct prerecorded audio with attribution',()=>{
+ const paths=bank.flatMap(q=>[q.id+'-question',...q.answers.map((_,i)=>q.id+'-answer-'+(i+1))]);
+ assert.equal(paths.length,132);
+ const seen=new Set();
+ for(const id of paths){const bytes=readFileSync(new URL('../public/speaking/audio/'+id+'.mp3',import.meta.url));assert.ok(bytes.length>1500);assert.equal(bytes.subarray(0,3).toString(),'ID3');assert.ok(bytes.includes(Buffer.from('elevenlabs.io','utf16le')));const size=[...bytes.subarray(6,10)].reduce((n,b)=>(n<<7)|(b&127),0);const audio=bytes.subarray(10+size).toString('base64');assert.ok(!seen.has(audio),id+' has duplicate audio');seen.add(audio);}
+});

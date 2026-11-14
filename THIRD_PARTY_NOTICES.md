@@ -65,3 +65,11 @@ Imported from the five user-supplied pages on 14 November 2026:
 - Three pictures: https://www.notion.so/416420bf3f6d80c78d01c9f5e3fd0adc
 
 The source notes embed images hosted at https://www.inburgeringonline.nl/uploads/files/media/ and two uploaded pictures. These retain their original owners’ rights and are excluded from the application’s MIT licence. The question bank and first answer examples follow the supplied notes; second examples and English translations are study additions. No affiliation with or endorsement by Inburgering Online or DUO is claimed.
+
+
+## AI-generated speaking audio — elevenlabs.io
+
+Speaking question and answer audio was generated on 14 November 2026 using ElevenLabs, the Remko – Calm Dutch Narrator voice, Eleven v4, with Dutch language override. Audio is played at 0.85× for study. These files are provided for non-commercial use under ElevenLabs’ free-plan conditions, with required attribution. They are excluded from the application code’s MIT licence.
+
+Publisher conditions: https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform
+Provider: https://elevenlabs.io
