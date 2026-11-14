@@ -53,3 +53,15 @@ SOFTWARE.
 KNM_bilingual_complete_study_book.pdf supplied by the user. Extracted lesson text and book prompts retain the source material’s rights; no third-party ownership or blanket open-source licence is asserted for them. The full text companion preserves its source notes. Official linked exam resources remain on DUO’s website and are not redistributed.
 
 Other development dependencies retain the licences included in their installed packages. See package-lock.json for exact resolved versions.
+
+
+## Speaking material supplied through Notion
+
+Imported from the five user-supplied pages on 14 November 2026:
+- Wat/Hoe/Waar: https://www.notion.so/413420bf3f6d8016a01ccc0f73fee167
+- Waarom: https://www.notion.so/404420bf3f6d80d7b1bce20e33baef37
+- One picture: https://www.notion.so/410420bf3f6d802ea846dfa2d8f021b6
+- Two pictures: https://www.notion.so/411420bf3f6d8099bf90f66ed5efc89b
+- Three pictures: https://www.notion.so/416420bf3f6d80c78d01c9f5e3fd0adc
+
+The source notes embed images hosted at https://www.inburgeringonline.nl/uploads/files/media/ and two uploaded pictures. These retain their original owners’ rights and are excluded from the application’s MIT licence. The question bank and first answer examples follow the supplied notes; second examples and English translations are study additions. No affiliation with or endorsement by Inburgering Online or DUO is claimed.

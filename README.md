@@ -95,3 +95,14 @@ The 78-item checklist covers numbered knowledge targets at section level. It is 
 ## Compact reading layout
 
 The home page opens directly on topics and study controls. Promotional copy and decorative scene illustrations have been removed. Lesson and feedback sentences are rendered as semantic bullet lists with the original wording preserved; Dutch and English remain separate. Smaller headings, tighter spacing, compact concept icons and reduced province-guide height keep the interface focused on study text.
+
+
+## Speaking practice
+
+The top navigation separates KNM and Speaking; Writing is marked as planned. KNM progress keeps its existing storage key. The Speaking module (`#speaking`) includes all 44 prompts from the five supplied Notion pages: Wat/Hoe/Waar (8), Waarom (8), one picture (7), two pictures (11), and three pictures (10). Dutch prompts have English translations and two Dutch/English example answers. Example 1 follows the supplied notes with minor punctuation fixes; example 2 and translations are generated study additions. The source swapped Q7/A7 labels in Wat/Hoe/Waar; these are corrected.
+
+Questions and answers are maintained in `src/speaking-data.json`; each has a stable ID, group and original question number. Picture composites are local in `public/speaking/` and follow Vite’s repository base path. Source provenance is in THIRD_PARTY_NOTICES.md.
+
+Read-aloud uses the browser/device Dutch speech voice, not generated audio files. Availability and quality depend on installed voices. Microphone recording uses MediaRecorder over HTTPS (or localhost), stops after 60 seconds and releases the microphone on stop, question change or module exit. A recording stays in memory for the current question only; download it to retain it. Nothing is uploaded. Automatic transcription, AI evaluation and pronunciation scoring are not configured.
+
+Speaking notes and self-assessed practice status use `knm-speaking-v1` in local storage. They persist across reloads on the same browser but do not sync between devices. Clearing browser data removes them. All interface text and study translations use Dutch and English only.

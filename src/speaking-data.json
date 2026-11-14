@@ -1,0 +1,850 @@
+[
+  {
+    "id": "wat-hoe-waar-1",
+    "group": "wat-hoe-waar",
+    "number": 1,
+    "nl": "Wat vindt u een leuk programma op de televisie? Vertel ook wat u geen leuk programma vindt.",
+    "en": "What TV programme do you like? Also say which programme you do not like.",
+    "answers": [
+      {
+        "nl": "Ik vind The Office een leuk programma op televisie, maar ik vind documentaires niet leuk.",
+        "en": "I like The Office on TV, but I do not like documentaries."
+      },
+      {
+        "nl": "Ik kijk graag naar het nieuws. Sportprogramma’s vind ik niet leuk.",
+        "en": "I enjoy watching the news. I do not like sports programmes."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "wat-hoe-waar-2",
+    "group": "wat-hoe-waar",
+    "number": 2,
+    "nl": "Wat doet u in uw vrije tijd? Vertel ook waar u dat doet.",
+    "en": "What do you do in your free time? Also say where you do it.",
+    "answers": [
+      {
+        "nl": "In mijn vrije tijd speel ik videogames. Ik speel meestal thuis op mijn computer.",
+        "en": "In my free time I play video games, usually at home on my computer."
+      },
+      {
+        "nl": "In mijn vrije tijd wandel ik. Dat doe ik in het park.",
+        "en": "In my free time I walk. I do that in the park."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "wat-hoe-waar-3",
+    "group": "wat-hoe-waar",
+    "number": 3,
+    "nl": "Wat vindt u van uw buren? En hoe lang kent u ze al?",
+    "en": "What do you think of your neighbours? How long have you known them?",
+    "answers": [
+      {
+        "nl": "Ik vind mijn buren vriendelijk. Ik ken ze al twee jaar.",
+        "en": "I think my neighbours are friendly. I have known them for two years."
+      },
+      {
+        "nl": "Mijn buren zijn aardig. Ik ken ze sinds vorig jaar.",
+        "en": "My neighbours are nice. I have known them since last year."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "wat-hoe-waar-4",
+    "group": "wat-hoe-waar",
+    "number": 4,
+    "nl": "Wat kunt u goed? Vertel ook hoe vaak u dit doet.",
+    "en": "What are you good at? Also say how often you do it.",
+    "answers": [
+      {
+        "nl": "Ik kan goed koken. Ik kook drie keer per week.",
+        "en": "I am good at cooking. I cook three times a week."
+      },
+      {
+        "nl": "Ik kan goed zwemmen. Ik zwem elke zaterdag.",
+        "en": "I am good at swimming. I swim every Saturday."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "wat-hoe-waar-5",
+    "group": "wat-hoe-waar",
+    "number": 5,
+    "nl": "Wat is de mooiste plaats waar u geweest bent? Vertel ook hoe vaak u hier bent geweest.",
+    "en": "What is the most beautiful place you have visited? Also say how many times you have been there.",
+    "answers": [
+      {
+        "nl": "Ik vind Amsterdam de mooiste stad. Ik ben er drie keer geweest.",
+        "en": "I think Amsterdam is the most beautiful city. I have been there three times."
+      },
+      {
+        "nl": "Ik vind Parijs heel mooi. Ik ben er één keer geweest.",
+        "en": "I think Paris is very beautiful. I have been there once."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "wat-hoe-waar-6",
+    "group": "wat-hoe-waar",
+    "number": 6,
+    "nl": "Wat vindt u van het weer in Nederland? Vertel ook hoe het weer is in uw eigen land.",
+    "en": "What do you think of the weather in the Netherlands? Also describe the weather in your own country.",
+    "answers": [
+      {
+        "nl": "Ik vind het weer in Nederland niet fijn. In mijn eigen land is het altijd warm.",
+        "en": "I do not like the weather in the Netherlands. In my own country it is always warm."
+      },
+      {
+        "nl": "In Nederland regent het vaak. In mijn eigen land is het meestal zonnig.",
+        "en": "It often rains in the Netherlands. In my own country it is usually sunny."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "wat-hoe-waar-7",
+    "group": "wat-hoe-waar",
+    "number": 7,
+    "nl": "Wat kunt u goed? Vertel ook waar u dat doet.",
+    "en": "What are you good at? Also say where you do it.",
+    "answers": [
+      {
+        "nl": "Ik kan goed koken. Ik kook altijd thuis.",
+        "en": "I am good at cooking. I always cook at home."
+      },
+      {
+        "nl": "Ik kan goed voetballen. Ik voetbal op het sportveld.",
+        "en": "I am good at football. I play on the sports field."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "wat-hoe-waar-8",
+    "group": "wat-hoe-waar",
+    "number": 8,
+    "nl": "Wat vindt u leuk om te koken? Vertel ook hoe vaak u dat kookt.",
+    "en": "What do you enjoy cooking? Also say how often you cook it.",
+    "answers": [
+      {
+        "nl": "Ik vind het leuk om pasta te koken. Ik kook dat drie keer per week.",
+        "en": "I enjoy cooking pasta. I cook it three times a week."
+      },
+      {
+        "nl": "Ik maak graag soep. Dat doe ik één keer per week.",
+        "en": "I like making soup. I do that once a week."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-1",
+    "group": "waarom",
+    "number": 1,
+    "nl": "Ik houd van autorijden. Houdt u ook van autorijden? Vertel ook waarom u wel of niet van autorijden houdt.",
+    "en": "I like driving. Do you like driving too? Explain why or why not.",
+    "answers": [
+      {
+        "nl": "Ik houd niet van autorijden, want ik sta niet graag in de file.",
+        "en": "I do not like driving because I do not like traffic jams."
+      },
+      {
+        "nl": "Ik houd van autorijden, omdat ik dan naar mijn familie kan gaan.",
+        "en": "I like driving because it lets me visit my family."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-2",
+    "group": "waarom",
+    "number": 2,
+    "nl": "Ik ga graag naar een feestje in het weekend. Wat doet u het liefst in het weekend? Vertel ook waarom u dat leuk vindt.",
+    "en": "I enjoy going to a party at weekends. What do you most like doing at weekends? Explain why.",
+    "answers": [
+      {
+        "nl": "Ik vind videogames spelen leuk, want ik houd niet van werken in het weekend.",
+        "en": "I enjoy playing video games because I do not like working at weekends."
+      },
+      {
+        "nl": "Ik ga het liefst wandelen, want daar word ik rustig van.",
+        "en": "I like walking best because it helps me relax."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-3",
+    "group": "waarom",
+    "number": 3,
+    "nl": "Wat voor sport vindt u leuk? Vertel ook waarom.",
+    "en": "What sport do you like? Explain why.",
+    "answers": [
+      {
+        "nl": "Ik vind voetbal leuk, want ik speel in het weekend voetbal met mijn kind.",
+        "en": "I like football because I play it with my child at weekends."
+      },
+      {
+        "nl": "Ik vind zwemmen leuk, omdat het gezond is.",
+        "en": "I like swimming because it is healthy."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-4",
+    "group": "waarom",
+    "number": 4,
+    "nl": "Wil je graag buiten werken? Vertel ook waarom wel of waarom niet.",
+    "en": "Would you like to work outdoors? Explain why or why not.",
+    "answers": [
+      {
+        "nl": "Ik wil buiten werken omdat het gezond is.",
+        "en": "I want to work outdoors because it is healthy."
+      },
+      {
+        "nl": "Ik werk liever binnen, want buiten is het soms te koud.",
+        "en": "I prefer working indoors because it is sometimes too cold outside."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-5",
+    "group": "waarom",
+    "number": 5,
+    "nl": "Wat voor groente vindt u het lekkerst? Vertel ook waarom u dit lekker vindt.",
+    "en": "Which vegetables do you like best? Explain why.",
+    "answers": [
+      {
+        "nl": "Ik vind alle groenten in een salade lekker, omdat ze gezond zijn.",
+        "en": "I like all the vegetables in a salad because they are healthy."
+      },
+      {
+        "nl": "Ik vind wortels het lekkerst, want ze zijn zoet.",
+        "en": "I like carrots best because they are sweet."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-6",
+    "group": "waarom",
+    "number": 6,
+    "nl": "Wat vindt u van roken en waarom?",
+    "en": "What do you think of smoking, and why?",
+    "answers": [
+      {
+        "nl": "Ik vind roken niet goed, want het is slecht voor de gezondheid.",
+        "en": "I think smoking is bad because it harms your health."
+      },
+      {
+        "nl": "Ik houd niet van roken, omdat de rook stinkt.",
+        "en": "I do not like smoking because the smoke smells bad."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-7",
+    "group": "waarom",
+    "number": 7,
+    "nl": "Ik houd niet van katten. Wat voor dier vindt u niet leuk? Vertel ook waarom.",
+    "en": "I do not like cats. Which animal do you dislike? Explain why.",
+    "answers": [
+      {
+        "nl": "Ik houd niet van muizen, omdat ze kunnen bijten.",
+        "en": "I do not like mice because they can bite."
+      },
+      {
+        "nl": "Ik houd niet van spinnen, want ik ben er bang voor.",
+        "en": "I do not like spiders because I am afraid of them."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "waarom-8",
+    "group": "waarom",
+    "number": 8,
+    "nl": "Ik werk graag samen met anderen. Hoe werkt u het liefst? Vertel ook waarom.",
+    "en": "I like working with others. How do you prefer to work? Explain why.",
+    "answers": [
+      {
+        "nl": "Ik werk graag alleen, want ik kan me dan goed concentreren.",
+        "en": "I like working alone because I can concentrate well."
+      },
+      {
+        "nl": "Ik werk graag samen, omdat we elkaar kunnen helpen.",
+        "en": "I like working together because we can help each other."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "one-1",
+    "group": "one",
+    "number": 1,
+    "nl": "Kees doet boodschappen op de markt. Vertel wat Kees ziet liggen. Vertel ook wat u van deze boodschappen vindt. Gebruik het plaatje.",
+    "en": "Kees is shopping at the market. Say what he sees and what you think of these groceries. Use the picture.",
+    "answers": [
+      {
+        "nl": "Kees ziet paprika's en courgettes op de markt. Ik vind deze groenten lekker en gezond.",
+        "en": "Kees sees peppers and courgettes at the market. I think these vegetables are tasty and healthy."
+      },
+      {
+        "nl": "Op de markt liggen paprika’s en courgettes. Ik eet deze groenten graag.",
+        "en": "There are peppers and courgettes at the market. I enjoy eating these vegetables."
+      }
+    ],
+    "images": [
+      "speaking/one-1-0.png"
+    ]
+  },
+  {
+    "id": "one-2",
+    "group": "one",
+    "number": 2,
+    "nl": "Joost kan niet naar school. Waarom niet? Vertel ook wat hij moet doen.",
+    "en": "Joost cannot go to school. Why not? Also say what he should do.",
+    "answers": [
+      {
+        "nl": "Joost is van zijn fiets gevallen. Hij kan niet naar school, want hij heeft pijn aan zijn knie. Hij moet naar de dokter.",
+        "en": "Joost has fallen off his bike. He cannot go to school because his knee hurts. He should go to the doctor."
+      },
+      {
+        "nl": "Joost heeft pijn aan zijn knie na een val. Hij moet naar de huisarts en rusten.",
+        "en": "Joost has a sore knee after a fall. He should see his GP and rest."
+      }
+    ],
+    "images": [
+      "speaking/one-2-0.png"
+    ]
+  },
+  {
+    "id": "one-3",
+    "group": "one",
+    "number": 3,
+    "nl": "Waar is de vrouw? Vertel ook wat je ziet.",
+    "en": "Where is the woman? Also say what you see.",
+    "answers": [
+      {
+        "nl": "De vrouw is bij de kapper. De kapper wast haar haar.",
+        "en": "The woman is at the hairdresser’s. The hairdresser is washing her hair."
+      },
+      {
+        "nl": "De vrouw zit bij de kapper. Haar haar wordt gewassen.",
+        "en": "The woman is at the hairdresser’s. Her hair is being washed."
+      }
+    ],
+    "images": [
+      "speaking/one-3-0.png"
+    ]
+  },
+  {
+    "id": "one-4",
+    "group": "one",
+    "number": 4,
+    "nl": "José is aan het werk. Wat is haar beroep? Vertel ook wat ze nu doet.",
+    "en": "José is working. What is her job? Also say what she is doing now.",
+    "answers": [
+      {
+        "nl": "José is dokter. Ze werkt op haar laptop.",
+        "en": "José is a doctor. She is working on her laptop."
+      },
+      {
+        "nl": "José werkt als dokter. Nu gebruikt ze haar laptop.",
+        "en": "José works as a doctor. She is using her laptop now."
+      }
+    ],
+    "images": [
+      "speaking/one-4-0.png"
+    ]
+  },
+  {
+    "id": "one-5",
+    "group": "one",
+    "number": 5,
+    "nl": "Kim haar hobby is lezen. Wat is jouw hobby? Vertel ook hoe vaak je dat doet.",
+    "en": "Kim’s hobby is reading. What is your hobby? Also say how often you do it.",
+    "answers": [
+      {
+        "nl": "Mijn hobby is videogames spelen, want ik vind het leuk. Ik speel elke avond videogames.",
+        "en": "My hobby is playing video games because I enjoy it. I play every evening."
+      },
+      {
+        "nl": "Mijn hobby is lezen. Ik lees elke avond een boek.",
+        "en": "My hobby is reading. I read a book every evening."
+      }
+    ],
+    "images": [
+      "speaking/one-5-0.png"
+    ]
+  },
+  {
+    "id": "one-6",
+    "group": "one",
+    "number": 6,
+    "nl": "Ivar luistert naar housemuziek. Naar wat voor muziek luistert u graag? Vertel ook wanneer u daar het liefst naar luistert.",
+    "en": "Ivar listens to house music. What music do you enjoy? Also say when you most like listening.",
+    "answers": [
+      {
+        "nl": "Ik luister naar rockmuziek. Ik luister het liefst 's avonds.",
+        "en": "I listen to rock music. I prefer listening in the evenings."
+      },
+      {
+        "nl": "Ik luister graag naar popmuziek, vooral als ik kook.",
+        "en": "I enjoy pop music, especially when I cook."
+      }
+    ],
+    "images": [
+      "speaking/one-6-0.png"
+    ]
+  },
+  {
+    "id": "one-7",
+    "group": "one",
+    "number": 7,
+    "nl": "Kijk naar het plaatje. Melissa houdt van koken. Wat kookt zij hier? En wat kookt u graag?",
+    "en": "Look at the picture. Melissa likes cooking. What is she cooking here? What do you like cooking?",
+    "answers": [
+      {
+        "nl": "Melissa kookt pasta. Ik kook graag vlees, want ik vind het lekker.",
+        "en": "Melissa is cooking pasta. I like cooking meat because I find it tasty."
+      },
+      {
+        "nl": "Melissa maakt pasta. Zelf kook ik graag soep.",
+        "en": "Melissa is making pasta. I like cooking soup myself."
+      }
+    ],
+    "images": [
+      "speaking/one-7-0.jpg"
+    ]
+  },
+  {
+    "id": "two-1",
+    "group": "two",
+    "number": 1,
+    "nl": "U bent op vakantie. Wat doet u liever? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "You are on holiday. What would you rather do? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik ga liever naar het strand, want ik houd van zwemmen en de zon.",
+        "en": "I prefer going to the beach because I like swimming and sunshine."
+      },
+      {
+        "nl": "Ik kies het strand, omdat ik graag in de zee zwem.",
+        "en": "I choose the beach because I enjoy swimming in the sea."
+      }
+    ],
+    "images": [
+      "speaking/two-1-0.png"
+    ]
+  },
+  {
+    "id": "two-2",
+    "group": "two",
+    "number": 2,
+    "nl": "U heeft een date. Wat doet u liever op een date? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "You have a date. What would you rather do on a date? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik ga liever naar een restaurant, want ik houd van lekker eten.",
+        "en": "I prefer going to a restaurant because I enjoy good food."
+      },
+      {
+        "nl": "Ik ga het liefst uit eten, omdat we dan rustig kunnen praten.",
+        "en": "I prefer going out for dinner because we can talk quietly."
+      }
+    ],
+    "images": [
+      "speaking/two-2-0.png"
+    ]
+  },
+  {
+    "id": "two-3",
+    "group": "two",
+    "number": 3,
+    "nl": "U gaat hardlopen. Waar rent u liever? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "You are going running. Where would you rather run? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik ren liever in het park, want het is daar rustig en mooi.",
+        "en": "I prefer running in the park because it is quiet and beautiful there."
+      },
+      {
+        "nl": "Ik kies het park, omdat ik graag tussen de bomen ren.",
+        "en": "I choose the park because I enjoy running among the trees."
+      }
+    ],
+    "images": [
+      "speaking/two-3-0.png"
+    ]
+  },
+  {
+    "id": "two-4",
+    "group": "two",
+    "number": 4,
+    "nl": "Welke sport vindt u leuker? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "Which sport do you like more? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik vind basketbal leuker, omdat ik beter ben in basketbal.",
+        "en": "I prefer basketball because I am better at it."
+      },
+      {
+        "nl": "Ik kies basketbal, want ik speel dat graag met vrienden.",
+        "en": "I choose basketball because I enjoy playing it with friends."
+      }
+    ],
+    "images": [
+      "speaking/two-4-0.png"
+    ]
+  },
+  {
+    "id": "two-5",
+    "group": "two",
+    "number": 5,
+    "nl": "U bent fotograaf. Wat fotografeert u liever? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "You are a photographer. What would you rather photograph? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik fotografeer liever landschappen, want ik hou van natuur.",
+        "en": "I prefer photographing landscapes because I love nature."
+      },
+      {
+        "nl": "Ik maak liever foto’s van de natuur, omdat ik die mooi vind.",
+        "en": "I prefer taking photos of nature because I find it beautiful."
+      }
+    ],
+    "images": [
+      "speaking/two-5-0.png"
+    ]
+  },
+  {
+    "id": "two-6",
+    "group": "two",
+    "number": 6,
+    "nl": "Kijk naar de plaatjes. Wat kookt u liever? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "Look at the pictures. What would you rather cook? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik kook liever pasta, want ik vind pasta lekker.",
+        "en": "I prefer cooking pasta because I like it."
+      },
+      {
+        "nl": "Ik kies pasta, omdat het makkelijk te maken is.",
+        "en": "I choose pasta because it is easy to make."
+      }
+    ],
+    "images": [
+      "speaking/two-6-0.png"
+    ]
+  },
+  {
+    "id": "two-7",
+    "group": "two",
+    "number": 7,
+    "nl": "U gaat verhuizen. Waar woont u liever? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "You are moving house. Where would you rather live? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik woon liever in de stad, want er zijn meer activiteiten.",
+        "en": "I prefer living in the city because there are more activities."
+      },
+      {
+        "nl": "Ik woon graag in de stad, omdat de winkels dichtbij zijn.",
+        "en": "I like living in the city because the shops are nearby."
+      }
+    ],
+    "images": [
+      "speaking/two-7-0.png"
+    ]
+  },
+  {
+    "id": "two-8",
+    "group": "two",
+    "number": 8,
+    "nl": "Wat doet u liever? Vertel ook met wie u dat graag doet. Kies een van de plaatjes.",
+    "en": "What would you rather do? Also say who you enjoy doing it with. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik ga liever vissen. Dat doe ik graag met mijn zoon.",
+        "en": "I prefer going fishing. I enjoy doing that with my son."
+      },
+      {
+        "nl": "Ik ga graag vissen met mijn vriend.",
+        "en": "I enjoy going fishing with my friend."
+      }
+    ],
+    "images": [
+      "speaking/two-8-0.png"
+    ]
+  },
+  {
+    "id": "two-9",
+    "group": "two",
+    "number": 9,
+    "nl": "Wat doet u liever? Vertel ook waar u dat doet. Kies een van de plaatjes.",
+    "en": "What would you rather do? Also say where you do it. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik ga liever snowboarden, dat doe ik graag in Turkije.",
+        "en": "I prefer snowboarding. I enjoy doing that in Turkey."
+      },
+      {
+        "nl": "Ik ga graag snowboarden. Dat doe ik in Oostenrijk.",
+        "en": "I enjoy snowboarding. I do that in Austria."
+      }
+    ],
+    "images": [
+      "speaking/two-9-0.png"
+    ]
+  },
+  {
+    "id": "two-10",
+    "group": "two",
+    "number": 10,
+    "nl": "Kijk naar de plaatjes. U bent jarig. Wat krijgt u liever? Vertel ook waarom. Kies een van de plaatjes.",
+    "en": "Look at the pictures. It is your birthday. What would you rather receive? Explain why. Choose one picture.",
+    "answers": [
+      {
+        "nl": "Ik krijg liever chocolade, omdat ik dat heel lekker vind.",
+        "en": "I prefer receiving chocolate because I find it delicious."
+      },
+      {
+        "nl": "Ik krijg graag chocolade, want ik houd van zoete dingen.",
+        "en": "I like receiving chocolate because I like sweet things."
+      }
+    ],
+    "images": [
+      "speaking/two-10-0.png"
+    ]
+  },
+  {
+    "id": "two-11",
+    "group": "two",
+    "number": 11,
+    "nl": "Kijk naar de plaatjes. Welk gebouw vindt u mooier? Vertel ook waarom?",
+    "en": "Look at the pictures. Which building do you find more beautiful? Explain why.",
+    "answers": [
+      {
+        "nl": "Ik vind het kasteel mooier want ik houd van oude architectuur.",
+        "en": "I find the castle more beautiful because I like old architecture."
+      },
+      {
+        "nl": "Ik kies het kasteel, omdat ik oude gebouwen mooi vind.",
+        "en": "I choose the castle because I find old buildings beautiful."
+      }
+    ],
+    "images": [
+      "speaking/two-11-0.jpg"
+    ]
+  },
+  {
+    "id": "three-1",
+    "group": "three",
+    "number": 1,
+    "nl": "Deze spullen liggen in een badkamer. Vertel wat voor spullen dat zijn. Vertel ook waarvoor je ze gebruikt. Gebruik alle plaatjes.",
+    "en": "These things are in a bathroom. Say what they are and what you use them for. Use all pictures.",
+    "answers": [
+      {
+        "nl": "In de badkamer liggen handdoeken om je handen te drogen, tandenborstels om je tanden te poetsen en zeep om je lichaam schoon te maken.",
+        "en": "There are towels to dry your hands, toothbrushes to brush your teeth and soap to wash your body."
+      },
+      {
+        "nl": "Je droogt je handen met een handdoek. Je poetst je tanden met een tandenborstel. Met zeep was je je lichaam.",
+        "en": "You dry your hands with a towel, brush your teeth with a toothbrush and wash your body with soap."
+      }
+    ],
+    "images": [
+      "speaking/three-1-0.png"
+    ]
+  },
+  {
+    "id": "three-2",
+    "group": "three",
+    "number": 2,
+    "nl": "Je werkt in een supermarkt. Vertel wat je doet. Vertel iets over alle plaatjes.",
+    "en": "You work in a supermarket. Say what you do. Say something about every picture.",
+    "answers": [
+      {
+        "nl": "Ik leg de sinaasappels netjes neer, ik werk achter de kassa en ik maak de winkel schoon.",
+        "en": "I arrange the oranges neatly, work at the checkout and clean the shop."
+      },
+      {
+        "nl": "Eerst leg ik het fruit neer. Daarna help ik klanten bij de kassa. Ook maak ik de winkel schoon.",
+        "en": "First I arrange the fruit. Then I help customers at the checkout. I also clean the shop."
+      }
+    ],
+    "images": [
+      "speaking/three-2-0.png"
+    ]
+  },
+  {
+    "id": "three-3",
+    "group": "three",
+    "number": 3,
+    "nl": "Jessica gaat koken. Kijk naar de plaatjes. Vertel wat Jessica doet. Vertel iets over alle plaatjes.",
+    "en": "Jessica is going to cook. Look at the pictures. Say what she does. Mention every picture.",
+    "answers": [
+      {
+        "nl": "Jessica wast de paprika, snijdt de paprika en bakt de paprika in een pan.",
+        "en": "Jessica washes the pepper, cuts it and cooks it in a pan."
+      },
+      {
+        "nl": "Eerst wast Jessica de paprika. Daarna snijdt ze hem. Ten slotte bakt ze de stukjes.",
+        "en": "First Jessica washes the pepper. Then she cuts it. Finally she cooks the pieces."
+      }
+    ],
+    "images": [
+      "speaking/three-3-0.png"
+    ]
+  },
+  {
+    "id": "three-4",
+    "group": "three",
+    "number": 4,
+    "nl": "Jack gaat naar het zwembad. Kijk naar de plaatjes. Vertel wat Jack doet. Vertel iets over alle plaatjes.",
+    "en": "Jack goes to the swimming pool. Say what he does. Mention every picture.",
+    "answers": [
+      {
+        "nl": "Jack doet zijn zwembril op, gaat zwemmen en gaat douchen.",
+        "en": "Jack puts on his goggles, goes swimming and takes a shower."
+      },
+      {
+        "nl": "Eerst zet Jack zijn zwembril op. Dan zwemt hij. Daarna gaat hij douchen.",
+        "en": "First Jack puts on his goggles. Then he swims. Afterwards he takes a shower."
+      }
+    ],
+    "images": [
+      "speaking/three-4-0.png"
+    ]
+  },
+  {
+    "id": "three-5",
+    "group": "three",
+    "number": 5,
+    "nl": "Carl gaat shoppen. Kijk naar de plaatjes. Vertel wat Carl heeft gekocht. Vertel iets over alle plaatjes.",
+    "en": "Carl goes shopping. Say what he has bought. Mention every picture.",
+    "answers": [
+      {
+        "nl": "Carl heeft een broek, trui en een T-shirt gekocht.",
+        "en": "Carl has bought trousers, a jumper and a T-shirt."
+      },
+      {
+        "nl": "Carl heeft nieuwe kleren gekocht: een broek, een trui en een T-shirt.",
+        "en": "Carl has bought new clothes: trousers, a jumper and a T-shirt."
+      }
+    ],
+    "images": [
+      "speaking/three-5-0.png"
+    ]
+  },
+  {
+    "id": "three-6",
+    "group": "three",
+    "number": 6,
+    "nl": "Dirk gaat naar de bioscoop. Kijk naar de plaatjes. Vertel wat Dirk eet. Vertel ook of u dit lekker vindt.",
+    "en": "Dirk goes to the cinema. Say what he eats. Also say whether you like it.",
+    "answers": [
+      {
+        "nl": "Dirk eet popcorn, chocolade en snoep in de bioscoop. Ik vind snoep en chocolade lekker. Popcorn vind ik niet lekker.",
+        "en": "Dirk eats popcorn, chocolate and sweets at the cinema. I like sweets and chocolate, but not popcorn."
+      },
+      {
+        "nl": "Dirk eet popcorn, chocolade en snoep. Ik vind alle drie lekker.",
+        "en": "Dirk eats popcorn, chocolate and sweets. I like all three."
+      }
+    ],
+    "images": [
+      "speaking/three-6-0.png"
+    ]
+  },
+  {
+    "id": "three-7",
+    "group": "three",
+    "number": 7,
+    "nl": "Dit zijn Simone en Jessie. Vertel wat ze doen. Gebruik alle plaatjes",
+    "en": "These are Simone and Jessie. Say what they do. Use all pictures.",
+    "answers": [
+      {
+        "nl": "Simone en Jessie drinken koffie, ze eten een pizza en ze kijken een film.",
+        "en": "Simone and Jessie drink coffee, eat a pizza and watch a film."
+      },
+      {
+        "nl": "Eerst drinken ze koffie. Dan eten ze pizza. Daarna kijken ze samen een film.",
+        "en": "First they drink coffee. Then they eat pizza. Afterwards they watch a film together."
+      }
+    ],
+    "images": [
+      "speaking/three-7-0.png"
+    ]
+  },
+  {
+    "id": "three-8",
+    "group": "three",
+    "number": 8,
+    "nl": "Kees, Jan en Thomas gaan klussen. Vertel wat Kees, Jan en Thomas doen, vertel wat over alle plaatjes.",
+    "en": "Kees, Jan and Thomas do DIY. Say what each of them does. Mention every picture.",
+    "answers": [
+      {
+        "nl": "Kees zaagt een stuk hout. Jan schuurt een plank. Thomas verft het hout.",
+        "en": "Kees saws a piece of wood. Jan sands a board. Thomas paints the wood."
+      },
+      {
+        "nl": "Kees is aan het zagen. Jan schuurt het hout en Thomas verft het.",
+        "en": "Kees is sawing. Jan sands the wood and Thomas paints it."
+      }
+    ],
+    "images": [
+      "speaking/three-8-0.png"
+    ]
+  },
+  {
+    "id": "three-9",
+    "group": "three",
+    "number": 9,
+    "nl": "Maria werkt als stewardess. Kijk naar alle plaatjes.",
+    "en": "Maria works as a flight attendant. Look at all the pictures.",
+    "answers": [
+      {
+        "nl": "Zij staat op de roltrap. Zij kijkt op haar horloge. En zij praat met haar collega.",
+        "en": "She stands on the escalator, looks at her watch and talks to her colleague."
+      },
+      {
+        "nl": "Maria neemt de roltrap. Daarna kijkt ze hoe laat het is. Ook praat ze met een collega.",
+        "en": "Maria takes the escalator. Then she checks the time. She also talks to a colleague."
+      }
+    ],
+    "images": [
+      "speaking/three-9-0.jpg"
+    ]
+  },
+  {
+    "id": "three-10",
+    "group": "three",
+    "number": 10,
+    "nl": "Janine is in de keuken. Kijk naar alle plaatjes. Vertel wat Janine doet. Vertel iets over alle plaatjes.",
+    "en": "Janine is in the kitchen. Say what she does. Mention every picture.",
+    "answers": [
+      {
+        "nl": "Zij kijkt op haar computer. Zij snijdt de tomaten. En zij doet de tomaten in de pan.",
+        "en": "She looks at her computer, cuts the tomatoes and puts them in the pan."
+      },
+      {
+        "nl": "Janine kijkt op haar computer. Vervolgens snijdt ze tomaten en doet ze die in de pan.",
+        "en": "Janine looks at her computer. Next she cuts tomatoes and puts them in the pan."
+      }
+    ],
+    "images": [
+      "speaking/three-10-0.jpg"
+    ]
+  }
+]
