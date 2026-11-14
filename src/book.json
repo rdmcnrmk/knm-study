@@ -1,0 +1,802 @@
+[
+  {
+    "id": "housing",
+    "nl": "Wonen",
+    "en": "Housing",
+    "pages": "3–6",
+    "lessons": [
+      {
+        "title": "Een huurwoning zoeken / Finding a rental home",
+        "nl": "Voor sociale huur schrijf je je meestal in bij een woningcorporatie. Vaak is er een wachtlijst. Alleen in een aantoonbaar zeer urgente situatie kan een urgentieverklaring voorrang geven. De vrije sector heeft doorgaans een hogere huur en andere inkomenseisen. Een makelaar kan helpen zoeken; de huisbaas is de verhuurder en de huurder woont in de woning.",
+        "en": "For social housing you usually register with a housing association, often with a waiting list. A documented emergency may justify an urgency declaration. Private-sector rent is generally higher and may have different income requirements. An estate agent can help; the landlord rents out the home and the tenant lives there.",
+        "page": 3
+      },
+      {
+        "title": "Contract, kosten en toeslag / Contract, costs and allowance",
+        "nl": "Lees vóór ondertekening de huurprijs, servicekosten, borg, duur en opzegtermijn. Meld gebreken schriftelijk en bewaar afspraken. Huishoudens met een lager inkomen kunnen soms huurtoeslag krijgen via de Belastingdienst; voorwaarden hangen onder meer af van inkomen, vermogen, leeftijd en woning. Geef een verhuizing tijdig door aan de gemeente.",
+        "en": "Before signing, check rent, service charges, deposit, duration and notice period. Report defects in writing and keep records. Lower-income households may qualify for rent allowance through the Tax Administration; conditions include income, assets, age and the home. Report a move to the municipality on time.",
+        "page": 3
+      },
+      {
+        "title": "Een huis kopen / Buying a home",
+        "nl": "Bij koop zijn vaak een hypotheek, rente, een notaris en verzekeringen betrokken. De bank beoordeelt hoeveel je kunt lenen. De notaris regelt de juridische overdracht. Hypotheekrenteaftrek kan onder voorwaarden een rol spelen in de belastingaangifte. Een inboedelverzekering dekt spullen in huis; een aansprakelijkheidsverzekering dekt schade die je volgens de polis aan anderen veroorzaakt.",
+        "en": "Buying often involves a mortgage, interest, a civil-law notary and insurance. The bank assesses borrowing capacity. The notary handles the legal transfer. Mortgage-interest deduction may apply under tax conditions. Contents insurance covers belongings; liability insurance covers qualifying damage you cause to others.",
+        "page": 4
+      },
+      {
+        "title": "Energie en communicatie / Energy and communications",
+        "nl": "Je sluit contracten af voor energie, internet en telefoon. De meterstand registreert verbruik. Vaak betaal je een maandelijks termijnbedrag en volgt later een jaarrekening op basis van werkelijk verbruik. Bij een storing neem je contact op met de leverancier of netbeheerder. Duurzame energie komt bijvoorbeeld uit zon en wind. De NPO is de Nederlandse publieke omroep.",
+        "en": "You arrange contracts for energy, internet and telephone. Meter readings record consumption. You often pay a monthly advance, followed by an annual bill based on actual use. For an outage, contact the supplier or grid operator. Sustainable energy includes solar and wind power. NPO is the Dutch public broadcaster.",
+        "page": 4
+      },
+      {
+        "title": "Woonomgeving en afval / Neighbourhood and waste",
+        "nl": "Bewoners houden rekening met buren, melden ernstige overlast en scheiden afval volgens gemeentelijke regels. Glas, papier, GFT, plastic en klein chemisch afval hebben vaak verschillende inzamelpunten. Voor sommige gemeentelijke belastingen kan bij een zeer laag inkomen kwijtschelding mogelijk zijn.",
+        "en": "Residents consider neighbours, report serious nuisance and separate waste under municipal rules. Glass, paper, organic waste, plastics and small chemical waste often have different collection points. Very low-income residents may sometimes receive remission of certain municipal taxes.",
+        "page": 4
+      }
+    ],
+    "questions": [
+      {
+        "id": "housing-0",
+        "nl": "Waar schrijf je je meestal in voor een sociale huurwoning?",
+        "en": "Where do you usually register for social housing?",
+        "answer": {
+          "nl": "Bij een woningcorporatie",
+          "en": "With a housing association."
+        },
+        "page": 6
+      },
+      {
+        "id": "housing-1",
+        "nl": "Wie regelt de juridische overdracht bij de koop van een huis?",
+        "en": "Who handles the legal transfer when buying a home?",
+        "answer": {
+          "nl": "De notaris",
+          "en": "The civil-law notary."
+        },
+        "page": 6
+      },
+      {
+        "id": "housing-2",
+        "nl": "Wat is het verschil tussen een termijnbedrag en een jaarrekening?",
+        "en": "What is the difference between a monthly instalment and an annual statement?",
+        "answer": {
+          "nl": "Het termijnbedrag is een voorschot; de jaarrekening is de afrekening",
+          "en": "The instalment is an advance; the annual statement is the settlement."
+        },
+        "page": 6
+      },
+      {
+        "id": "housing-3",
+        "nl": "Welke instantie behandelt huurtoeslag?",
+        "en": "Which authority handles rent allowance?",
+        "answer": {
+          "nl": "De Belastingdienst",
+          "en": "The Tax Administration."
+        },
+        "page": 6
+      },
+      {
+        "id": "housing-4",
+        "nl": "Waar lever je batterijen en verf in?",
+        "en": "Where should batteries and paint be discarded?",
+        "answer": {
+          "nl": "Bij de inzameling voor klein chemisch afval",
+          "en": "At a collection point for small chemical waste."
+        },
+        "page": 6
+      },
+      {
+        "id": "housing-5",
+        "nl": "Wat controleer je vóór je een huurcontract tekent?",
+        "en": "What should you check before signing a rental agreement?",
+        "answer": {
+          "nl": "Onder andere huur, servicekosten, borg, duur en opzegtermijn",
+          "en": "Rent, service charges, deposit, duration and notice period."
+        },
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "work",
+    "nl": "Werk en inkomen",
+    "en": "Work & income",
+    "pages": "7–10",
+    "lessons": [
+      {
+        "title": "Werk zoeken en solliciteren / Job search and applications",
+        "nl": "Zoek vacatures via werkgevers, vacaturewebsites, uitzendbureaus, netwerk en UWV. Pas je cv en motivatiebrief aan de vacature aan. Bereid een gesprek voor, kom op tijd en geef concrete voorbeelden van ervaring. Een uitzendbureau bemiddelt vaak in tijdelijk werk. Met een uitkering kan een sollicitatieplicht gelden.",
+        "en": "Search through employers, vacancy sites, employment agencies, your network and UWV. Tailor your CV and motivation letter. Prepare for interviews, arrive on time and give concrete examples. Employment agencies often place temporary workers. A benefit may include a duty to apply for jobs.",
+        "page": 7
+      },
+      {
+        "title": "Diploma, scholing en re-integratie / Diplomas, training and reintegration",
+        "nl": "Een buitenlands diploma kan worden gewaardeerd om het Nederlandse niveau te bepalen. IDW houdt zich bezig met diplomawaardering. DUO is belangrijk voor onderwijsgegevens en studiefinanciering; een ROC biedt veel mbo-opleidingen. Bijscholing, EVC en vrijwilligerswerk kunnen ervaring zichtbaar maken. Een re-integratiebedrijf helpt bij terugkeer naar werk.",
+        "en": "A foreign diploma can be evaluated against Dutch levels. IDW handles credential evaluation. DUO is important for education records and student finance; an ROC provides many vocational programmes. Additional training, recognition of prior learning and volunteering can demonstrate experience. A reintegration company helps people return to work.",
+        "page": 7
+      },
+      {
+        "title": "Contract en arbeidsvoorwaarden / Contract and employment conditions",
+        "nl": "Een arbeidscontract kan tijdelijk of vast zijn; soms loopt het via een uitzendbureau. Controleer uren, salaris, duur, proeftijd en opzegregels. Een cao bevat collectieve afspraken voor een sector of werkgever. Werkgever en werknemer moeten veilig en gezond werken. De bedrijfsarts ondersteunt bij ziekte en re-integratie; de ondernemingsraad vertegenwoordigt medewerkers bij belangrijke besluiten.",
+        "en": "An employment contract may be temporary or permanent, sometimes through an agency. Check hours, salary, duration, probation and notice rules. A collective labour agreement sets shared conditions. Employers and employees must work safely. The occupational physician supports illness and reintegration; the works council represents staff in major decisions.",
+        "page": 8
+      },
+      {
+        "title": "Loon, belasting en uitkeringen / Pay, tax and benefits",
+        "nl": "Bruto salaris is vóór inhoudingen; netto salaris is wat je ontvangt. Op het loonstrookje staan loon, belasting en premies; de jaaropgave vat het jaar samen voor de belastingaangifte. UWV voert onder meer WW en WIA uit. Bijstand is het laatste inkomensvangnet via de gemeente. AOW is het basispensioen van de overheid.",
+        "en": "Gross salary is before deductions; net salary is what you receive. The payslip shows wages, tax and contributions; the annual statement summarises the year for the tax return. UWV administers benefits such as WW and WIA. Social assistance is a final income safety net through the municipality. AOW is the state pension.",
+        "page": 8
+      },
+      {
+        "title": "Discriminatie en eigen bedrijf / Discrimination and self-employment",
+        "nl": "Discriminatie op bijvoorbeeld afkomst, geslacht, religie, beperking, leeftijd of seksuele gerichtheid is verboden. Bespreek een probleem zo mogelijk, bewaar bewijs en vraag hulp bij een antidiscriminatievoorziening of juridisch loket. Voor een eigen bedrijf maak je een ondernemingsplan, schrijf je je in bij de Kamer van Koophandel, houdt administratie bij en regelt belasting en verzekeringen.",
+        "en": "Discrimination based on characteristics such as origin, sex, religion, disability, age or sexual orientation is prohibited. If possible discuss the problem, preserve evidence and seek help from an anti-discrimination service or legal desk. For a business, make a business plan, register with the Chamber of Commerce, keep records and arrange taxes and insurance.",
+        "page": 8
+      }
+    ],
+    "questions": [
+      {
+        "id": "work-0",
+        "nl": "Welke organisatie voert de WW uit?",
+        "en": "Which organisation administers unemployment benefit?",
+        "answer": {
+          "nl": "UWV.",
+          "en": "UWV."
+        },
+        "page": 10
+      },
+      {
+        "id": "work-1",
+        "nl": "Wat doet IDW?",
+        "en": "What does IDW do?",
+        "answer": {
+          "nl": "Buitenlandse diploma's waarderen",
+          "en": "Evaluates foreign diplomas."
+        },
+        "page": 10
+      },
+      {
+        "id": "work-2",
+        "nl": "Wat is het verschil tussen bruto en netto salaris?",
+        "en": "What is the difference between gross and net salary?",
+        "answer": {
+          "nl": "Bruto is vóór inhoudingen; netto is wat je ontvangt",
+          "en": "Gross is before deductions; net is what you receive."
+        },
+        "page": 10
+      },
+      {
+        "id": "work-3",
+        "nl": "Wie helpt bij gezondheid en re-integratie op het werk?",
+        "en": "Who helps with health and reintegration at work?",
+        "answer": {
+          "nl": "De bedrijfsarts",
+          "en": "The occupational physician."
+        },
+        "page": 10
+      },
+      {
+        "id": "work-4",
+        "nl": "Waar schrijf je een onderneming in?",
+        "en": "Where do you register a business?",
+        "answer": {
+          "nl": "Bij de Kamer van Koophandel",
+          "en": "At the Chamber of Commerce."
+        },
+        "page": 10
+      },
+      {
+        "id": "work-5",
+        "nl": "Wat bevat een cao?",
+        "en": "What does a collective labour agreement contain?",
+        "answer": {
+          "nl": "Collectieve afspraken over arbeidsvoorwaarden",
+          "en": "Collective agreements on employment conditions."
+        },
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "values",
+    "nl": "Omgangsvormen, waarden en normen",
+    "en": "Life & values",
+    "pages": "11–14",
+    "lessons": [
+      {
+        "title": "Omgang in Nederland / Social interaction in the Netherlands",
+        "nl": "In formele situaties zijn op tijd komen, afspraken nakomen en duidelijk communiceren belangrijk. Mensen kunnen direct hun mening geven, maar respect en grenzen blijven gelden. In een wachtkamer wacht je meestal op volgorde of afspraak. In het openbaar vervoer heb je een geldig vervoersbewijs nodig en respecteer je bijvoorbeeld een stiltecoupé.",
+        "en": "In formal situations, punctuality, keeping appointments and clear communication matter. People may express opinions directly, but respect and boundaries still apply. In a waiting room you usually wait by turn or appointment. On public transport you need a valid ticket and must respect spaces such as quiet carriages.",
+        "page": 11
+      },
+      {
+        "title": "Gezinnen en samenleven / Families and living together",
+        "nl": "Gezinnen kunnen verschillend zijn: met twee ouders, één ouder, partners zonder kinderen of andere vormen. Partners kunnen trouwen of afspraken vastleggen in een samenlevingscontract. Mannen en vrouwen hebben gelijke rechten. Iedereen heeft recht op lichamelijke integriteit en eigen keuzes binnen de wet. Huiselijk geweld is verboden en hulp zoeken is belangrijk.",
+        "en": "Families take different forms: two parents, one parent, partners without children and others. Partners may marry or record agreements in a cohabitation contract. Men and women have equal rights. Everyone has bodily autonomy and personal choice within the law. Domestic violence is prohibited and seeking help is important.",
+        "page": 11
+      },
+      {
+        "title": "Waarden, normen en rechten / Values, norms and rights",
+        "nl": "Een waarde is iets dat een samenleving belangrijk vindt, zoals vrijheid of gelijkheid. Een norm is een concrete gedragsregel die uit een waarde volgt. De Grondwet beschermt onder meer gelijke behandeling, vrijheid van meningsuiting, godsdienst en onderwijs. Rechten gaan samen met verantwoordelijkheid: respecteer de wet en de rechten van anderen.",
+        "en": "A value is something society considers important, such as freedom or equality. A norm is a concrete rule of conduct based on a value. The Constitution protects equal treatment and freedoms including expression, religion and education. Rights come with responsibility: respect the law and other people's rights.",
+        "page": 12
+      },
+      {
+        "title": "Een sociaal netwerk opbouwen / Building a social network",
+        "nl": "Contact ontstaat via buren, werk, school, sport, vrijwilligerswerk, verenigingen en het buurthuis. Een netwerk kan praktische hulp, informatie en gezelschap bieden. Zelf initiatief nemen, afspraken nakomen en ook iets voor anderen doen helpen om vertrouwen op te bouwen.",
+        "en": "Connections develop through neighbours, work, school, sport, volunteering, clubs and community centres. A network can provide practical help, information and companionship. Taking initiative, keeping commitments and helping others build trust.",
+        "page": 12
+      },
+      {
+        "title": "Feest- en familiedagen / Holidays and family occasions",
+        "nl": "Bekende dagen zijn Sinterklaas op 5 december, Kerst, Pasen, Koningsdag, Bevrijdingsdag op 5 mei, Hemelvaart, Pinksteren en oud en nieuw. Bij geboorte is kraamvisite gebruikelijk en worden vaak beschuit met muisjes gegeten. Bij slagen hangt soms een schooltas aan de vlaggenstok. 'Gefeliciteerd' gebruik je bij goed nieuws; 'gecondoleerd' bij een overlijden.",
+        "en": "Well-known occasions include Sinterklaas on 5 December, Christmas, Easter, King's Day, Liberation Day on 5 May, Ascension, Pentecost and New Year. A birth may be followed by a maternity visit with rusks and sprinkles. Graduation may be marked by a school bag on a flagpole. Say 'congratulations' for good news and 'condolences' after a death.",
+        "page": 12
+      }
+    ],
+    "questions": [
+      {
+        "id": "values-0",
+        "nl": "Wat is het verschil tussen een waarde en een norm?",
+        "en": "What is the difference between a value and a norm?",
+        "answer": {
+          "nl": "Een waarde is een ideaal; een norm is een concrete gedragsregel",
+          "en": "A value is an ideal; a norm is a concrete rule."
+        },
+        "page": 14
+      },
+      {
+        "id": "values-1",
+        "nl": "Wat zeg je tegen iemand bij een overlijden?",
+        "en": "What do you say after someone has died?",
+        "answer": {
+          "nl": "Gecondoleerd",
+          "en": "My condolences."
+        },
+        "page": 14
+      },
+      {
+        "id": "values-2",
+        "nl": "Waar kun je mensen uit de buurt ontmoeten?",
+        "en": "Where can you meet people from the neighbourhood?",
+        "answer": {
+          "nl": "Bijvoorbeeld in een buurthuis of vereniging",
+          "en": "For example at a community centre or club."
+        },
+        "page": 14
+      },
+      {
+        "id": "values-3",
+        "nl": "Wanneer is Bevrijdingsdag?",
+        "en": "When is Liberation Day?",
+        "answer": {
+          "nl": "5 mei",
+          "en": "5 May."
+        },
+        "page": 14
+      },
+      {
+        "id": "values-4",
+        "nl": "Wat verwacht men in een stiltecoupé?",
+        "en": "What is expected in a quiet carriage?",
+        "answer": {
+          "nl": "Dat reizigers stil zijn",
+          "en": "Passengers are expected to be quiet."
+        },
+        "page": 14
+      },
+      {
+        "id": "values-5",
+        "nl": "Is huiselijk geweld een privézaak die de wet toestaat?",
+        "en": "Is domestic violence a private matter permitted by law?",
+        "answer": {
+          "nl": "Nee, het is verboden",
+          "en": "No, it is prohibited."
+        },
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "education",
+    "nl": "Onderwijs en opvoeding",
+    "en": "Education & parenting",
+    "pages": "15–18",
+    "lessons": [
+      {
+        "title": "Zwangerschap en jonge kinderen / Pregnancy and young children",
+        "nl": "Tijdens een normale zwangerschap begeleidt vaak een verloskundige de controles en bevalling. Na de geboorte kan kraamzorg thuis helpen. Het consultatiebureau volgt gezondheid en ontwikkeling van kinderen van 0 tot 4 jaar. Kinderopvang kan via een kinderdagverblijf, gastouder of oppas; voor formele opvang kan onder voorwaarden kinderopvangtoeslag gelden.",
+        "en": "A midwife commonly monitors a normal pregnancy and birth. After birth, maternity care can help at home. The child health clinic monitors health and development from ages 0 to 4. Childcare may be provided by a daycare centre, registered childminder or babysitter; formal childcare may qualify for childcare allowance.",
+        "page": 15
+      },
+      {
+        "title": "Het schoolsysteem / The school system",
+        "nl": "Na voorschoolse voorzieningen gaan kinderen naar de basisschool. Daarna volgt voortgezet onderwijs: vmbo, havo of vwo. Vmbo sluit meestal aan op mbo; havo op hbo; vwo op universiteit, met mogelijke doorstroomroutes. Mbo leidt vooral op voor beroepen, hbo is hoger beroepsonderwijs en universiteit is wetenschappelijk onderwijs.",
+        "en": "After preschool provision, children attend primary school. Secondary education includes vmbo, havo and vwo. Vmbo commonly leads to mbo, havo to hbo and vwo to university, with transfer routes possible. Mbo is vocational education, hbo is higher professional education and university is academic education.",
+        "page": 15
+      },
+      {
+        "title": "Leerplicht en vrijheid van onderwijs / Compulsory education and freedom of education",
+        "nl": "Kinderen moeten naar school volgens de leerplicht. Ouders moeten zorgen voor inschrijving, aanwezigheid en contact met school; ongeoorloofd verzuim kan gevolgen hebben. Vrijheid van onderwijs betekent dat ouders een school mogen kiezen en dat scholen vanuit verschillende levensbeschouwingen kunnen bestaan, binnen de wet en kwaliteitseisen.",
+        "en": "Children must attend school under compulsory education law. Parents ensure enrolment, attendance and communication with the school; unauthorised absence may have consequences. Freedom of education allows school choice and schools based on different philosophies, within the law and quality requirements.",
+        "page": 16
+      },
+      {
+        "title": "Kosten en studiefinanciering / Costs and student finance",
+        "nl": "Kinderbijslag wordt uitgevoerd door de SVB en helpt bij algemene kinderkosten. Kinderopvangtoeslag loopt via de Belastingdienst en is gekoppeld aan formele opvang en voorwaarden. Een ouderbijdrage op school is doorgaans vrijwillig. DUO regelt onder meer studiefinanciering en onderwijsgegevens; lesgeld kan afhankelijk zijn van opleiding en leeftijd.",
+        "en": "Child benefit is administered by SVB and helps with general child costs. Childcare allowance is handled by the Tax Administration and depends on formal childcare and conditions. A school parental contribution is generally voluntary. DUO handles student finance and education records; tuition may depend on programme and age.",
+        "page": 16
+      },
+      {
+        "title": "Verantwoordelijkheid en hulp / Responsibility and support",
+        "nl": "Ouders zijn verantwoordelijk voor verzorging, veiligheid, schoolgang en begeleiding van hun minderjarige kinderen. School bespreekt ontwikkeling via ouderavonden, korte gesprekken en rapporten. Bij opvoedproblemen kun je vroeg hulp vragen via huisarts, gemeente of jeugdhulp. Voor psychische zorg kan verwijzing naar de ggz volgen. Mishandeling en verwaarlozing zijn nooit acceptabel.",
+        "en": "Parents are responsible for the care, safety, school attendance and guidance of minor children. Schools discuss development through parent meetings and reports. For parenting problems, seek early support from the GP, municipality or youth services. Mental health care may follow by referral. Abuse and neglect are never acceptable.",
+        "page": 16
+      }
+    ],
+    "questions": [
+      {
+        "id": "education-0",
+        "nl": "Wie begeleidt meestal een normale zwangerschap?",
+        "en": "Who usually supports a normal pregnancy?",
+        "answer": {
+          "nl": "De verloskundige",
+          "en": "The midwife."
+        },
+        "page": 18
+      },
+      {
+        "id": "education-1",
+        "nl": "Voor welke leeftijd is het consultatiebureau vooral bedoeld?",
+        "en": "Which ages does the child health clinic mainly serve?",
+        "answer": {
+          "nl": "Kinderen van 0 tot 4 jaar",
+          "en": "Children aged 0 to 4."
+        },
+        "page": 18
+      },
+      {
+        "id": "education-2",
+        "nl": "Welke standaardroute volgt na havo?",
+        "en": "What is the standard route after havo?",
+        "answer": {
+          "nl": "Hbo",
+          "en": "Higher professional education."
+        },
+        "page": 18
+      },
+      {
+        "id": "education-3",
+        "nl": "Wie betaalt kinderbijslag uit?",
+        "en": "Who pays child benefit?",
+        "answer": {
+          "nl": "De SVB.",
+          "en": "De SVB."
+        },
+        "page": 18
+      },
+      {
+        "id": "education-4",
+        "nl": "Wie regelt studiefinanciering?",
+        "en": "Who administers student finance?",
+        "answer": {
+          "nl": "DUO.",
+          "en": "DUO."
+        },
+        "page": 18
+      },
+      {
+        "id": "education-5",
+        "nl": "Wat doen ouders als opvoedproblemen groter worden?",
+        "en": "What should parents do when parenting problems grow?",
+        "answer": {
+          "nl": "Tijdig hulp vragen via huisarts, gemeente of jeugdhulp",
+          "en": "Seek early help through the GP, municipality or youth services."
+        },
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "health",
+    "nl": "Gezondheid en gezondheidszorg",
+    "en": "Health & care",
+    "pages": "19–23",
+    "lessons": [
+      {
+        "title": "Gezond leven en de huisarts / Healthy living and the GP",
+        "nl": "Gezond eten, bewegen, niet roken en weinig alcohol verkleinen gezondheidsrisico's. Bij klachten die niet vanzelf overgaan maak je een afspraak met de huisarts. De huisarts is meestal het eerste aanspreekpunt, geeft advies of een recept en verwijst zo nodig naar een specialist. De praktijkondersteuner helpt onder meer bij chronische of psychische klachten. Zorgverleners hebben beroepsgeheim.",
+        "en": "Healthy food, exercise, not smoking and limited alcohol reduce health risks. For symptoms that do not resolve, contact the GP. The GP is usually the first point of care, gives advice or a prescription and refers to a specialist when needed. A practice nurse supports chronic or mental-health issues. Healthcare professionals have confidentiality duties.",
+        "page": 19
+      },
+      {
+        "title": "Medicijnen en tandarts / Medicines and dental care",
+        "nl": "Medicijnen op recept haal je bij de apotheek. Zelfzorgmiddelen, zoals paracetamol, zijn ook bij apotheek of drogist te koop. De apotheek controleert gebruik en combinaties. Voor tandartszorg hebben volwassenen vaak een aanvullende tandartsverzekering nodig; voor kinderen gelden andere dekkingregels. Kom op tijd en meld afspraken tijdig af.",
+        "en": "Prescription medicines are collected at the pharmacy. Over-the-counter medicines such as paracetamol are sold by pharmacies and drugstores. The pharmacy checks use and interactions. Adults often need supplementary dental insurance; different coverage rules apply to children. Arrive on time and cancel appointments promptly.",
+        "page": 19
+      },
+      {
+        "title": "Ziekenhuis en specialist / Hospital and specialist",
+        "nl": "Voor een specialist is meestal een verwijsbrief van de huisarts nodig. Een polikliniek behandelt patiënten zonder opname; opname betekent dat je in het ziekenhuis verblijft. Neem identiteits- en verzekeringsgegevens mee. Bij psychische klachten kan de huisarts verwijzen naar ggz of andere ondersteuning. De GGD werkt aan publieke gezondheid, preventie en onder meer seksuele gezondheid.",
+        "en": "A specialist usually requires a GP referral. An outpatient clinic treats patients without admission; admission means staying in hospital. Bring identification and insurance details. For mental-health problems, the GP may refer to mental healthcare or other support. The municipal health service works on public health, prevention and sexual health.",
+        "page": 20
+      },
+      {
+        "title": "Ouderen en langdurige zorg / Older people and long-term care",
+        "nl": "Thuiszorg levert professionele hulp thuis. Mantelzorg is onbetaalde zorg door partner, familie, vrienden of bekenden. Als zelfstandig wonen niet meer gaat, kunnen andere woon- of verpleegvormen nodig zijn. Gemeente, zorgverzekeraar en zorgkantoor hebben verschillende taken; de route hangt af van het soort en de duur van de zorgvraag.",
+        "en": "Home care provides professional support at home. Informal care is unpaid care by a partner, family, friends or acquaintances. When independent living is no longer possible, supported or nursing accommodation may be needed. Municipality, insurer and care office have different roles depending on the type and duration of care.",
+        "page": 20
+      },
+      {
+        "title": "Zorgverzekering en digitale toegang / Health insurance and digital access",
+        "nl": "De basisverzekering is verplicht voor wie verzekeringsplichtig is. De premie betaal je aan de verzekeraar. Het eigen risico is het jaarlijkse bedrag van bepaalde zorg dat je eerst zelf betaalt; een eigen bijdrage is een aparte bijdrage voor een specifieke behandeling of middel. Aanvullende verzekering is vrijwillig. Bij lager inkomen kan zorgtoeslag mogelijk zijn. DigiD geeft veilig toegang tot persoonlijke overheids- en zorgdiensten; deel de code nooit.",
+        "en": "Basic health insurance is compulsory for those subject to the insurance requirement. You pay a premium to the insurer. The deductible is the annual amount of certain care you pay first; a co-payment is a separate contribution for a specific service or product. Supplementary insurance is optional. Lower-income residents may qualify for healthcare allowance. DigiD provides secure access to personal government and health services; never share the code.",
+        "page": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "health-0",
+        "nl": "Wie is meestal het eerste aanspreekpunt bij niet-spoedeisende klachten?",
+        "en": "Who is usually the first point of contact for non-emergency symptoms?",
+        "answer": {
+          "nl": "De huisarts",
+          "en": "The GP."
+        },
+        "page": 23
+      },
+      {
+        "id": "health-1",
+        "nl": "Wanneer bel je 112?",
+        "en": "When do you call 112?",
+        "answer": {
+          "nl": "Bij direct levensgevaar",
+          "en": "For an immediate threat to life."
+        },
+        "page": 23
+      },
+      {
+        "id": "health-2",
+        "nl": "Waar haal je medicijnen op recept?",
+        "en": "Where do you collect prescription medicines?",
+        "answer": {
+          "nl": "Bij de apotheek",
+          "en": "At the pharmacy."
+        },
+        "page": 23
+      },
+      {
+        "id": "health-3",
+        "nl": "Wat is het verschil tussen thuiszorg en mantelzorg?",
+        "en": "What is the difference between home care and informal care?",
+        "answer": {
+          "nl": "Thuiszorg is professioneel; mantelzorg wordt door naasten gegeven",
+          "en": "Home care is professional; informal care is provided by people close to you."
+        },
+        "page": 23
+      },
+      {
+        "id": "health-4",
+        "nl": "Is de aanvullende verzekering verplicht?",
+        "en": "Is supplementary insurance compulsory?",
+        "answer": {
+          "nl": "Nee",
+          "en": "No."
+        },
+        "page": 23
+      },
+      {
+        "id": "health-5",
+        "nl": "Mag je je DigiD-code delen met een hulpverlener?",
+        "en": "May you share your DigiD code with a helper?  KNM Study Book - Nederlands + English 23",
+        "answer": {
+          "nl": "Nee, houd DigiD persoonlijk en geheim",
+          "en": "No, keep DigiD personal and secret."
+        },
+        "page": 23
+      }
+    ]
+  },
+  {
+    "id": "institutions",
+    "nl": "Instanties",
+    "en": "Public institutions",
+    "pages": "24–27",
+    "lessons": [
+      {
+        "title": "De gemeente / The municipality",
+        "nl": "De gemeente registreert persoonsgegevens en adres in de Basisregistratie Personen (BRP), vroeger GBA genoemd. Je meldt er een verhuizing en vraagt er veel documenten en vergunningen aan. Gemeenten hebben taken rond bijstand, jeugdhulp, afval, openbare ruimte en ondersteuning. Verblijfsvergunning en naturalisatie zijn landelijke procedures waarbij ook andere instanties betrokken zijn.",
+        "en": "The municipality records personal data and address in the Personal Records Database (BRP), formerly called GBA. You report a move and request many documents and permits there. Municipal duties include social assistance, youth support, waste, public space and support services. Residence permits and naturalisation are national procedures involving other agencies too.",
+        "page": 24
+      },
+      {
+        "title": "Politie en veiligheid / Police and safety",
+        "nl": "In Nederland geldt identificatieplicht in situaties waarin een bevoegde ambtenaar daar een geldige reden voor heeft. Bij diefstal of ander strafbaar feit kun je aangifte doen. Bel 112 alleen bij spoed of direct gevaar; voor niet-spoed gebruik je het algemene politienummer of online contact. De politie bewaakt openbare orde, verleent hulp en onderzoekt strafbare feiten.",
+        "en": "In the Netherlands, identification must be shown in situations where an authorised officer has a valid reason to request it. You can file a report after theft or another offence. Call 112 only for emergencies or immediate danger; use the non-emergency number or online contact otherwise. Police protect public order, provide assistance and investigate crime.",
+        "page": 24
+      },
+      {
+        "title": "Belasting en toeslagen / Tax and allowances",
+        "nl": "De Belastingdienst gebruikt je BSN voor belastingzaken. Met DigiD regel je persoonlijke zaken online. Toeslagen, zoals huur-, zorg- en kinderopvangtoeslag, hangen af van je situatie; wijzigingen in inkomen of gezin moet je snel doorgeven om terugbetaling te voorkomen. Ben je het niet eens met een besluit, dan kun je binnen de termijn bezwaar maken. Bij betalingsproblemen kun je soms een regeling, betaling in termijnen of kwijtschelding vragen.",
+        "en": "The Tax Administration uses your citizen service number for tax matters. DigiD gives access to personal online services. Allowances such as rent, healthcare and childcare allowance depend on your circumstances; report income or family changes promptly to avoid repayment. If you disagree with a decision, you can object within the deadline. Payment problems may allow an arrangement, instalments or remission.",
+        "page": 25
+      },
+      {
+        "title": "Juridische en sociale hulp / Legal and social support",
+        "nl": "Het Juridisch Loket geeft eerste juridische informatie en advies. Een advocaat kan een zaak juridisch behandelen; afhankelijk van inkomen kan gesubsidieerde rechtsbijstand mogelijk zijn. Een antidiscriminatievoorziening helpt bij discriminatie. Voor sociale problemen kun je ook bij gemeente, sociaal wijkteam of maatschappelijk werk terecht. Bewaar brieven, bewijs en termijnen.",
+        "en": "The Legal Services Counter provides initial legal information and advice. A lawyer can handle a legal case; subsidised legal aid may be possible depending on income. An anti-discrimination service helps with discrimination. For social problems, contact the municipality, neighbourhood team or social work. Keep letters, evidence and deadlines.",
+        "page": 25
+      },
+      {
+        "title": "Banken, verzekeringen en communicatie / Banks, insurance and communication",
+        "nl": "Met een bankrekening kun je betalen, ontvangen en internetbankieren. Een automatische incasso geeft een organisatie toestemming om bedragen af te schrijven; controleer afschriften. Deel pincode, DigiD of verificatiecodes nooit. Overheidsbrieven kunnen een actie en deadline bevatten. Lees afzender, onderwerp, datum en bezwaar-informatie; vraag hulp als je iets niet begrijpt.",
+        "en": "A bank account lets you pay, receive money and bank online. A direct debit authorises an organisation to withdraw amounts; check statements. Never share PINs, DigiD or verification codes. Government letters may require action by a deadline. Check sender, subject, date and objection information; seek help if unclear.",
+        "page": 25
+      }
+    ],
+    "questions": [
+      {
+        "id": "institutions-0",
+        "nl": "Waar meld je een verhuizing?",
+        "en": "Where do you report a move?",
+        "answer": {
+          "nl": "Bij de gemeente",
+          "en": "At the municipality."
+        },
+        "page": 27
+      },
+      {
+        "id": "institutions-1",
+        "nl": "Hoe heet de actuele bevolkingsregistratie?",
+        "en": "What is the current personal records database called?",
+        "answer": {
+          "nl": "BRP.",
+          "en": "BRP."
+        },
+        "page": 27
+      },
+      {
+        "id": "institutions-2",
+        "nl": "Wat doe je als je het niet eens bent met een overheidsbesluit?",
+        "en": "What do you do if you disagree with a government decision?",
+        "answer": {
+          "nl": "Binnen de termijn bezwaar maken",
+          "en": "File an objection within the deadline."
+        },
+        "page": 27
+      },
+      {
+        "id": "institutions-3",
+        "nl": "Welke instantie helpt eerst met juridische informatie?",
+        "en": "Which institution provides initial legal information?",
+        "answer": {
+          "nl": "Het Juridisch Loket",
+          "en": "The Legal Services Counter."
+        },
+        "page": 27
+      },
+      {
+        "id": "institutions-4",
+        "nl": "Wanneer bel je de politie via 112?",
+        "en": "When do you call police through 112?",
+        "answer": {
+          "nl": "Bij spoed of direct gevaar",
+          "en": "For an emergency or immediate danger."
+        },
+        "page": 27
+      },
+      {
+        "id": "institutions-5",
+        "nl": "Moet je je DigiD-code aan een bankmedewerker geven?",
+        "en": "Should you give your DigiD code to a bank employee?",
+        "answer": {
+          "nl": "Nee, nooit",
+          "en": "No, never."
+        },
+        "page": 27
+      }
+    ]
+  },
+  {
+    "id": "government",
+    "nl": "Staatsinrichting en rechtsstaat",
+    "en": "Government & rights",
+    "pages": "28–31",
+    "lessons": [
+      {
+        "title": "Rechtsstaat en Grondwet / Constitutional state and Constitution",
+        "nl": "Nederland is een democratische rechtsstaat: burgers én overheid zijn aan de wet gebonden. De Grondwet bevat regels over staatsinrichting en grondrechten, zoals gelijke behandeling, vrijheid van meningsuiting, godsdienst en onderwijs. Grondrechten hebben grenzen wanneer rechten botsen of de wet anderen beschermt. Discriminatie en geweld zijn verboden.",
+        "en": "The Netherlands is a democratic constitutional state: citizens and government are bound by law. The Constitution contains rules on government and fundamental rights, including equal treatment and freedoms of expression, religion and education. Rights have limits when rights conflict or law protects others. Discrimination and violence are prohibited.",
+        "page": 28
+      },
+      {
+        "title": "Scheiding der machten / Separation of powers",
+        "nl": "De wetgevende macht maakt wetten: regering en Staten-Generaal werken daarin samen. De uitvoerende macht voert beleid en wetten uit: de regering en het bestuur. De rechterlijke macht spreekt onafhankelijk recht. Macht is verdeeld zodat geen orgaan alles bepaalt en zodat controle mogelijk is.",
+        "en": "The legislative power makes laws: government and Parliament work together. The executive power implements policy and laws through government and administration. The judiciary independently decides cases. Power is divided to prevent one body controlling everything and to enable checks.",
+        "page": 28
+      },
+      {
+        "title": "Parlement en kabinet / Parliament and cabinet",
+        "nl": "De Tweede Kamer heeft 150 leden, controleert het kabinet, bespreekt beleid en kan wetsvoorstellen wijzigen of indienen. De Eerste Kamer heeft 75 leden en beoordeelt aangenomen wetsvoorstellen als geheel. Het kabinet bestuurt en bestaat uit ministers en staatssecretarissen. Op Prinsjesdag presenteert de regering plannen; de koning leest de Troonrede.",
+        "en": "The House of Representatives has 150 members, scrutinises the cabinet, debates policy and can amend or introduce bills. The Senate has 75 members and reviews adopted bills as a whole. The cabinet governs and consists of ministers and state secretaries. On Budget Day the government presents plans and the King reads the Speech from the Throne.",
+        "page": 29
+      },
+      {
+        "title": "Bestuurslagen / Levels of government",
+        "nl": "Het Rijk behandelt landelijke onderwerpen. Provincies werken onder meer aan ruimte, natuur en bereikbaarheid. Gemeenten regelen lokale zaken. Waterschappen beheren waterveiligheid en waterpeil. De Europese Unie maakt op afgesproken terreinen gezamenlijke regels. Elke bestuurslaag heeft eigen gekozen organen en verantwoordelijkheden.",
+        "en": "National government handles nationwide issues. Provinces work on areas such as spatial planning, nature and accessibility. Municipalities handle local matters. Water authorities manage water safety and levels. The European Union makes shared rules in agreed fields. Each level has its own elected bodies and responsibilities.",
+        "page": 29
+      },
+      {
+        "title": "Verkiezingen en politieke verhoudingen / Elections and political relations",
+        "nl": "Actief kiesrecht is mogen stemmen; passief kiesrecht is verkiesbaar zijn. Na verkiezingen vormen partijen die samen een meerderheid zoeken een coalitie; partijen buiten het bestuur vormen de oppositie. Links-rechts en progressief-conservatief zijn verschillende politieke assen. Een lijsttrekker leidt een kandidatenlijst tijdens verkiezingen.",
+        "en": "Active voting rights mean the right to vote; passive voting rights mean eligibility to stand. After elections, parties seeking a governing majority form a coalition; parties outside government form the opposition. Left-right and progressive-conservative are different political dimensions. A lead candidate heads a party list during elections.",
+        "page": 29
+      }
+    ],
+    "questions": [
+      {
+        "id": "government-0",
+        "nl": "Waaruit bestaat het parlement?",
+        "en": "What makes up Parliament?",
+        "answer": {
+          "nl": "Eerste Kamer en Tweede Kamer",
+          "en": "Senate and House of Representatives."
+        },
+        "page": 31
+      },
+      {
+        "id": "government-1",
+        "nl": "Waaruit bestaat het kabinet?",
+        "en": "What makes up the cabinet?",
+        "answer": {
+          "nl": "Ministers en staatssecretarissen",
+          "en": "Ministers and state secretaries."
+        },
+        "page": 31
+      },
+      {
+        "id": "government-2",
+        "nl": "Hoeveel leden heeft de Tweede Kamer?",
+        "en": "How many members does the House of Representatives have?",
+        "answer": {
+          "nl": "150.",
+          "en": "150."
+        },
+        "page": 31
+      },
+      {
+        "id": "government-3",
+        "nl": "Welke bestuurslaag beheert waterpeil en dijken?",
+        "en": "Which level manages water levels and dikes?",
+        "answer": {
+          "nl": "Het waterschap",
+          "en": "The water authority."
+        },
+        "page": 31
+      },
+      {
+        "id": "government-4",
+        "nl": "Wat is passief kiesrecht?",
+        "en": "What is passive voting rights?",
+        "answer": {
+          "nl": "Het recht om kandidaat te zijn",
+          "en": "The right to stand as a candidate."
+        },
+        "page": 31
+      },
+      {
+        "id": "government-5",
+        "nl": "Wat is de oppositie?",
+        "en": "What is the opposition?",
+        "answer": {
+          "nl": "Partijen die niet in het bestuur/de coalitie zitten",
+          "en": "Parties outside the governing coalition."
+        },
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "history",
+    "nl": "Geschiedenis en geografie",
+    "en": "History & geography",
+    "pages": "32–35",
+    "lessons": [
+      {
+        "title": "Van Opstand tot Gouden Eeuw / From Revolt to Golden Age",
+        "nl": "De Tachtigjarige Oorlog duurde van 1568 tot 1648 en was een opstand tegen de Spaanse koning Filips II. Willem van Oranje werd een belangrijke leider van de Opstand en komt voor in het Wilhelmus. Na de onafhankelijkheid ontstond de Republiek der Zeven Verenigde Nederlanden. In de 17e eeuw groeiden handel en welvaart; de VOC speelde een grote rol, samen met koloniale overheersing en uitbuiting.",
+        "en": "The Eighty Years' War lasted from 1568 to 1648 and was a revolt against Spanish King Philip II. William of Orange became an important leader and appears in the national anthem. Independence led to the Dutch Republic. In the seventeenth century trade and prosperity grew; the VOC played a major role alongside colonial rule and exploitation.",
+        "page": 32
+      },
+      {
+        "title": "Industrie, oorlog en verandering / Industry, war and social change",
+        "nl": "De industrialisatie in de 19e eeuw bracht fabrieken en zware arbeidsomstandigheden; socialisten streden voor arbeidersrechten. Tijdens de Tweede Wereldoorlog was Nederland bezet door nazi-Duitsland. Koningin Wilhelmina verbleef in Engeland; het verzet hielp onderduikers en verspreidde informatie. Nederland werd in mei 1945 bevrijd. Vanaf de jaren zestig nam kerkelijke invloed af en kwamen arbeidsmigranten naar Nederland.",
+        "en": "Nineteenth-century industrialisation brought factories and harsh labour conditions; socialists fought for workers' rights. During the Second World War the Netherlands was occupied by Nazi Germany. Queen Wilhelmina stayed in England; resistance groups helped people in hiding and spread information. The country was liberated in May 1945. From the 1960s church influence declined and labour migrants arrived.",
+        "page": 32
+      },
+      {
+        "title": "Water en land / Water and land",
+        "nl": "De watersnoodramp van 1953 trof vooral Zeeland en Zuid-Holland en leidde tot het Deltaplan en de Deltawerken. Dijken en duinen beschermen het land. De Afsluitdijk sloot de voormalige Zuiderzee af; het IJsselmeer ontstond. Polders zijn drooggelegd land dat vroeger water was. Flevoland bestaat grotendeels uit polders. Het zeeklimaat zorgt doorgaans voor milde winters en koele zomers.",
+        "en": "The 1953 flood disaster struck Zeeland and South Holland and led to the Delta Plan and Delta Works. Dikes and dunes protect the land. The Afsluitdijk closed the former Zuiderzee, creating the IJsselmeer. Polders are reclaimed land that was once water. Flevoland consists largely of polders. The maritime climate generally brings mild winters and cool summers.",
+        "page": 33
+      },
+      {
+        "title": "Steden, regio's en Koninkrijk / Cities, regions and the Kingdom",
+        "nl": "Amsterdam is de hoofdstad; Den Haag is het politieke centrum en zetel van regering en parlement. Rotterdam heeft een grote Europese haven en Utrecht is een centraal verkeersknooppunt. Samen vormen deze vier steden de kern van de Randstad. De Veluwe is een natuurrijk gebied; de Waddeneilanden liggen in het noorden. Aruba, Curaçao en Sint Maarten zijn landen binnen het Koninkrijk; Bonaire, Sint Eustatius en Saba zijn bijzondere gemeenten van Nederland.",
+        "en": "Amsterdam is the capital; The Hague is the political centre and seat of government and Parliament. Rotterdam has a major European port and Utrecht is a central transport hub. Together these four cities form the core of the Randstad. The Veluwe is a nature-rich region and the Wadden Islands lie in the north. Aruba, Curaçao and Sint Maarten are countries within the Kingdom; Bonaire, Sint Eustatius and Saba are special municipalities of the Netherlands.",
+        "page": 33
+      },
+      {
+        "title": "Openbaar vervoer / Public transport",
+        "nl": "Trein, bus, tram en metro vormen het openbaar vervoer. Plan je reis, zorg voor een geldig vervoersbewijs en check waar nodig in én uit. Houd rekening met andere reizigers, geef ruimte bij uitstappen en respecteer regels zoals stilte in een stiltecoupé. Bij vertraging of een storing controleer je reisinformatie en volg je aanwijzingen van de vervoerder.",
+        "en": "Trains, buses, trams and metros form public transport. Plan the journey, carry a valid ticket and check in and out where required. Consider other passengers, allow people to exit and respect rules such as quiet carriages. During delays or disruptions, check travel information and follow operator instructions.",
+        "page": 33
+      }
+    ],
+    "questions": [
+      {
+        "id": "history-0",
+        "nl": "Wanneer eindigde de Tachtigjarige Oorlog?",
+        "en": "When did the Eighty Years' War end?",
+        "answer": {
+          "nl": "1648.",
+          "en": "1648."
+        },
+        "page": 35
+      },
+      {
+        "id": "history-1",
+        "nl": "Wie was een belangrijke leider van de Opstand?",
+        "en": "Who was an important leader of the Revolt?",
+        "answer": {
+          "nl": "Willem van Oranje",
+          "en": "William of Orange."
+        },
+        "page": 35
+      },
+      {
+        "id": "history-2",
+        "nl": "Welke ramp leidde tot het Deltaplan?",
+        "en": "Which disaster led to the Delta Plan?",
+        "answer": {
+          "nl": "De watersnoodramp van 1953",
+          "en": "The 1953 flood disaster."
+        },
+        "page": 35
+      },
+      {
+        "id": "history-3",
+        "nl": "Wat is het verschil tussen hoofdstad en regeringszetel?",
+        "en": "What is the difference between capital and seat of government?",
+        "answer": {
+          "nl": "Amsterdam is de hoofdstad; Den Haag is de regeringszetel",
+          "en": "Amsterdam is the capital; The Hague is the seat of government."
+        },
+        "page": 35
+      },
+      {
+        "id": "history-4",
+        "nl": "Welke vier steden vormen de kern van de Randstad?",
+        "en": "Which four cities form the core of the Randstad?",
+        "answer": {
+          "nl": "Amsterdam, Rotterdam, Den Haag en Utrecht.",
+          "en": "Amsterdam, Rotterdam, Den Haag en Utrecht."
+        },
+        "page": 35
+      },
+      {
+        "id": "history-5",
+        "nl": "Wat moet je bij veel OV-reizen aan begin en einde doen?",
+        "en": "What must you do at the start and end of many public transport journeys?",
+        "answer": {
+          "nl": "Inchecken en uitchecken",
+          "en": "Check in and check out."
+        },
+        "page": 35
+      }
+    ]
+  }
+]

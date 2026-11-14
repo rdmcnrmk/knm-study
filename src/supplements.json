@@ -1,0 +1,1746 @@
+{
+  "lessons": [
+    {
+      "id": "housing-detail-rights",
+      "topic": "housing",
+      "title": "Huurdersrechten en onderhoud / Tenant rights and maintenance",
+      "nl": "Groot onderhoud is meestal voor de verhuurder; klein dagelijks onderhoud voor de huurder. Meld een gebrek schriftelijk en bewaar foto’s en berichten. Wordt het niet opgelost, vraag dan advies aan het Juridisch Loket of de Huurcommissie. Welke procedure mogelijk is, hangt af van de huursector en de klacht. Een huurverhoging of servicekostenafrekening kun je laten controleren. Stop niet zonder juridisch advies met huur betalen.",
+      "en": "Major maintenance is generally the landlord’s responsibility; small everyday repairs are the tenant’s. Report defects in writing and retain photographs and messages. If unresolved, seek advice from the Legal Services Counter or Rent Tribunal. Available procedures depend on the rental sector and complaint. A rent increase or service-charge statement can be checked. Do not stop paying rent without legal advice.",
+      "page": 0,
+      "targets": [
+        "3.1.1",
+        "3.1.2"
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/woning-huren/vraag-en-antwoord/woning-huren/hoe-zorg-ik-ervoor-dat-de-verhuurder-slecht-onderhoud-aanpakt",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/woning-huren/welke-kosten-zijn-voor-de-huurder-en-welke-voor-de-verhuurder"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "housing-detail-utilities",
+      "topic": "housing",
+      "title": "Energiecontract en jaarafrekening / Energy contracts and annual bills",
+      "nl": "Bij een vast tarief blijft de afgesproken prijs per eenheid tijdens de vaste periode gelijk; een variabel tarief kan veranderen. Een gelijk maandbedrag betekent niet dat je verbruik onbeperkt is. Op de jaarafrekening worden voorschotten vergeleken met de werkelijke kosten. Noteer meterstanden bij een verhuizing. Isoleren, korter douchen en onnodige apparaten uitschakelen besparen energie. Afvalregels verschillen per gemeente; controleer de lokale afvalkalender.",
+      "en": "With a fixed tariff, the agreed unit price stays fixed during the agreed period; a variable tariff can change. An equal monthly payment does not mean unlimited consumption. The annual statement compares advance payments with actual costs. Record meter readings when moving. Insulation, shorter showers and switching off unused appliances save energy. Waste rules vary by municipality; check the local collection calendar.",
+      "page": 0,
+      "targets": [
+        "3.2.1",
+        "3.2.2",
+        "3.3.1"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://consument.acm.nl/elektriciteit-en-gas/wat-betaal-ik-voor-mijn-energie/vaste-variabele-leveringskosten-energie?source=energietaal"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "housing-detail-insurance",
+      "topic": "housing",
+      "title": "Inboedel, opstal en aansprakelijkheid / Contents, building and liability",
+      "nl": "Een inboedelverzekering gaat over spullen in huis. Een opstalverzekering gaat over het gebouw en vaste onderdelen; een hypotheekverstrekker kan deze eisen. Dit is niet hetzelfde als een algemene wettelijke verplichting voor iedere eigenaar. Een particuliere aansprakelijkheidsverzekering is meestal vrijwillig en kan schade aan anderen dekken. WA voor een motorrijtuig is wel verplicht. Lees de polis: niet iedere schade is verzekerd. Bij rook, brand of direct gevaar staat veiligheid voorop.",
+      "en": "Contents insurance concerns belongings. Building insurance concerns the structure and fixed parts; a mortgage lender may require it. This is different from a general legal duty for every owner. Personal liability insurance is usually voluntary and can cover damage to others. Motor liability insurance is compulsory. Read the policy: not every loss is covered. With smoke, fire or immediate danger, safety comes first.",
+      "page": 0,
+      "targets": [
+        "6.6.1"
+      ],
+      "refs": [
+        "https://www.interpolis.nl/veelgestelde-vragen/verzekeringen/opstalverzekering"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "housing-detail-search",
+      "topic": "housing",
+      "title": "Woning zoeken met een realistisch budget / A realistic housing search",
+      "nl": "Woningaanbod, wachttijden en inschrijfregels verschillen per regio. Inschrijven bij een woningcorporatie is geen garantie op een snelle woning. Vergelijk sociale huur, andere huur en koop met je inkomen. Denk ook aan borg, servicekosten, energie, water en lokale belastingen. Een urgentieverklaring heeft voorwaarden. De eerste huisvesting van een statushouder via de gemeente is een andere route dan zelfstandig een volgende woning zoeken. Een gezinsmigrant kan bij familie intrekken.",
+      "en": "Housing supply, waiting times and registration rules differ by region. Joining a housing-association list does not guarantee a home quickly. Compare social rent, other rental options and buying against your income. Include the deposit, service charges, utilities and local taxes in your budget. Urgency status has conditions. A municipality’s initial housing route for a recognised refugee differs from independently finding a subsequent home. A family migrant may join relatives.",
+      "page": 0,
+      "targets": [
+        "3.1.1",
+        "3.1.3"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "work-detail-benefits",
+      "topic": "work",
+      "title": "WW, bijstand en de MAP / Unemployment, assistance and MAP",
+      "nl": "WW loopt via UWV en hangt onder meer af van je arbeidsverleden en de reden van werkloosheid. Bijstand is een vangnet via de gemeente als je onvoldoende inkomen en middelen hebt en aan voorwaarden voldoet. Een uitkering geeft ook plichten: verstrek juiste informatie, meld wijzigingen en volg de afspraken over werk zoeken. De MAP wordt via de gemeente geregeld voor wie deze module moet volgen. Kijk hiervoor in je PIP en Mijn Inburgering.",
+      "en": "WW unemployment benefit is administered by UWV; eligibility depends on factors including work history and why employment ended. Municipal social assistance is a safety net for people with insufficient income and resources who meet its conditions. Benefits also bring duties: provide accurate information, report changes and follow job-search arrangements. MAP is organised through the municipality for people required to complete it. Check your PIP and Mijn Inburgering.",
+      "page": 0,
+      "targets": [
+        "1.1.1",
+        "1.1.7",
+        "1.1.8"
+      ],
+      "refs": [
+        "https://www.uwv.nl/nl/rechten-plichten/algemene-plichten"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "work-detail-representation",
+      "topic": "work",
+      "title": "Vakbond, ondernemingsraad en ziekte / Unions, works councils and illness",
+      "nl": "Een vakbond komt op voor werknemers en onderhandelt over cao’s. Een ondernemingsraad heeft medezeggenschap binnen een organisatie; dit is niet hetzelfde als een vakbond. Een vertrouwenspersoon kan helpen bij ongewenst gedrag of discriminatie. Bij ziekte volg je de ziekmeldprocedure van de werkgever. De bedrijfsarts gaat over gezondheid in relatie tot werk; de huisarts behandelt gewone zorgvragen. Bereid een beoordelingsgesprek voor met voorbeelden en vragen over je werk. Een werkgever en werknemer maken afspraken over werktijden, verlof, veilig werken en loon. Belastingen en premies worden op het brutoloon ingehouden. Je kunt vragen stellen over arbeidsvoorwaarden en daarover onderhandelen.",
+      "en": "A trade union represents workers and negotiates collective agreements. A works council participates in decisions inside an organisation; it is different from a union. A confidential adviser can help with inappropriate behaviour or discrimination. When ill, follow your employer’s reporting procedure. An occupational physician handles health in relation to work; a GP handles ordinary healthcare. Prepare for a performance review with examples and questions about your work. Employer and employee agree on hours, leave, safety and pay. Taxes and contributions are deducted from gross salary. You can ask about employment conditions and negotiate them.",
+      "page": 0,
+      "targets": [
+        "1.2.1",
+        "1.2.2",
+        "1.3.1"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "work-detail-enterprise",
+      "topic": "work",
+      "title": "Ondernemen en sociale zekerheid / Self-employment and social protection",
+      "nl": "Voor een onderneming regel je inschrijving bij de KvK, administratie en belastingen. Ondernemers hebben niet automatisch dezelfde bescherming als werknemers. Denk aan pensioen en een arbeidsongeschiktheidsverzekering. Ontvang je een uitkering, overleg dan vóór de start met UWV of de gemeente: ondernemen kan gevolgen hebben voor je uitkering en er gelden voorwaarden. Omzet is niet hetzelfde als winst; bedrijfskosten en belasting gaan er nog af.",
+      "en": "For a business, arrange Chamber of Commerce registration, bookkeeping and taxes. Entrepreneurs do not automatically have the same protection as employees. Consider retirement savings and disability cover. If receiving benefits, discuss your plans with UWV or the municipality before starting: self-employment may affect benefits and conditions apply. Turnover is not profit; business costs and tax still have to be accounted for.",
+      "page": 0,
+      "targets": [
+        "1.4.1"
+      ],
+      "refs": [
+        "https://www.uwv.nl/nl/rechten-plichten/algemene-plichten"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "work-detail-qualifications",
+      "topic": "work",
+      "title": "Sollicitatie, diploma en bijscholing / Applications, qualifications and training",
+      "nl": "Een vacature noemt taken en eisen. Koppel je cv aan relevante opleiding en ervaring en bereid voorbeelden voor het gesprek voor. Werkgevers kunnen taal- en communicatievaardigheden vragen. Een diplomawaardering helpt het niveau van een buitenlands diploma te vergelijken; dit is niet automatisch toestemming voor ieder gereglementeerd beroep. Bijscholing of een beroepsopleiding kan je kansen vergroten. Bespreek scholing zo nodig met gemeente of UWV. Deeltijdwerk betekent minder uren dan een voltijdbaan.",
+      "en": "A vacancy describes duties and requirements. Connect your CV to relevant education and experience and prepare examples for the interview. Employers may require language and communication skills. Credential evaluation helps compare a foreign qualification; it does not automatically authorise every regulated profession. Further training or vocational education can improve opportunities. Discuss training with the municipality or UWV if relevant. Part-time employment involves fewer hours than a full-time job.",
+      "page": 0,
+      "targets": [
+        "1.1.2",
+        "1.1.3",
+        "1.1.4",
+        "1.1.5",
+        "1.1.6"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "values-detail-customs",
+      "topic": "values",
+      "title": "Gewoonten verschillen / Customs differ",
+      "nl": "Niet iedereen in Nederland heeft dezelfde gewoonten. Omgangsvormen kunnen verschillen per familie, regio, generatie, geloof en sociale groep. Direct spreken komt voor, maar betekent niet dat beledigen of discrimineren toegestaan is. Een afspraak maken, op tijd komen en tijdig afzeggen worden vaak gewaardeerd. Vraag bij twijfel hoe iets in die situatie werkt. Onderscheid een sociale gewoonte van een wettelijke regel: niet iedere gewoonte is verplicht.",
+      "en": "People in the Netherlands do not all share the same customs. Interaction can vary by family, region, generation, religion and social group. Direct speech is common, but does not mean insults or discrimination are always lawful. Making appointments, arriving on time and cancelling promptly are often appreciated. If unsure, ask how things work in that setting. Distinguish a social custom from a legal rule: not every custom is compulsory.",
+      "page": 0,
+      "targets": [
+        "2.1.1",
+        "2.1.2",
+        "2.1.3"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "values-detail-calendar",
+      "topic": "values",
+      "title": "Feestdagen en herdenken / Celebrations and remembrance",
+      "nl": "4 mei is Nationale Dodenherdenking; 5 mei is Bevrijdingsdag. Koningsdag is normaal op 27 april; valt die datum op zondag, dan wordt het op 26 april gevierd. Sinterklaas wordt vaak op 5 december gevierd. Keti Koti op 1 juli herdenkt en viert de afschaffing van slavernij. Carnaval en het Suikerfeest zijn voor sommige groepen belangrijk. Een feestdag betekent niet automatisch een vrije werkdag: kijk in je cao of contract.",
+      "en": "4 May is National Remembrance Day; 5 May is Liberation Day. King’s Day is normally 27 April, or 26 April when the date falls on a Sunday. Sinterklaas is often celebrated on 5 December. Keti Koti on 1 July commemorates and celebrates the abolition of slavery. Carnival and Eid al-Fitr matter to some communities. A public holiday does not automatically mean a day off work: check the collective agreement or contract.",
+      "page": 0,
+      "targets": [
+        "2.1.5",
+        "2.2.2"
+      ],
+      "refs": [
+        "https://www.government.nl/home/question-and-answer/work/public-holidays-in-the-netherlands",
+        "https://www.nationaalarchief.nl/en/node/93843"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "values-detail-participation",
+      "topic": "values",
+      "title": "Vrijwilligerswerk en sociale netwerken / Volunteering and social networks",
+      "nl": "Een sportvereniging, buurthuis, schoolactiviteit of vrijwilligersorganisatie kan helpen om mensen te leren kennen. Vrijwilligerswerk is meestal onbetaald; afspraken en verantwoordelijkheden blijven belangrijk. Een sociaal netwerk kan steun geven, maar vervangt professionele hulp niet als die nodig is. Een gemeente of wijkteam kan helpen bij eenzaamheid en meedoen in de buurt. Vraag wat de activiteit inhoudt en welke kosten of afspraken gelden.",
+      "en": "A sports club, community centre, school activity or volunteering organisation can help you meet people. Volunteering is usually unpaid; commitments and responsibilities still matter. A social network offers support, but does not replace professional help when needed. A municipality or neighbourhood team may help with isolation and participation. Ask what an activity involves and what costs or arrangements apply.",
+      "page": 0,
+      "targets": [
+        "2.2.1",
+        "4.5.1"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "values-detail-relationships",
+      "topic": "values",
+      "title": "Relaties, gelijke rechten en grenzen / Relationships, equal rights and boundaries",
+      "nl": "Mensen kunnen trouwen, een geregistreerd partnerschap aangaan of ongehuwd samenwonen. Een huwelijk kan ook tussen partners van hetzelfde geslacht. Een persoon mag zelf keuzes maken over partner, werk, studie en geloof. Familie of traditie geeft geen recht op dwang of geweld. Ook binnen een relatie zijn toestemming en lichamelijke grenzen belangrijk. Huiselijk geweld en kindermishandeling zijn geen toegestane privézaken. Bij direct gevaar bel je 112.",
+      "en": "People may marry, enter a registered partnership or live together without marrying. Marriage is also possible for same-sex couples. Individuals make their own choices about partners, work, study and religion. Family or tradition does not justify coercion or violence. Consent and bodily boundaries matter within relationships too. Domestic violence and child abuse are not permitted private matters. Call 112 for immediate danger.",
+      "page": 0,
+      "targets": [
+        "2.1.4",
+        "7.2.1",
+        "7.2.6",
+        "7.2.8"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "health-detail-triage",
+      "topic": "health",
+      "title": "Huisarts, huisartsenpost of 112? / GP, out-of-hours GP or 112?",
+      "nl": "Bij gewone klachten maak je een afspraak bij je huisarts. Is het ’s avonds, ’s nachts of in het weekend dringend en kan het niet wachten tot de eigen huisarts open is, bel dan de huisartsenpost. Bel bij levensgevaar 112. Bel de huisartsenpost eerst; je gaat er niet zomaar zonder afspraak heen. Voor specialistische zorg is vaak een verwijzing nodig. Ook met psychische klachten kun je bij de huisarts of praktijkondersteuner terecht.",
+      "en": "For ordinary symptoms, arrange a GP appointment. For urgent problems that cannot wait until your own practice opens during evenings, nights or weekends, call the out-of-hours GP service. Call 112 for a life-threatening emergency. Telephone the out-of-hours service first rather than simply arriving without an appointment. Specialist care often needs a referral. You can also discuss mental health concerns with the GP or practice support worker.",
+      "page": 0,
+      "targets": [
+        "4.1.1",
+        "4.2.1",
+        "4.3.1",
+        "4.3.2"
+      ],
+      "refs": [
+        "https://www.zorginstituutnederland.nl/verzekerde-zorg/h/huisarts-zvw"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "health-detail-costs",
+      "topic": "health",
+      "title": "Premie, eigen risico en eigen bijdrage / Premium, deductible and co-payment",
+      "nl": "Premie is het bedrag dat je voor je verzekering betaalt. Eigen risico is een jaarlijks bedrag voor bepaalde zorg uit het basispakket, voor volwassenen. Een huisartsbezoek valt niet onder het verplichte eigen risico; medicijnen of apart onderzoek na dat bezoek kunnen dat wel doen. Een eigen bijdrage is een ander bedrag dat voor bepaalde zorg kan gelden. Aanvullende verzekering is vrijwillig. De polis bepaalt vergoedingen en voorwaarden. Vraag de verzekeraar naar betaling in termijnen. Het basispakket omvat onder voorwaarden onder meer huisarts, ziekenhuis, medicijnen en geestelijke gezondheidszorg. Voor kinderen gelden andere regels, bijvoorbeeld voor tandartszorg en fysiotherapie. Je kunt jaarlijks van verzekeraar wisselen; controleer de termijnen en voorwaarden.",
+      "en": "The premium is what you pay for insurance. The deductible is an annual amount adults pay for certain basic-package care. A GP consultation does not use the mandatory deductible; medicines or separate tests after that visit may do so. A co-payment is a different charge for certain care. Supplementary insurance is voluntary. The policy sets reimbursement conditions. Ask your insurer about paying in instalments. The basic package includes GP, hospital, medicines and mental healthcare subject to conditions. Different rules apply to children, including dental care and physiotherapy. You may switch insurers annually; check deadlines and conditions.",
+      "page": 0,
+      "targets": [
+        "4.4.1",
+        "4.4.2"
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/zorgverzekering/eigen-risico-zorgverzekering",
+        "https://www.rijksoverheid.nl/themas/werk/werkloos-worden/vraag-en-antwoord/zorgverzekering/wat-zit-er-in-het-basispakket-van-de-zorgverzekering"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "health-detail-rights",
+      "topic": "health",
+      "title": "Zorg begrijpen, privacy en medicijnen / Understanding care, privacy and medicines",
+      "nl": "Vertel de arts welke medicijnen je gebruikt en stel vragen als je iets niet begrijpt. Vraag zo nodig naar een tolk; spreek vooraf af hoe dit geregeld en betaald wordt. Zorgverleners hebben beroepsgeheim, met wettelijke uitzonderingen. Behandeling vraagt in beginsel geïnformeerde toestemming. Een recept gebruik je bij de apotheek; sommige middelen zijn zonder recept te koop bij apotheek of drogist. Volg de bijsluiter en vraag advies over combinatie met andere medicijnen. Een tandarts kies je zelf; regelmatige controles en goede mondhygiëne zijn gebruikelijk.",
+      "en": "Tell the doctor which medicines you use and ask questions if something is unclear. Ask about an interpreter when needed, including arrangements and payment in advance. Healthcare professionals have confidentiality duties, subject to legal exceptions. Treatment generally requires informed consent. Prescriptions are used at a pharmacy; some products are available without prescription from a pharmacy or drugstore. Follow the leaflet and ask about interactions with other medicines. Choose your own dentist; regular check-ups and good oral hygiene are customary.",
+      "page": 0,
+      "targets": [
+        "4.1.1",
+        "4.1.2",
+        "4.1.3"
+      ],
+      "refs": [
+        "https://www.zorginstituutnederland.nl/verzekerde-zorg/h/huisarts-zvw",
+        "https://www.rijksoverheid.nl/themas/werk/werkloos-worden/vraag-en-antwoord/zorgverzekering/wat-zit-er-in-het-basispakket-van-de-zorgverzekering"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "health-detail-support",
+      "topic": "health",
+      "title": "Wijkteam, zorgregelingen en declareren / Local support, care schemes and claims",
+      "nl": "Voor hulp bij zelfstandig wonen, eenzaamheid of schulden kun je bij gemeente of wijkteam informatie vragen. Een zorgvraag kan via gemeente, zorgverzekeraar of een langdurige-zorgroute lopen; dat hangt af van het soort hulp. Mantelzorg is hulp door naasten, niet hetzelfde als betaalde professionele thuiszorg. Bewaar zorgnota’s en dien een declaratie volgens de instructies van je verzekeraar in. Controleer digitale berichten en vraag hulp bij administratie zonder je DigiD-inloggegevens te delen.",
+      "en": "Ask the municipality or neighbourhood team about help with independent living, isolation or debt. A care request may go through the municipality, health insurer or long-term-care system, depending on the support needed. Informal care by relatives is different from paid professional home care. Keep invoices and submit claims according to your insurer’s instructions. Check digital messages and seek administrative help without sharing your DigiD login details.",
+      "page": 0,
+      "targets": [
+        "4.4.2",
+        "4.4.3",
+        "4.4.4",
+        "4.5.1"
+      ],
+      "refs": [
+        "https://www.digid.nl/hulp-contact/hulp-bij-een-bibliotheek"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "education-detail-ages",
+      "topic": "education",
+      "title": "4, 5, 16 en 18: schoolplicht / School ages: 4, 5, 16 and 18",
+      "nl": "Kinderen kunnen vanaf 4 jaar naar de basisschool. Leerplicht begint op de eerste schooldag van de maand na de vijfde verjaardag. De leerplicht loopt tot het einde van het schooljaar waarin het kind 16 wordt. Voor jongeren van 16 tot 18 zonder startkwalificatie geldt meestal kwalificatieplicht. Een startkwalificatie is havo, vwo of minimaal mbo niveau 2; vmbo alleen is dat niet. Er bestaan uitzonderingen. Schoolvakanties zijn bindend; extra vakantie vereist geldige toestemming.",
+      "en": "Children can start primary school at age 4. Compulsory attendance begins on the first school day of the month after the fifth birthday and continues to the end of the school year in which the child turns 16. Most 16–17-year-olds without a basic qualification must continue education. A basic qualification is havo, vwo or at least mbo level 2; vmbo alone is insufficient. Exceptions exist. School holidays are binding; extra leave requires valid permission.",
+      "page": 0,
+      "targets": [
+        "8.1.1",
+        "8.1.3"
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/onderwijs/leerplicht/leerplicht-en-kwalificatieplicht"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "education-detail-schools",
+      "topic": "education",
+      "title": "Schoolkeuze, ondersteuning en diversiteit / School choice, support and diversity",
+      "nl": "Openbare en bijzondere scholen zijn allebei onderdeel van het onderwijsstelsel. Bijzonder betekent bijvoorbeeld een religieuze of onderwijsinhoudelijke grondslag, niet automatisch speciaal onderwijs. Voor een kind met extra ondersteuningsbehoeften bespreek je passende hulp met de school. Vervolgopleidingen kunnen toelatingseisen hebben. Voorschoolse educatie kan jonge kinderen helpen; buitenschoolse opvang is opvang rond schooltijd. Basis- en middelbare scholen besteden verplicht aandacht aan seksualiteit en seksuele diversiteit; de invulling kan verschillen.",
+      "en": "Public and privately governed schools both belong to the education system. A “bijzondere” school may have a religious or educational philosophy; this does not automatically mean special education. Discuss suitable support with the school for a child with additional needs. Further education can have entry requirements. Preschool education can support young children; out-of-school childcare covers time around school hours. Primary and secondary schools must address sexuality and sexual diversity, with variation in delivery.",
+      "page": 0,
+      "targets": [
+        "8.1.1",
+        "8.1.2",
+        "8.1.4",
+        "8.1.5"
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/site/binaries/site-content/collections/documents/2023/06/06/antwoorden-op-kamervragen-van-het-lid-van-haga-over-de-week-van-de-lentekriebels-en-de-berichtgeving-daarover/antwoorden-op-kamervragen-van-het-lid-van-haga-over-de-week-van-de-lentekriebels-en-de-berichtgeving-daarover.pdf"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "education-detail-parents",
+      "topic": "education",
+      "title": "Ouders, school en jeugdhulp / Parents, school and youth support",
+      "nl": "Ouders zorgen voor veiligheid, verzorging en schoolbezoek van hun minderjarige kinderen. Zij bespreken ontwikkeling en problemen met leraren. Voor schade door kinderen gelden leeftijdsafhankelijke aansprakelijkheidsregels; bij 14- en 15-jarigen kunnen omstandigheden meetellen. Vraag bij een concrete schadeclaim juridisch advies. Je kunt opvoedhulp vragen aan school, huisarts of gemeente. Kinderbescherming grijpt niet bij elk meningsverschil in: ernstige zorgen over veiligheid kunnen tot onderzoek en een rechterlijke maatregel leiden.",
+      "en": "Parents ensure the safety, care and school attendance of minor children and discuss development with teachers. Liability for damage caused by children depends on age; circumstances can matter for 14- and 15-year-olds. Seek legal advice for a specific claim. Ask the school, GP or municipality for parenting support. Child protection does not intervene in every disagreement: serious safety concerns may lead to investigation and a court measure.",
+      "page": 0,
+      "targets": [
+        "8.2.1",
+        "8.2.2",
+        "8.2.3"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "education-detail-payments",
+      "topic": "education",
+      "title": "Schoolkosten en de vrijwillige bijdrage / School costs and voluntary contributions",
+      "nl": "De vrijwillige ouderbijdrage voor extra activiteiten is niet verplicht. Een leerling mag niet worden uitgesloten van een door school georganiseerde activiteit omdat ouders deze bijdrage niet betalen. Andere kosten hangen af van leeftijd en opleiding; hoger onderwijs kan collegegeld hebben en bij mbo kunnen regels voor lesgeld gelden. DUO geeft informatie over studiefinanciering en tegemoetkomingen. Kinderbijslag van SVB is iets anders dan kinderopvangtoeslag. Vraag school naar hulp bij leermiddelen of reiskosten.",
+      "en": "The voluntary parental contribution for extra activities is not compulsory. A student must not be excluded from a school-organised activity because parents do not pay it. Other costs depend on age and programme; higher education can involve tuition and mbo may involve course fees. DUO provides information on student finance and support. SVB child benefit differs from childcare allowance. Ask the school about support for materials or transport costs.",
+      "page": 0,
+      "targets": [
+        "8.3.1",
+        "8.3.2",
+        "8.3.3"
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/onderwijs/basisonderwijs/vraag-en-antwoord/financiering-onderwijs/is-de-vrijwillige-ouderbijdrage-op-de-basisschool-en-middelbare-school-verplicht"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "institutions-detail-documents",
+      "topic": "institutions",
+      "title": "Gemeente, IND en nationaliteit / Municipality, IND and nationality",
+      "nl": "Geboorte, verhuizing en veranderingen in je gezin kunnen registratie in de BRP en gevolgen voor regelingen vragen. Paspoort en rijbewijs regel je doorgaans via de gemeente, afhankelijk van je situatie. De IND behandelt verblijfsrecht; een verblijfsvergunning is geen Nederlands paspoort. Naturalisatie vraag je als inwoner aan bij je gemeente, waarna de IND beslist. Vaak moet je afstand doen van je oude nationaliteit, maar er zijn uitzonderingen. Controleer de IND-regels voor jouw situatie.",
+      "en": "Births, moves and household changes may require BRP registration and affect support schemes. Passports and driving licences are generally arranged through the municipality, depending on your situation. The IND handles residence rights; a residence permit is not a Dutch passport. Residents apply for naturalisation at their municipality, after which the IND decides. Renouncing a previous nationality is often required, but exceptions exist. Check IND rules for your situation.",
+      "page": 0,
+      "targets": [
+        "6.2.1",
+        "6.2.2",
+        "6.2.3"
+      ],
+      "refs": [
+        "https://ind.nl/nl/nederlanderschap/nederlander-worden-door-naturalisatie",
+        "https://ind.nl/nl/afstand-nationaliteit"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "institutions-detail-digital",
+      "topic": "institutions",
+      "title": "Identificatie, BSN en digitale hulp / Identification, BSN and digital support",
+      "nl": "Vanaf 14 jaar moet je bij een bevoegde, gerechtvaardigde controle een geldig identiteitsbewijs kunnen tonen. In het OV kan dit al vanaf 12 jaar gelden bij reizen zonder geldig kaartje of belemmeren van controle. BSN is je persoonsnummer; DigiD is een inlogmiddel. Deel DigiD-wachtwoorden en codes niet. Controleer afzender en webadres van berichten. Het Informatiepunt Digitale Overheid in de bibliotheek kan helpen met digitale overheidszaken; je hoeft dit niet alleen te kunnen. De politie helpt bij misdrijven, ongevallen en discriminatie. Bij ernstige misdrijven zoals moord of ontvoering bestaat aangifteplicht.",
+      "en": "From age 14, you must be able to show valid identification during an authorised, justified check. On public transport this can apply from age 12 when travelling without a valid ticket or obstructing ticket checks. A BSN is your personal service number; DigiD is a login method. Do not share DigiD passwords or codes. Check senders and web addresses. The library’s Digital Government Information Point can help with digital public services; you need not manage alone. Police help with crime, accidents and discrimination. Serious crimes such as murder or kidnapping carry a duty to report.",
+      "page": 0,
+      "targets": [
+        "6.1.1",
+        "6.4.1"
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/migratie-en-reizen/paspoort-en-identiteitskaart/vraag-en-antwoord/paspoort-en-identiteitskaart/wat-is-de-identificatieplicht",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/identificatieplicht/geldt-de-identificatieplicht-ook-voor-minderjarigen",
+        "https://www.digid.nl/hulp-contact/hulp-bij-een-bibliotheek",
+        "https://www.politie.nl/informatie/ik-ben-slachtoffer-moet-ik-aangifte-doen.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "institutions-detail-money",
+      "topic": "institutions",
+      "title": "Toeslagen, belasting en hulp bij geldzorgen / Allowances, tax and money support",
+      "nl": "Dienst Toeslagen regelt inkomensafhankelijke toeslagen zoals huur-, zorg- en kinderopvangtoeslag. De oudere leerstof gebruikt hiervoor vaak de naam Belastingdienst. Een voorschot is gebaseerd op gegevens die je moet controleren. Geef een gewijzigd verwacht jaarinkomen door; anders moet je mogelijk terugbetalen. Belastingaangifte, een toeslag en kinderbijslag zijn verschillende zaken. Bewaar jaaropgaven minstens vijf jaar en lees termijnen. Vraag bij geldzorgen tijdig hulp aan gemeente of schuldhulpverlening; Nibud biedt budgetinformatie. Gemeentelijke heffingen zijn bijvoorbeeld afvalstoffenheffing, rioolheffing, ozb en parkeerbelasting. Belastingen betalen onder meer onderwijs, wegen, politie en zorg. Een aangifte kan tot betalen of terugkrijgen leiden; vraag hulp als je de brief niet begrijpt. Bijstand en schuldhulp lopen via de gemeente; een voedselbank kan onder voorwaarden voedselhulp bieden. De GGD werkt aan publieke gezondheid.",
+      "en": "Dienst Toeslagen administers income-related rent, healthcare and childcare allowances. Older study material often uses the name Belastingdienst for this. An advance is based on details you should check. Update your expected annual income if it changes; otherwise you may have to repay money. A tax return, an allowance and child benefit are different things. Keep annual income statements for at least five years and read deadlines. Seek municipal debt support early; Nibud provides budgeting information. Municipal charges include waste, sewerage, property and parking taxes. Taxes fund services including education, roads, police and care. A tax return can lead to payment or a refund; ask for help if a letter is unclear. Municipalities handle social assistance and debt support; a food bank may provide food subject to conditions. The GGD works on public health.",
+      "page": 0,
+      "targets": [
+        "6.1.2",
+        "6.2.4",
+        "6.3.1",
+        "6.3.2",
+        "6.3.3"
+      ],
+      "refs": [
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hoe-zorg-ik-dat-jullie-mijn-toeslag-met-het-juiste-inkomen-berekenen"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "institutions-detail-complaints",
+      "topic": "institutions",
+      "title": "Bezwaar, klacht en ombudsman / Objection, complaint and ombudsman",
+      "nl": "Ben je het oneens met een besluit, lees dan hoe en binnen welke termijn je bezwaar kunt maken. Een klacht over onbeleefde of oneerlijke behandeling is iets anders dan bezwaar tegen het besluit zelf. Dien een klacht eerst in bij de organisatie. Is het niet opgelost, kijk dan of een lokale of Nationale ombudsman bevoegd is. Het Juridisch Loket kan informatie geven; juridische hulp is niet altijd gratis. Corruptie en omkoping zijn verboden. Bewaar brieven, bewijs en verzendbevestigingen.",
+      "en": "If you disagree with a decision, read how and by when to lodge an objection. A complaint about rude or unfair treatment differs from challenging the decision itself. Complain first to the organisation. If unresolved, check whether a local or National Ombudsman can help. The Legal Services Counter can provide information; legal assistance is not always free. Corruption and bribery are prohibited. Keep letters, evidence and proof of submission.",
+      "page": 0,
+      "targets": [
+        "6.5.1",
+        "6.5.2"
+      ],
+      "refs": [
+        "https://www.nationaleombudsman.nl/over-de-nationale-ombudsman/wat-doet-de-nationale-ombudsman/zo-werken-wij"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "government-detail-people",
+      "topic": "government",
+      "title": "Koning, premier en kabinet: actuele namen / King, prime minister and cabinet: current names",
+      "nl": "Gecontroleerd op 14 november 2026: de Koning is Willem-Alexander en de minister-president is Rob Jetten. De Koning is staatshoofd; ministers dragen politieke verantwoordelijkheid. De minister-president leidt de ministerraad. Regering = Koning en ministers; kabinet = ministers en staatssecretarissen; ministerraad = ministers. Deze namen kunnen veranderen: controleer vóór je examen de officiële links. Een minister-president is niet hetzelfde als een burgemeester of de voorzitter van het parlement.",
+      "en": "Checked on 14 November 2026: the King is Willem-Alexander and the prime minister is Rob Jetten. The King is head of state; ministers bear political responsibility. The prime minister chairs the Council of Ministers. Government = King and ministers; cabinet = ministers and state secretaries; Council of Ministers = ministers. Names can change: check the official links before your exam. A prime minister is different from a mayor or a parliamentary chair.",
+      "page": 0,
+      "targets": [
+        "7.1.1"
+      ],
+      "refs": [
+        "https://www.koninklijkhuis.nl/leden-koninklijk-huis/koning-willem-alexander",
+        "https://www.government.nl/government/members-of-cabinet/rob-jetten",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/rijksoverheid/wat-is-de-regering-en-wat-is-het-kabinet"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "government-detail-voting",
+      "topic": "government",
+      "title": "Wie mag stemmen? / Who may vote?",
+      "nl": "Voor de Tweede Kamer zijn de Nederlandse nationaliteit en een leeftijd van minimaal 18 jaar belangrijke voorwaarden. Gemeenteraadsverkiezingen hebben andere regels: ook inwoners met een EU-nationaliteit kunnen onder voorwaarden stemmen. Voor andere niet-Nederlandse inwoners geldt doorgaans vijf jaar onafgebroken rechtmatig verblijf, naast andere voorwaarden; niet ieder verblijfstype telt mee. Stemmen is een recht, geen algemene stemplicht. Je stem is geheim. Controleer de Kiesraad voor je persoonlijke situatie en voor Europese en waterschapsverkiezingen. Je kiest ook vertegenwoordigers voor provincie, waterschap en Europees Parlement als je daarvoor kiesgerechtigd bent. De Eerste Kamer wordt grotendeels indirect gekozen door Provinciale Staten. Een referendum kan op basis van de geldende regels voorkomen; dit is niet hetzelfde als een gewone parlementsverkiezing.",
+      "en": "For House of Representatives elections, Dutch nationality and being at least 18 are important requirements. Municipal elections have different rules: EU-national residents can also vote subject to conditions. Other non-Dutch residents generally need five years of continuous lawful residence plus other conditions; not every residence status counts. Voting is a right, not a general compulsory duty. Your vote is secret. Check Kiesraad for your circumstances and for European and water-authority elections. Eligible voters also elect representatives for the province, water authority and European Parliament. The Senate is largely elected indirectly through provincial councils. A referendum may occur under applicable rules; it differs from an ordinary parliamentary election.",
+      "page": 0,
+      "targets": [
+        "7.1.4"
+      ],
+      "refs": [
+        "https://www.kiesraad.nl/verkiezingen/gemeenteraden/stemmen/niet-nederlandse-inwoners"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "government-detail-freedoms",
+      "topic": "government",
+      "title": "Grondrechten, privacy en de rechtsstaat / Fundamental rights, privacy and the rule of law",
+      "nl": "Artikel 1 beschermt gelijke behandeling in gelijke gevallen. Vrijheid van godsdienst omvat ook het recht geen geloof te hebben of van geloof te veranderen. Meningsuiting is beschermd maar heeft wettelijke grenzen, bijvoorbeeld rond bedreiging en discriminatie. Religie en traditie vervangen de wet niet. Privacy betekent onder meer dat organisaties gegevens niet zomaar voor ieder doel mogen gebruiken. Je kunt inzage en correctie vragen. Rechters zijn onafhankelijk; hoger beroep kan volgens de toepasselijke regels mogelijk zijn.",
+      "en": "Article 1 protects equal treatment in equal situations. Religious freedom includes having no religion or changing beliefs. Expression is protected but has legal limits, for example concerning threats and discrimination. Religion and tradition do not replace the law. Privacy means organisations cannot simply use data for any purpose. You can request access and correction. Judges are independent; an appeal may be possible under the relevant rules.",
+      "page": 0,
+      "targets": [
+        "7.1.3",
+        "7.2.1",
+        "7.2.2",
+        "7.2.3",
+        "7.2.4",
+        "7.2.5"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.rijksoverheid.nl/themas/overheid-en-democratie/privacy-en-persoonsgegevens/privacyregels-beschermen-persoonsgegevens"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "government-detail-donation",
+      "topic": "government",
+      "title": "Lichamelijke integriteit en het Donorregister / Bodily integrity and the Donor Register",
+      "nl": "Je lichaam wordt door de wet beschermd. Geweld, dwang en ongewenste seksuele handelingen zijn niet toegestaan; dit geldt ook binnen een gezin. In het Donorregister kunnen volwassenen hun keuze over orgaan- en weefseldonatie vastleggen en later wijzigen. Maak je na de registratiebrieven geen keuze, dan kan “geen bezwaar” worden geregistreerd. Dit is niet hetzelfde als een verplichting om in ieder geval daadwerkelijk organen af te staan: medische geschiktheid en procedures blijven van belang. Bespreek je keuze met naasten.",
+      "en": "The law protects your body. Violence, coercion and unwanted sexual acts are prohibited, including within a family. Adults can record their choice about organ and tissue donation in the Donor Register and change it later. If no choice is made after registration letters, “no objection” can be recorded. This does not mean organs will necessarily be donated in every case: medical suitability and procedures still matter. Discuss your choice with relatives.",
+      "page": 0,
+      "targets": [
+        "7.2.6",
+        "7.2.7"
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/orgaandonatie-en-weefseldonatie/actieve-donorregistratie"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "history-detail-provinces",
+      "topic": "history",
+      "title": "De twaalf provincies / The twelve provinces",
+      "nl": "Noordelijke provincies zijn Groningen, Fryslân (Friesland) en Drenthe. Overijssel en Gelderland liggen in het oosten; Flevoland ligt centraal rond het IJsselmeergebied. Noord-Holland, Zuid-Holland en Utrecht liggen in het westen en midden. Zeeland ligt in het zuidwesten, Noord-Brabant en Limburg in het zuiden. Leer de namen én de ligging, en zoek je eigen gemeente op. Amsterdam ligt in Noord-Holland; Den Haag en Rotterdam in Zuid-Holland. Niet elke provinciehoofdstad is de bekendste stad.",
+      "en": "The northern provinces are Groningen, Fryslân (Friesland) and Drenthe. Overijssel and Gelderland are in the east; Flevoland is centrally located around the IJsselmeer area. Noord-Holland, Zuid-Holland and Utrecht are in the west and centre. Zeeland is in the southwest, and Noord-Brabant and Limburg are in the south. Learn both names and locations and find your own municipality. Amsterdam is in Noord-Holland; The Hague and Rotterdam are in Zuid-Holland. A provincial capital is not always the best-known city.",
+      "page": 0,
+      "targets": [
+        "5.2.1"
+      ],
+      "refs": [
+        "https://www.cbs.nl/-/media/_pdf/2026/09/2026ov027_kaart_12-provincies.pdf"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "history-detail-symbols",
+      "topic": "history",
+      "title": "Vlag, kunst, koloniën en slavernij / Flag, art, colonies and slavery",
+      "nl": "De Nederlandse vlag heeft horizontaal rood boven, wit in het midden en blauw onder. Het Wilhelmus is het volkslied. In de zeventiende eeuw groeiden scheepvaart, handel, schilderkunst en steden. Dit verleden omvat ook koloniale overheersing, slavernij en uitbuiting; welvaart kwam niet iedereen ten goede. Keti Koti verwijst naar de afschaffing van slavernij op 1 juli 1863 in Suriname en het Caribisch gebied, waarbij veel mensen in Suriname nog tien jaar gedwongen op plantages moesten werken.",
+      "en": "The Dutch flag has horizontal red at the top, white in the middle and blue below. The Wilhelmus is the national anthem. Shipping, trade, painting and cities expanded in the seventeenth century. This history also includes colonial rule, slavery and exploitation; prosperity did not benefit everyone. Keti Koti refers to abolition on 1 July 1863 in Suriname and the Caribbean, while many people in Suriname were forced to keep working on plantations for another ten years.",
+      "page": 0,
+      "targets": [
+        "5.1.1"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.nationaalarchief.nl/en/node/93843"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "history-detail-international",
+      "topic": "history",
+      "title": "Migratie, emancipatie en samenwerking / Migration, emancipation and cooperation",
+      "nl": "Na de Tweede Wereldoorlog kwamen mensen uit voormalige koloniën, arbeidsmigranten en vluchtelingen naar Nederland. Sinds de jaren zestig werden emancipatie en individuele keuzevrijheid zichtbaarder. Huwelijk voor partners van hetzelfde geslacht, abortus en euthanasie zijn wettelijk geregeld, met eigen voorwaarden; dit zijn geen onbeperkte rechten zonder regels. De EU gaat over Europese samenwerking en regels, de NAVO over bondgenootschappelijke veiligheid en de VN over wereldwijde samenwerking. Deze organisaties zijn niet hetzelfde. Nederland moet EU-afspraken naleven. Voor EU-burgers bestaan in beginsel vrij verkeer en mogelijkheden om in andere lidstaten te wonen en werken, met voorwaarden. Dit geldt niet automatisch op dezelfde manier voor iedere niet-EU-burger.",
+      "en": "After the Second World War, people from former colonies, labour migrants and refugees came to the Netherlands. Emancipation and individual choice became more prominent from the 1960s. Same-sex marriage, abortion and euthanasia are regulated by law, each with its own conditions; they are not unlimited rights without rules. The EU concerns European cooperation and rules, NATO collective security and the UN global cooperation. These organisations are different. The Netherlands must comply with EU agreements. EU citizens generally have free movement and opportunities to live and work in other member states, subject to conditions. These rights do not automatically apply in the same way to every non-EU citizen.",
+      "page": 0,
+      "targets": [
+        "5.1.2",
+        "7.1.2"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ],
+      "checked": "2026-11-14"
+    },
+    {
+      "id": "history-detail-region",
+      "topic": "history",
+      "title": "Je eigen regio en openbaar vervoer / Your region and public transport",
+      "nl": "Kun je op een kaart je woonplaats, provincie en nabije steden aanwijzen? Zoek in je eigen regio mogelijkheden voor werk, opleiding en wonen. Plan een reis met vertrekpunt, bestemming, overstap en geldigheid van het vervoersbewijs. OV-chipkaart, OVpay en losse kaartjes zijn verschillende mogelijkheden; de vervoerder bepaalt de voorwaarden. Bij in- en uitchecken gebruik je hetzelfde betaalmiddel. Bij overstappen kunnen opnieuw in- en uitcheckregels gelden. Controleer vertragingen en toegankelijkheid vóór vertrek.",
+      "en": "Can you locate your town, province and nearby cities on a map? Look up local opportunities for work, education and housing. Plan a journey with departure, destination, transfer and ticket validity. OV-chipkaart, OVpay and separate tickets are different options; operators set the conditions. Use the same payment method for check-in and check-out. Transfers can involve additional check-in and check-out rules. Check disruptions and accessibility before leaving.",
+      "page": 0,
+      "targets": [
+        "5.2.1",
+        "5.2.2"
+      ],
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.htm.nl/reisproducten/ovpay/ovpay-activeren/"
+      ],
+      "checked": "2026-11-14"
+    }
+  ],
+  "questions": [
+    {
+      "id": "housing-detail-rights-q",
+      "topic": "housing",
+      "lessonId": "housing-detail-rights",
+      "nl": "Wie is doorgaans verantwoordelijk voor groot onderhoud?",
+      "en": "Who is generally responsible for major maintenance?",
+      "answer": {
+        "nl": "De verhuurder",
+        "en": "The landlord."
+      },
+      "wrong": [
+        {
+          "nl": "Altijd de huurder",
+          "en": "Always the tenant."
+        },
+        {
+          "nl": "Het UWV",
+          "en": "UWV."
+        }
+      ],
+      "explanation": {
+        "nl": "De verhuurder doet doorgaans het grote onderhoud; de huurder kleine dagelijkse reparaties.",
+        "en": "The landlord generally handles major maintenance; the tenant handles small everyday repairs."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/woning-huren/vraag-en-antwoord/woning-huren/hoe-zorg-ik-ervoor-dat-de-verhuurder-slecht-onderhoud-aanpakt",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/woning-huren/welke-kosten-zijn-voor-de-huurder-en-welke-voor-de-verhuurder"
+      ]
+    },
+    {
+      "id": "housing-detail-utilities-q",
+      "topic": "housing",
+      "lessonId": "housing-detail-utilities",
+      "nl": "Je verbruikt meer energie dan verwacht. Wat kan bij de jaarafrekening gebeuren?",
+      "en": "You use more energy than expected. What may happen at the annual settlement?",
+      "answer": {
+        "nl": "Je moet bijbetalen.",
+        "en": "You may have to pay extra."
+      },
+      "wrong": [
+        {
+          "nl": "Het maandvoorschot garandeert altijd onbeperkt verbruik.",
+          "en": "The monthly advance always guarantees unlimited usage."
+        },
+        {
+          "nl": "De gemeente betaalt automatisch alle extra kosten.",
+          "en": "The municipality automatically pays all extra costs."
+        }
+      ],
+      "explanation": {
+        "nl": "Een voorschot is een schatting. De afrekening gebruikt de werkelijke kosten.",
+        "en": "An advance is an estimate. The settlement uses actual costs."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "housing-detail-insurance-q",
+      "topic": "housing",
+      "lessonId": "housing-detail-insurance",
+      "nl": "Welke verzekering gaat over meubels en losse spullen?",
+      "en": "Which insurance concerns furniture and movable belongings?",
+      "answer": {
+        "nl": "Inboedelverzekering.",
+        "en": "Contents insurance."
+      },
+      "wrong": [
+        {
+          "nl": "Opstalverzekering.",
+          "en": "Building insurance."
+        },
+        {
+          "nl": "Een reisbewijs.",
+          "en": "A travel ticket."
+        }
+      ],
+      "explanation": {
+        "nl": "Onthoud het onderscheid: inboedel = spullen, opstal = gebouw.",
+        "en": "Remember the distinction: contents = belongings, building insurance = the structure."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.interpolis.nl/veelgestelde-vragen/verzekeringen/opstalverzekering"
+      ]
+    },
+    {
+      "id": "housing-detail-search-q",
+      "topic": "housing",
+      "lessonId": "housing-detail-search",
+      "nl": "Welke kosten neem je naast de kale huur mee in je budget?",
+      "en": "Which costs should you budget for besides the basic rent?",
+      "answer": {
+        "nl": "Onder meer servicekosten en energie.",
+        "en": "Service charges and energy, among other costs."
+      },
+      "wrong": [
+        {
+          "nl": "Geen andere kosten.",
+          "en": "No other costs."
+        },
+        {
+          "nl": "Alleen de prijs van een paspoort.",
+          "en": "Only the price of a passport."
+        }
+      ],
+      "explanation": {
+        "nl": "Kale huur is niet hetzelfde als alle woonlasten samen.",
+        "en": "Basic rent is not the same as total housing costs."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "work-detail-benefits-q",
+      "topic": "work",
+      "lessonId": "work-detail-benefits",
+      "nl": "Je krijgt een UWV-uitkering en je situatie verandert. Wat is belangrijk?",
+      "en": "You receive a UWV benefit and your situation changes. What matters?",
+      "answer": {
+        "nl": "De wijziging tijdig melden.",
+        "en": "Report the change on time."
+      },
+      "wrong": [
+        {
+          "nl": "Wachten tot UWV het misschien ontdekt.",
+          "en": "Wait for UWV to discover it."
+        },
+        {
+          "nl": "Alleen je buur informeren.",
+          "en": "Only inform your neighbour."
+        }
+      ],
+      "explanation": {
+        "nl": "Een verandering kan invloed hebben op het recht op een uitkering en het bedrag.",
+        "en": "A change may affect benefit eligibility and the amount paid."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.uwv.nl/nl/rechten-plichten/algemene-plichten"
+      ]
+    },
+    {
+      "id": "work-detail-representation-q",
+      "topic": "work",
+      "lessonId": "work-detail-representation",
+      "nl": "Welke organisatie onderhandelt voor werknemers over een cao?",
+      "en": "Which organisation negotiates a collective agreement for workers?",
+      "answer": {
+        "nl": "Een vakbond.",
+        "en": "A trade union."
+      },
+      "wrong": [
+        {
+          "nl": "Een woningcorporatie.",
+          "en": "A housing association."
+        },
+        {
+          "nl": "Een apotheek.",
+          "en": "A pharmacy."
+        }
+      ],
+      "explanation": {
+        "nl": "Een vakbond vertegenwoordigt werknemersbelangen; een ondernemingsraad heeft een andere rol binnen het bedrijf.",
+        "en": "A union represents workers’ interests; a works council has a different role inside the company."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "work-detail-enterprise-q",
+      "topic": "work",
+      "lessonId": "work-detail-enterprise",
+      "nl": "Je wilt met een uitkering een bedrijf starten. Wat is verstandig vóór de start?",
+      "en": "You want to start a business while receiving benefits. What should you do first?",
+      "answer": {
+        "nl": "Overleggen met de uitkeringsinstantie.",
+        "en": "Discuss it with the benefit agency."
+      },
+      "wrong": [
+        {
+          "nl": "Aannemen dat je uitkering nooit verandert.",
+          "en": "Assume your benefit can never change."
+        },
+        {
+          "nl": "Je inkomsten geheimhouden.",
+          "en": "Keep your income secret."
+        }
+      ],
+      "explanation": {
+        "nl": "Ondernemen kan je uitkering beïnvloeden. Vraag vooraf naar de voorwaarden.",
+        "en": "Self-employment can affect benefits. Ask about the conditions in advance."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.uwv.nl/nl/rechten-plichten/algemene-plichten"
+      ]
+    },
+    {
+      "id": "work-detail-qualifications-q",
+      "topic": "work",
+      "lessonId": "work-detail-qualifications",
+      "nl": "Wat helpt om je sollicitatiegesprek voor te bereiden?",
+      "en": "What helps you prepare for a job interview?",
+      "answer": {
+        "nl": "Voorbeelden zoeken van relevante ervaring.",
+        "en": "Prepare examples of relevant experience."
+      },
+      "wrong": [
+        {
+          "nl": "De vacature niet lezen.",
+          "en": "Do not read the vacancy."
+        },
+        {
+          "nl": "Een diplomawaardering zien als garantie op iedere baan.",
+          "en": "Treat credential evaluation as a guarantee of any job."
+        }
+      ],
+      "explanation": {
+        "nl": "Je laat met concrete voorbeelden zien hoe je ervaring bij de functie past.",
+        "en": "Concrete examples show how your experience matches the role."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "values-detail-customs-q",
+      "topic": "values",
+      "lessonId": "values-detail-customs",
+      "nl": "Gelden dezelfde sociale gewoonten voor iedereen in Nederland?",
+      "en": "Does everyone in the Netherlands follow identical social customs?",
+      "answer": {
+        "nl": "Nee, gewoonten verschillen tussen groepen en situaties.",
+        "en": "No, customs vary between groups and situations."
+      },
+      "wrong": [
+        {
+          "nl": "Ja, ieder gezin heeft precies dezelfde gewoonten.",
+          "en": "Yes, every family has exactly the same customs."
+        },
+        {
+          "nl": "Ja, alle gewoonten zijn wettelijke plichten.",
+          "en": "Yes, every custom is a legal duty."
+        }
+      ],
+      "explanation": {
+        "nl": "Het examen gaat om kennis van de samenleving, niet om één verplichte levensstijl.",
+        "en": "The exam concerns understanding society, not one compulsory lifestyle."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "values-detail-calendar-q",
+      "topic": "values",
+      "lessonId": "values-detail-calendar",
+      "nl": "Ben je op elke officiële feestdag automatisch vrij van je werk?",
+      "en": "Are you automatically entitled to a day off on every public holiday?",
+      "answer": {
+        "nl": "Nee, kijk in de cao of arbeidsovereenkomst.",
+        "en": "No, check the collective agreement or employment contract."
+      },
+      "wrong": [
+        {
+          "nl": "Ja, zonder uitzonderingen.",
+          "en": "Yes, without exceptions."
+        },
+        {
+          "nl": "Alleen de buren beslissen dat.",
+          "en": "Only the neighbours decide."
+        }
+      ],
+      "explanation": {
+        "nl": "Een feestdag en een vrije werkdag zijn verschillende dingen.",
+        "en": "A public holiday and a day off work are different things."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.government.nl/home/question-and-answer/work/public-holidays-in-the-netherlands"
+      ]
+    },
+    {
+      "id": "values-detail-participation-q",
+      "topic": "values",
+      "lessonId": "values-detail-participation",
+      "nl": "Waar kun je laagdrempelig buurtgenoten leren kennen?",
+      "en": "Where can you meet neighbours through an accessible local activity?",
+      "answer": {
+        "nl": "Bijvoorbeeld in een buurthuis of sportvereniging.",
+        "en": "For example at a community centre or sports club."
+      },
+      "wrong": [
+        {
+          "nl": "Alleen bij de IND.",
+          "en": "Only at the IND."
+        },
+        {
+          "nl": "Alleen tijdens een rechtszaak.",
+          "en": "Only during a court case."
+        }
+      ],
+      "explanation": {
+        "nl": "Verenigingen en lokale activiteiten kunnen je netwerk vergroten.",
+        "en": "Associations and local activities can expand your social network."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "values-detail-relationships-q",
+      "topic": "values",
+      "lessonId": "values-detail-relationships",
+      "nl": "Mag een familie iemand dwingen een partner te kiezen?",
+      "en": "May a family force someone to choose a partner?",
+      "answer": {
+        "nl": "Nee, partnerkeuze hoort bij zelfbeschikking.",
+        "en": "No, choosing a partner is part of self-determination."
+      },
+      "wrong": [
+        {
+          "nl": "Ja, familieafspraken staan boven de wet.",
+          "en": "Yes, family agreements override the law."
+        },
+        {
+          "nl": "Ja, als de persoon volwassen is.",
+          "en": "Yes, if the person is an adult."
+        }
+      ],
+      "explanation": {
+        "nl": "Ook volwassenen houden hun eigen rechten binnen een familie of relatie.",
+        "en": "Adults retain their own rights within a family or relationship."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "health-detail-triage-q",
+      "topic": "health",
+      "lessonId": "health-detail-triage",
+      "nl": "Het is zondag en je hebt een dringende klacht die niet tot maandag kan wachten, zonder levensgevaar. Wie bel je?",
+      "en": "It is Sunday and you have an urgent problem that cannot wait until Monday, without danger to life. Who do you call?",
+      "answer": {
+        "nl": "De huisartsenpost.",
+        "en": "The out-of-hours GP service."
+      },
+      "wrong": [
+        {
+          "nl": "De woningcorporatie.",
+          "en": "The housing association."
+        },
+        {
+          "nl": "Je wacht altijd tot maandag, ongeacht de klacht.",
+          "en": "Always wait until Monday regardless of the problem."
+        }
+      ],
+      "explanation": {
+        "nl": "De huisartsenpost is voor dringende huisartsenzorg buiten gewone openingstijden; bij levensgevaar bel je 112.",
+        "en": "The out-of-hours service handles urgent GP care outside normal hours; call 112 for danger to life."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.zorginstituutnederland.nl/verzekerde-zorg/h/huisarts-zvw"
+      ]
+    },
+    {
+      "id": "health-detail-costs-q",
+      "topic": "health",
+      "lessonId": "health-detail-costs",
+      "nl": "Gaat een gewoon huisartsbezoek ten koste van je verplichte eigen risico?",
+      "en": "Does an ordinary GP consultation use your mandatory deductible?",
+      "answer": {
+        "nl": "Nee, maar apart onderzoek of medicijnen kunnen dat wel doen.",
+        "en": "No, but separate tests or medicines may do so."
+      },
+      "wrong": [
+        {
+          "nl": "Ja, ieder huisartsbezoek altijd.",
+          "en": "Yes, every GP consultation always does."
+        },
+        {
+          "nl": "Nee, daarom is alle ziekenhuiszorg ook zonder eigen risico.",
+          "en": "No, so all hospital care is also exempt."
+        }
+      ],
+      "explanation": {
+        "nl": "Huisartsenzorg is uitgezonderd; andere zorg die volgt is niet automatisch uitgezonderd.",
+        "en": "GP care is exempt; subsequent care is not automatically exempt."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/zorgverzekering/eigen-risico-zorgverzekering",
+        "https://www.rijksoverheid.nl/themas/werk/werkloos-worden/vraag-en-antwoord/zorgverzekering/wat-zit-er-in-het-basispakket-van-de-zorgverzekering"
+      ]
+    },
+    {
+      "id": "health-detail-rights-q",
+      "topic": "health",
+      "lessonId": "health-detail-rights",
+      "nl": "Je begrijpt de uitleg van de arts niet goed. Wat kun je vragen?",
+      "en": "You do not understand the doctor’s explanation well. What can you ask for?",
+      "answer": {
+        "nl": "Extra uitleg en zo nodig een tolk.",
+        "en": "Further explanation and an interpreter if needed."
+      },
+      "wrong": [
+        {
+          "nl": "Een behandeling zonder uitleg.",
+          "en": "Treatment without explanation."
+        },
+        {
+          "nl": "Dat je buur automatisch je hele dossier krijgt.",
+          "en": "For your neighbour to receive your entire file automatically."
+        }
+      ],
+      "explanation": {
+        "nl": "Zorg moet begrijpelijk zijn. Maak afspraken over taalhulp; het medisch dossier is niet voor iedereen toegankelijk.",
+        "en": "Care should be understandable. Arrange language support; medical records are not open to everyone."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.zorginstituutnederland.nl/verzekerde-zorg/h/huisarts-zvw",
+        "https://www.rijksoverheid.nl/themas/werk/werkloos-worden/vraag-en-antwoord/zorgverzekering/wat-zit-er-in-het-basispakket-van-de-zorgverzekering"
+      ]
+    },
+    {
+      "id": "health-detail-support-q",
+      "topic": "health",
+      "lessonId": "health-detail-support",
+      "nl": "Waar kun je informatie vragen over gemeentelijke ondersteuning om thuis te blijven wonen?",
+      "en": "Where can you ask about municipal support to continue living at home?",
+      "answer": {
+        "nl": "Bij de gemeente of het wijkteam.",
+        "en": "At the municipality or neighbourhood team."
+      },
+      "wrong": [
+        {
+          "nl": "Alleen bij de Kamer van Koophandel.",
+          "en": "Only at the Chamber of Commerce."
+        },
+        {
+          "nl": "Bij de douane.",
+          "en": "At customs."
+        }
+      ],
+      "explanation": {
+        "nl": "Gemeente en wijkteam zijn ingangen voor lokale ondersteuning; de juiste regeling hangt van de hulpvraag af.",
+        "en": "The municipality and neighbourhood team provide access to local support; the correct scheme depends on the need."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.digid.nl/hulp-contact/hulp-bij-een-bibliotheek"
+      ]
+    },
+    {
+      "id": "education-detail-ages-q",
+      "topic": "education",
+      "lessonId": "education-detail-ages",
+      "nl": "Welke opleiding is een startkwalificatie?",
+      "en": "Which qualification counts as a basic qualification?",
+      "answer": {
+        "nl": "Mbo niveau 2.",
+        "en": "Mbo level 2."
+      },
+      "wrong": [
+        {
+          "nl": "Alleen een vmbo-diploma.",
+          "en": "A vmbo diploma alone."
+        },
+        {
+          "nl": "Alleen de basisschool afronden.",
+          "en": "Finishing primary school alone."
+        }
+      ],
+      "explanation": {
+        "nl": "Een startkwalificatie is havo, vwo of minimaal mbo niveau 2.",
+        "en": "A basic qualification is havo, vwo or at least mbo level 2."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/onderwijs/leerplicht/leerplicht-en-kwalificatieplicht"
+      ]
+    },
+    {
+      "id": "education-detail-schools-q",
+      "topic": "education",
+      "lessonId": "education-detail-schools",
+      "nl": "Betekent een bijzondere school automatisch een school voor kinderen met extra zorgbehoeften?",
+      "en": "Does a “bijzondere school” automatically mean a school for children with additional care needs?",
+      "answer": {
+        "nl": "Nee, bijzonder verwijst naar de grondslag of het bestuur.",
+        "en": "No, it refers to the school’s philosophy or governance."
+      },
+      "wrong": [
+        {
+          "nl": "Ja, dat is altijd speciaal onderwijs.",
+          "en": "Yes, it always means special education."
+        },
+        {
+          "nl": "Ja, het is altijd een ziekenhuisafdeling.",
+          "en": "Yes, it is always a hospital department."
+        }
+      ],
+      "explanation": {
+        "nl": "Bijzonder onderwijs en speciaal onderwijs zijn verschillende begrippen.",
+        "en": "Privately governed education and special education are different concepts."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.rijksoverheid.nl/site/binaries/site-content/collections/documents/2023/06/06/antwoorden-op-kamervragen-van-het-lid-van-haga-over-de-week-van-de-lentekriebels-en-de-berichtgeving-daarover/antwoorden-op-kamervragen-van-het-lid-van-haga-over-de-week-van-de-lentekriebels-en-de-berichtgeving-daarover.pdf"
+      ]
+    },
+    {
+      "id": "education-detail-parents-q",
+      "topic": "education",
+      "lessonId": "education-detail-parents",
+      "nl": "Waar kun je vroeg om opvoedingsondersteuning vragen?",
+      "en": "Where can you seek parenting support early?",
+      "answer": {
+        "nl": "Bij school, huisarts of gemeente.",
+        "en": "At school, the GP or municipality."
+      },
+      "wrong": [
+        {
+          "nl": "Alleen bij een notaris.",
+          "en": "Only at a civil-law notary."
+        },
+        {
+          "nl": "Nergens totdat een rechter ingrijpt.",
+          "en": "Nowhere until a judge intervenes."
+        }
+      ],
+      "explanation": {
+        "nl": "Hulp vragen kan vroeg; je hoeft niet te wachten tot er een ernstige crisis is.",
+        "en": "You can seek support early; you do not have to wait for a serious crisis."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "education-detail-payments-q",
+      "topic": "education",
+      "lessonId": "education-detail-payments",
+      "nl": "Mag school een kind uitsluiten van een schoolreis omdat de vrijwillige ouderbijdrage niet is betaald?",
+      "en": "May a school exclude a child from a school trip because the voluntary contribution was not paid?",
+      "answer": {
+        "nl": "Nee.",
+        "en": "No."
+      },
+      "wrong": [
+        {
+          "nl": "Ja, altijd.",
+          "en": "Yes, always."
+        },
+        {
+          "nl": "Ja, als de andere ouders wel betalen.",
+          "en": "Yes, if other parents pay."
+        }
+      ],
+      "explanation": {
+        "nl": "Niet betalen van de vrijwillige ouderbijdrage mag niet leiden tot uitsluiting van schoolactiviteiten.",
+        "en": "Not paying the voluntary contribution must not lead to exclusion from school activities."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/onderwijs/basisonderwijs/vraag-en-antwoord/financiering-onderwijs/is-de-vrijwillige-ouderbijdrage-op-de-basisschool-en-middelbare-school-verplicht"
+      ]
+    },
+    {
+      "id": "institutions-detail-documents-q",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-documents",
+      "nl": "Waar vraagt een inwoner van Nederland naturalisatie aan?",
+      "en": "Where does a resident of the Netherlands apply for naturalisation?",
+      "answer": {
+        "nl": "Bij de gemeente; de IND beslist.",
+        "en": "At the municipality; the IND decides."
+      },
+      "wrong": [
+        {
+          "nl": "Bij de apotheek; de SVB beslist.",
+          "en": "At the pharmacy; SVB decides."
+        },
+        {
+          "nl": "Bij de woningcorporatie; de werkgever beslist.",
+          "en": "At the housing association; the employer decides."
+        }
+      ],
+      "explanation": {
+        "nl": "Het loket voor de aanvraag en de instantie die beslist zijn niet altijd hetzelfde.",
+        "en": "The application desk and the authority deciding are not always the same."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://ind.nl/nl/nederlanderschap/nederlander-worden-door-naturalisatie",
+        "https://ind.nl/nl/afstand-nationaliteit"
+      ]
+    },
+    {
+      "id": "institutions-detail-digital-q",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-digital",
+      "nl": "Wat is het verschil tussen BSN en DigiD?",
+      "en": "What is the difference between a BSN and DigiD?",
+      "answer": {
+        "nl": "BSN is een persoonsnummer; DigiD is een inlogmiddel.",
+        "en": "BSN is a personal service number; DigiD is a login method."
+      },
+      "wrong": [
+        {
+          "nl": "Beide zijn hetzelfde wachtwoord.",
+          "en": "Both are the same password."
+        },
+        {
+          "nl": "DigiD is je bankrekeningnummer.",
+          "en": "DigiD is your bank account number."
+        }
+      ],
+      "explanation": {
+        "nl": "Leer zowel het doel als het veilig gebruik van deze gegevens.",
+        "en": "Learn both the purpose and safe use of these details."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/migratie-en-reizen/paspoort-en-identiteitskaart/vraag-en-antwoord/paspoort-en-identiteitskaart/wat-is-de-identificatieplicht",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/identificatieplicht/geldt-de-identificatieplicht-ook-voor-minderjarigen",
+        "https://www.digid.nl/hulp-contact/hulp-bij-een-bibliotheek"
+      ]
+    },
+    {
+      "id": "institutions-detail-money-q",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-money",
+      "nl": "Waarom moet je een hoger verwacht jaarinkomen doorgeven voor je toeslagen?",
+      "en": "Why should you report a higher expected annual income for allowances?",
+      "answer": {
+        "nl": "Om het voorschot aan te passen en terugbetaling te helpen voorkomen.",
+        "en": "To adjust the advance and help avoid repayment."
+      },
+      "wrong": [
+        {
+          "nl": "Omdat een hoger inkomen altijd meer toeslag geeft.",
+          "en": "Because a higher income always gives more allowance."
+        },
+        {
+          "nl": "Omdat je jaarinkomen nooit gevolgen heeft.",
+          "en": "Because annual income never matters."
+        }
+      ],
+      "explanation": {
+        "nl": "Toeslagen hangen van je situatie af. Je schatting actueel houden voorkomt onjuiste voorschotten.",
+        "en": "Allowances depend on your circumstances. Keeping estimates current helps prevent incorrect advances."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hoe-zorg-ik-dat-jullie-mijn-toeslag-met-het-juiste-inkomen-berekenen"
+      ]
+    },
+    {
+      "id": "institutions-detail-complaints-q",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-complaints",
+      "nl": "Je klacht gaat over de behandeling door een overheidsorganisatie. Waar begin je normaal?",
+      "en": "Your complaint concerns treatment by a public authority. Where do you normally start?",
+      "answer": {
+        "nl": "Bij de overheidsorganisatie zelf.",
+        "en": "With the public authority itself."
+      },
+      "wrong": [
+        {
+          "nl": "Meteen uitsluitend bij de koning.",
+          "en": "Immediately and only with the King."
+        },
+        {
+          "nl": "Je hoeft geen klacht te melden.",
+          "en": "You do not need to report the complaint."
+        }
+      ],
+      "explanation": {
+        "nl": "De organisatie moet eerst de kans krijgen de klacht te behandelen; daarna kan een ombudsman soms helpen.",
+        "en": "The authority should first have an opportunity to handle the complaint; an ombudsman may then help."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.nationaleombudsman.nl/over-de-nationale-ombudsman/wat-doet-de-nationale-ombudsman/zo-werken-wij"
+      ]
+    },
+    {
+      "id": "government-detail-people-q",
+      "topic": "government",
+      "lessonId": "government-detail-people",
+      "nl": "Wie is de minister-president op de controledatum 14 november 2026?",
+      "en": "Who is prime minister on the verification date, 14 November 2026?",
+      "answer": {
+        "nl": "Rob Jetten.",
+        "en": "Rob Jetten."
+      },
+      "wrong": [
+        {
+          "nl": "Willem-Alexander.",
+          "en": "Willem-Alexander."
+        },
+        {
+          "nl": "De burgemeester van elke gemeente.",
+          "en": "The mayor of each municipality."
+        }
+      ],
+      "explanation": {
+        "nl": "Dit is een datumgebonden feit. Controleer de officiële regeringspagina opnieuw vóór je examen.",
+        "en": "This is a dated fact. Recheck the official government page before your exam."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.koninklijkhuis.nl/leden-koninklijk-huis/koning-willem-alexander",
+        "https://www.government.nl/government/members-of-cabinet/rob-jetten",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/rijksoverheid/wat-is-de-regering-en-wat-is-het-kabinet"
+      ]
+    },
+    {
+      "id": "government-detail-voting-q",
+      "topic": "government",
+      "lessonId": "government-detail-voting",
+      "nl": "Mag iemand zonder Nederlandse nationaliteit nooit stemmen in Nederland?",
+      "en": "Is someone without Dutch nationality never allowed to vote in the Netherlands?",
+      "answer": {
+        "nl": "Dat klopt niet: bij gemeenteraadsverkiezingen kan dat onder voorwaarden.",
+        "en": "That is incorrect: municipal voting can be possible subject to conditions."
+      },
+      "wrong": [
+        {
+          "nl": "Dat klopt: geen enkele uitzondering.",
+          "en": "Correct: there are no exceptions."
+        },
+        {
+          "nl": "Iedere toerist mag bij elke verkiezing stemmen.",
+          "en": "Every tourist can vote in every election."
+        }
+      ],
+      "explanation": {
+        "nl": "De voorwaarden verschillen per verkiezing; pas regels voor de Tweede Kamer niet automatisch toe op de gemeenteraad.",
+        "en": "Requirements differ by election; do not automatically apply national election rules to municipal elections."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.kiesraad.nl/verkiezingen/gemeenteraden/stemmen/niet-nederlandse-inwoners"
+      ]
+    },
+    {
+      "id": "government-detail-freedoms-q",
+      "topic": "government",
+      "lessonId": "government-detail-freedoms",
+      "nl": "Mag een minister bepalen hoe een onafhankelijke rechter in een individuele zaak moet beslissen?",
+      "en": "May a minister dictate an independent judge’s decision in an individual case?",
+      "answer": {
+        "nl": "Nee, rechtspraak is onafhankelijk.",
+        "en": "No, the judiciary is independent."
+      },
+      "wrong": [
+        {
+          "nl": "Ja, altijd.",
+          "en": "Yes, always."
+        },
+        {
+          "nl": "Alleen als een politieke partij dat wil.",
+          "en": "Only if a political party wants it."
+        }
+      ],
+      "explanation": {
+        "nl": "Onafhankelijke rechtspraak beschermt burgers en beperkt machtsmisbruik.",
+        "en": "Independent courts protect citizens and limit abuse of power."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "government-detail-donation-q",
+      "topic": "government",
+      "lessonId": "government-detail-donation",
+      "nl": "Kun je je keuze over orgaandonatie later wijzigen?",
+      "en": "Can you change your organ-donation choice later?",
+      "answer": {
+        "nl": "Ja, in het Donorregister.",
+        "en": "Yes, in the Donor Register."
+      },
+      "wrong": [
+        {
+          "nl": "Nee, een keuze is altijd onomkeerbaar.",
+          "en": "No, a choice is always irreversible."
+        },
+        {
+          "nl": "Alleen een werkgever mag dat doen.",
+          "en": "Only an employer may do so."
+        }
+      ],
+      "explanation": {
+        "nl": "Je kunt je eigen keuze vastleggen en aanpassen. Geen bezwaar is een registratie, geen garantie dat donatie plaatsvindt.",
+        "en": "You can record and change your choice. No objection is a registration, not a guarantee that donation occurs."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/familie-zorg-en-gezondheid/orgaandonatie-en-weefseldonatie/actieve-donorregistratie"
+      ]
+    },
+    {
+      "id": "history-detail-provinces-q",
+      "topic": "history",
+      "lessonId": "history-detail-provinces",
+      "nl": "In welke provincie ligt Amsterdam?",
+      "en": "In which province is Amsterdam?",
+      "answer": {
+        "nl": "Noord-Holland.",
+        "en": "Noord-Holland."
+      },
+      "wrong": [
+        {
+          "nl": "Zuid-Holland.",
+          "en": "Zuid-Holland."
+        },
+        {
+          "nl": "Limburg.",
+          "en": "Limburg."
+        }
+      ],
+      "explanation": {
+        "nl": "Amsterdam ligt in Noord-Holland. Den Haag en Rotterdam liggen in Zuid-Holland.",
+        "en": "Amsterdam is in Noord-Holland. The Hague and Rotterdam are in Zuid-Holland."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://www.cbs.nl/-/media/_pdf/2026/09/2026ov027_kaart_12-provincies.pdf"
+      ]
+    },
+    {
+      "id": "history-detail-symbols-q",
+      "topic": "history",
+      "lessonId": "history-detail-symbols",
+      "nl": "Wat is de volgorde van de Nederlandse vlag van boven naar beneden?",
+      "en": "What is the order of the Dutch flag from top to bottom?",
+      "answer": {
+        "nl": "Rood, wit, blauw.",
+        "en": "Red, white, blue."
+      },
+      "wrong": [
+        {
+          "nl": "Blauw, wit, rood.",
+          "en": "Blue, white, red."
+        },
+        {
+          "nl": "Oranje, groen, wit.",
+          "en": "Orange, green, white."
+        }
+      ],
+      "explanation": {
+        "nl": "De vlag heeft drie horizontale banen: rood boven, wit midden, blauw onder.",
+        "en": "The flag has three horizontal bands: red above, white in the middle, blue below."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "history-detail-international-q",
+      "topic": "history",
+      "lessonId": "history-detail-international",
+      "nl": "Welke organisatie is het bondgenootschap voor gezamenlijke veiligheid?",
+      "en": "Which organisation is the alliance for collective security?",
+      "answer": {
+        "nl": "De NAVO.",
+        "en": "NATO."
+      },
+      "wrong": [
+        {
+          "nl": "De woningcorporatie.",
+          "en": "The housing association."
+        },
+        {
+          "nl": "Het Donorregister.",
+          "en": "The Donor Register."
+        }
+      ],
+      "explanation": {
+        "nl": "NAVO = veiligheidsbondgenootschap; EU = Europese samenwerking; VN = wereldwijde samenwerking.",
+        "en": "NATO = security alliance; EU = European cooperation; UN = global cooperation."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    },
+    {
+      "id": "history-detail-region-q",
+      "topic": "history",
+      "lessonId": "history-detail-region",
+      "nl": "Wat is belangrijk bij in- en uitchecken met een betaalmiddel?",
+      "en": "What matters when checking in and out with a payment method?",
+      "answer": {
+        "nl": "Gebruik hetzelfde betaalmiddel en volg de regels van de vervoerder.",
+        "en": "Use the same payment method and follow the operator’s rules."
+      },
+      "wrong": [
+        {
+          "nl": "Gebruik altijd twee verschillende bankpassen.",
+          "en": "Always use two different bank cards."
+        },
+        {
+          "nl": "Een geldig kaartje is nooit nodig.",
+          "en": "A valid ticket is never needed."
+        }
+      ],
+      "explanation": {
+        "nl": "Een correcte reisregistratie en een geldig vervoersbewijs horen bij zelfstandig reizen.",
+        "en": "Correct journey registration and a valid ticket are part of travelling independently."
+      },
+      "page": 0,
+      "source": "Independent practice · expanded lesson · checked 14 Nov 2026",
+      "refs": [
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "housing-detail-rights-v",
+      "topic": "housing",
+      "nl": "achterstallig onderhoud",
+      "en": "overdue maintenance",
+      "context": "Gebreken schriftelijk melden / Report defects in writing"
+    },
+    {
+      "id": "housing-detail-utilities-v",
+      "topic": "housing",
+      "nl": "jaarafrekening",
+      "en": "annual settlement",
+      "context": "Voorschot vergelijken met werkelijke kosten / Compare advances with actual costs"
+    },
+    {
+      "id": "housing-detail-insurance-v",
+      "topic": "housing",
+      "nl": "opstalverzekering",
+      "en": "building insurance",
+      "context": "Gebouw en vaste onderdelen / Structure and fixed parts"
+    },
+    {
+      "id": "housing-detail-search-v",
+      "topic": "housing",
+      "nl": "woonlasten",
+      "en": "housing costs",
+      "context": "Huur plus andere woonkosten / Rent plus other housing expenses"
+    },
+    {
+      "id": "work-detail-benefits-v",
+      "topic": "work",
+      "nl": "informatieplicht",
+      "en": "duty to provide information",
+      "context": "Wijzigingen melden / Report changes"
+    },
+    {
+      "id": "work-detail-representation-v",
+      "topic": "work",
+      "nl": "vakbond",
+      "en": "trade union",
+      "context": "Belangen van werknemers / Workers’ interests"
+    },
+    {
+      "id": "work-detail-enterprise-v",
+      "topic": "work",
+      "nl": "omzet",
+      "en": "turnover",
+      "context": "Niet hetzelfde als winst / Not the same as profit"
+    },
+    {
+      "id": "work-detail-qualifications-v",
+      "topic": "work",
+      "nl": "bijscholing",
+      "en": "further training",
+      "context": "Nieuwe kennis voor je werk / New knowledge for work"
+    },
+    {
+      "id": "values-detail-customs-v",
+      "topic": "values",
+      "nl": "omgangsvormen",
+      "en": "social conventions",
+      "context": "Verschillen per situatie / Vary by setting"
+    },
+    {
+      "id": "values-detail-calendar-v",
+      "topic": "values",
+      "nl": "herdenken",
+      "en": "to commemorate",
+      "context": "Stilstaan bij gebeurtenissen en slachtoffers / Remember events and victims"
+    },
+    {
+      "id": "values-detail-participation-v",
+      "topic": "values",
+      "nl": "vrijwilligerswerk",
+      "en": "volunteering",
+      "context": "Meedoen zonder gewoon loon / Participate without ordinary wages"
+    },
+    {
+      "id": "values-detail-relationships-v",
+      "topic": "values",
+      "nl": "toestemming",
+      "en": "consent",
+      "context": "Vrijwillig instemmen / Agree freely"
+    },
+    {
+      "id": "health-detail-triage-v",
+      "topic": "health",
+      "nl": "huisartsenpost",
+      "en": "out-of-hours GP service",
+      "context": "Dringende huisartsenzorg buiten openingstijden / Urgent GP care outside normal hours"
+    },
+    {
+      "id": "health-detail-costs-v",
+      "topic": "health",
+      "nl": "eigen bijdrage",
+      "en": "co-payment",
+      "context": "Niet hetzelfde als eigen risico / Different from the deductible"
+    },
+    {
+      "id": "health-detail-rights-v",
+      "topic": "health",
+      "nl": "beroepsgeheim",
+      "en": "professional confidentiality",
+      "context": "Medische informatie beschermen / Protect medical information"
+    },
+    {
+      "id": "health-detail-support-v",
+      "topic": "health",
+      "nl": "wijkteam",
+      "en": "neighbourhood support team",
+      "context": "Lokale hulp en ondersteuning / Local help and support"
+    },
+    {
+      "id": "education-detail-ages-v",
+      "topic": "education",
+      "nl": "kwalificatieplicht",
+      "en": "qualification duty",
+      "context": "Tot 18 zonder startkwalificatie, behoudens uitzonderingen / Until 18 without a basic qualification, with exceptions"
+    },
+    {
+      "id": "education-detail-schools-v",
+      "topic": "education",
+      "nl": "bijzonder onderwijs",
+      "en": "privately governed education",
+      "context": "Niet hetzelfde als speciaal onderwijs / Different from special education"
+    },
+    {
+      "id": "education-detail-parents-v",
+      "topic": "education",
+      "nl": "opvoedingsondersteuning",
+      "en": "parenting support",
+      "context": "Hulp bij opvoeden / Help with parenting"
+    },
+    {
+      "id": "education-detail-payments-v",
+      "topic": "education",
+      "nl": "vrijwillige ouderbijdrage",
+      "en": "voluntary parental contribution",
+      "context": "Geen verplichte betaling / Not a compulsory payment"
+    },
+    {
+      "id": "institutions-detail-documents-v",
+      "topic": "institutions",
+      "nl": "naturalisatie",
+      "en": "naturalisation",
+      "context": "Nederlander worden / Becoming a Dutch citizen"
+    },
+    {
+      "id": "institutions-detail-digital-v",
+      "topic": "institutions",
+      "nl": "BSN",
+      "en": "citizen service number",
+      "context": "Persoonlijk nummer, geen wachtwoord / Personal number, not a password"
+    },
+    {
+      "id": "institutions-detail-money-v",
+      "topic": "institutions",
+      "nl": "voorschot",
+      "en": "advance payment",
+      "context": "Voorlopig bedrag / Provisional amount"
+    },
+    {
+      "id": "institutions-detail-complaints-v",
+      "topic": "institutions",
+      "nl": "ombudsman",
+      "en": "ombudsman",
+      "context": "Klachten over de overheid / Complaints about public authorities"
+    },
+    {
+      "id": "government-detail-people-v",
+      "topic": "government",
+      "nl": "minister-president",
+      "en": "prime minister",
+      "context": "Leidt de ministerraad / Chairs the Council of Ministers"
+    },
+    {
+      "id": "government-detail-voting-v",
+      "topic": "government",
+      "nl": "gemeenteraad",
+      "en": "municipal council",
+      "context": "Gekozen volksvertegenwoordiging in de gemeente / Elected municipal representatives"
+    },
+    {
+      "id": "government-detail-freedoms-v",
+      "topic": "government",
+      "nl": "hoger beroep",
+      "en": "appeal",
+      "context": "Een uitspraak laten beoordelen volgens de regels / Seek review of a judgment under the applicable rules"
+    },
+    {
+      "id": "government-detail-donation-v",
+      "topic": "government",
+      "nl": "Donorregister",
+      "en": "Donor Register",
+      "context": "Je keuze over donatie vastleggen / Record your donation choice"
+    },
+    {
+      "id": "history-detail-provinces-v",
+      "topic": "history",
+      "nl": "provincie",
+      "en": "province",
+      "context": "Nederland heeft er twaalf / The Netherlands has twelve"
+    },
+    {
+      "id": "history-detail-symbols-v",
+      "topic": "history",
+      "nl": "volkslied",
+      "en": "national anthem",
+      "context": "Het Wilhelmus / The Wilhelmus"
+    },
+    {
+      "id": "history-detail-international-v",
+      "topic": "history",
+      "nl": "NAVO",
+      "en": "NATO",
+      "context": "Noord-Atlantische Verdragsorganisatie / North Atlantic Treaty Organization"
+    },
+    {
+      "id": "history-detail-region-v",
+      "topic": "history",
+      "nl": "overstappen",
+      "en": "to transfer",
+      "context": "Van de ene verbinding naar de andere / Change from one service to another"
+    }
+  ]
+}
