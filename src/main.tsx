@@ -25,7 +25,7 @@ function App(){
  const go=(v:View)=>{setView(v);setMenu(false);setSearch('');window.scrollTo({top:0,behavior:'instant'});};
  const openTopic=(id:string,lessonId='')=>{setAnchor(lessonId);setTopic(id);setSaved(s=>({...s,lastTopic:id}));go('lesson');};
  const complete=(id:string)=>setSaved(s=>({...s,completed:s.completed.includes(id)?s.completed.filter(x=>x!==id):[...s.completed,id]}));
- const bilingual=(nl:string,en:string)=> <>{language!=='en'&&<StudyPoints text={nl} language="nl" className="dutch"/>}{language!=='nl'&&<StudyPoints text={en} language="en" className={language==='both'?'english':''}/>}</>;
+ const bilingual=(nl:string,en:string)=> <BilingualPoints nl={nl} en={en} language={language}/>;
  const startQuiz=()=>{setQuizMode('topic');setQuiz({ids:shuffle(questions.filter(q=>q.topic===topic.id)).map(q=>q.id),answers:{},deadline:0,finished:false,index:0});setReveal(false);go('quiz');};
  const startAssessment=()=>{setQuizMode('assessment');setQuiz({ids:assessmentQuestions.map(q=>q.id),answers:{},deadline:0,finished:false,index:0});setReveal(false);go('quiz');};
  const startExam=()=>{const now=Date.now();const ids=shuffle(topics.flatMap(t=>shuffle(questions.filter(q=>q.topic===t.id)).slice(0,5))).map(q=>q.id);setSaved(s=>({...s,exam:{ids,answers:{},deadline:now+45*60*1000,finished:false,index:0}}));setTick(now);go('exam');};
@@ -47,6 +47,14 @@ function App(){
  </div>{section==='speaking'&&<Speaking/>}<footer><span>Dutch study · NL / EN</span>{section==='knm'&&<button onClick={()=>go('sources')}>Sources & credits <ArrowRight size={14}/></button>}</footer></main></div></div>;
 }
 function Concept({topic,index}:{topic:number;index:number}){const sets=[[Home,BookOpen,Landmark,Clock,Layers,Scale],[Briefcase,BookOpen,Layers,Check,HeartPulse,BookOpen],[HeartHandshake,Check,HeartHandshake,Home,HeartHandshake,Clock],[HeartPulse,HeartPulse,GraduationCap,BookOpen,Layers,GraduationCap],[HeartPulse,ArrowRight,HeartPulse,HeartHandshake,Layers,Landmark],[Landmark,BookOpen,Scale,BookOpen,Briefcase,Scale],[BookOpen,Landmark,Briefcase,Map,Check,HeartHandshake],[Map,Map,Home,HeartHandshake,BookOpen,Layers]];const Icon=sets[topic]?.[index%6]||BookOpen;return <div className="concept-art"><span className="concept-symbol"><Icon size={34} strokeWidth={1.4}/></span></div>}
+function BilingualPoints({nl,en,language}:{nl:string;en:string;language:'both'|'nl'|'en'}){
+ const split=(text:string,locale:string)=>typeof Intl.Segmenter==='function'?Array.from(new Intl.Segmenter(locale,{granularity:'sentence'}).segment(text),x=>x.segment.trim()).filter(Boolean):[text];
+ if(language!=='both')return <StudyPoints text={language==='nl'?nl:en} language={language}/>;
+ const dutch=split(nl,'nl'),english=split(en,'en');
+ // A paragraph-level translation is safer than pairing unrelated sentences.
+ const points=dutch.length===english.length?dutch.map((text,i)=>({nl:text,en:english[i]})):[{nl,en}];
+ return <ul className="study-points paired-points">{points.map((point,i)=><li key={i}><span className="point-dutch" lang="nl">{point.nl}</span><span className="point-translation" lang="en">{point.en}</span></li>)}</ul>;
+}
 function StudyPoints({text,language,className=''}:{text:string;language:'nl'|'en';className?:string}){
  const sentences=typeof Intl.Segmenter==='function'?Array.from(new Intl.Segmenter(language,{granularity:'sentence'}).segment(text),x=>x.segment.trim()).filter(Boolean):[text];
  return <ul className={`study-points ${className}`} lang={language}>{sentences.map((sentence,i)=><li key={i}>{sentence}</li>)}</ul>;
