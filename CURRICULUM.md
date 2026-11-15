@@ -24,3 +24,8 @@ Verification date: 14 November 2026. This chapter map is not a statutory sub-ind
 ## Expanded course
 
 A further 32 bilingual lesson sections and explained questions address gaps beyond the book, bringing the course to 74 lessons, 82 questions and 80 vocabulary cards. The application’s Exam checklist includes every numbered knowledge target (78 total) and opens linked lessons. See CURRICULUM_AUDIT.md for the full mapping. Every expanded section includes dated source links; the province guide also links to the official CBS map. Checkmarks mean the learner self-assessed the target, not that DUO has verified mastery.
+
+
+## Practice-result review — 15 November 2026
+
+Sixteen existing lesson sections now include missing detail from the supplied practice-result PDF and primary-source checks. Lesson IDs and the 78-target map are unchanged. The general bank now has 122 unique questions; a separate 40-question PDF-based collection preserves source coverage without inserting eight equivalent questions twice. Eight new target-based questions cover additional details not tested in that PDF. These additions are not a prediction of specific exam questions. See ASSESSMENT_REVIEW.md.

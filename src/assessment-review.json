@@ -1,0 +1,1865 @@
+{
+  "checked": "2026-11-15",
+  "questions": [
+    {
+      "id": "pdf-review-01",
+      "canonicalId": "pdf-review-01",
+      "topic": "history",
+      "lessonId": "history-2",
+      "nl": "Waarom zijn de Deltawerken gebouwd?",
+      "en": "Why were the Delta Works built?",
+      "options": [
+        {
+          "nl": "Om meer vis te kunnen vangen.",
+          "en": "To catch more fish."
+        },
+        {
+          "nl": "Om Nederland te beschermen tegen de zee.",
+          "en": "To protect the Netherlands against the sea."
+        },
+        {
+          "nl": "Om nieuwe steden te kunnen bouwen.",
+          "en": "To build new cities."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Om Nederland te beschermen tegen de zee.",
+        "en": "To protect the Netherlands against the sea."
+      },
+      "explanation": {
+        "nl": "De Deltawerken beschermen tegen hoogwater en stormvloeden. De watersnoodramp van 1953 was de aanleiding voor het Deltaplan.",
+        "en": "The Delta Works protect against high water and storm surges. The 1953 flood disaster prompted the Delta Plan."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 1 · PDF p. 1. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 1,
+      "pdfPages": [
+        1
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-02",
+      "canonicalId": "pdf-review-02",
+      "topic": "history",
+      "lessonId": "history-detail-international",
+      "nl": "Nederland is lid van de VN (Verenigde Naties). Wat is een hoofddoel van de VN?",
+      "en": "The Netherlands belongs to the UN. What is one central purpose of the UN?",
+      "options": [
+        {
+          "nl": "Bescherming van de natuur.",
+          "en": "Protecting nature."
+        },
+        {
+          "nl": "Beter onderwijs.",
+          "en": "Better education."
+        },
+        {
+          "nl": "Vrede en veiligheid.",
+          "en": "Peace and security."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Vrede en veiligheid.",
+        "en": "Peace and security."
+      },
+      "explanation": {
+        "nl": "Internationale vrede en veiligheid is een hoofddoel van de VN. De VN werkt ook aan andere doelen; verwar de organisatie niet met de EU of de NAVO.",
+        "en": "International peace and security is a central UN purpose. The UN has other aims too; it is different from the EU and NATO."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 2 · PDF p. 2. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 2,
+      "pdfPages": [
+        2
+      ],
+      "refs": [
+        "https://www.un.org/en/our-work/maintain-international-peace-and-security"
+      ]
+    },
+    {
+      "id": "pdf-review-03",
+      "canonicalId": "history-detail-provinces-q",
+      "topic": "history",
+      "lessonId": "history-detail-provinces",
+      "nl": "In welke provincie ligt Amsterdam, de hoofdstad van Nederland?",
+      "en": "In which province is Amsterdam, the capital of the Netherlands?",
+      "options": [
+        {
+          "nl": "Noord-Holland.",
+          "en": "North Holland."
+        },
+        {
+          "nl": "Utrecht.",
+          "en": "Utrecht."
+        },
+        {
+          "nl": "Zuid-Holland.",
+          "en": "South Holland."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Noord-Holland.",
+        "en": "North Holland."
+      },
+      "explanation": {
+        "nl": "Amsterdam ligt in Noord-Holland. De regeringszetel Den Haag ligt in Zuid-Holland.",
+        "en": "Amsterdam is in North Holland. The seat of government, The Hague, is in South Holland."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 3 · PDF p. 2, 3. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 3,
+      "pdfPages": [
+        2,
+        3
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-04",
+      "canonicalId": "pdf-review-04",
+      "topic": "history",
+      "lessonId": "history-detail-symbols",
+      "nl": "Wat is het Wilhelmus?",
+      "en": "What is the Wilhelmus?",
+      "options": [
+        {
+          "nl": "De Nederlandse grondwet.",
+          "en": "The Dutch Constitution."
+        },
+        {
+          "nl": "Het Nederlandse voetbalteam.",
+          "en": "The Dutch national football team."
+        },
+        {
+          "nl": "Het Nederlandse volkslied.",
+          "en": "The Dutch national anthem."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Het Nederlandse volkslied.",
+        "en": "The Dutch national anthem."
+      },
+      "explanation": {
+        "nl": "Het Wilhelmus is het Nederlandse volkslied. De Grondwet is de basiswet van de staat.",
+        "en": "The Wilhelmus is the Dutch national anthem. The Constitution is the state’s fundamental law."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 4 · PDF p. 3, 4. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 4,
+      "pdfPages": [
+        3,
+        4
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-05",
+      "canonicalId": "pdf-review-05",
+      "topic": "history",
+      "lessonId": "history-detail-symbols",
+      "nl": "Wanneer was de Holocaust?",
+      "en": "During which period did the Holocaust take place?",
+      "options": [
+        {
+          "nl": "Tijdens de Eerste Wereldoorlog.",
+          "en": "During the First World War."
+        },
+        {
+          "nl": "Tijdens de Koude Oorlog.",
+          "en": "During the Cold War."
+        },
+        {
+          "nl": "Tijdens de Tweede Wereldoorlog.",
+          "en": "During the Second World War."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Tijdens de Tweede Wereldoorlog.",
+        "en": "During the Second World War."
+      },
+      "explanation": {
+        "nl": "De Holocaust was de systematische vervolging en moord op Joden door nazi-Duitsland en zijn helpers tijdens de Tweede Wereldoorlog. Dit is iets anders dan de Eerste Wereldoorlog of de Koude Oorlog.",
+        "en": "The Holocaust was the systematic persecution and murder of Jews by Nazi Germany and its collaborators during the Second World War, not the First World War or Cold War."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 5 · PDF p. 4. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 5,
+      "pdfPages": [
+        4
+      ],
+      "refs": [
+        "https://www.annefrank.org/nl/anne-frank/de-tijdlijn/"
+      ]
+    },
+    {
+      "id": "pdf-review-06",
+      "canonicalId": "pdf-review-06",
+      "topic": "housing",
+      "lessonId": "housing-detail-utilities",
+      "nl": "Wouter heeft een leeg blikje met statiegeld. Waar kan hij dit inleveren?",
+      "en": "Wouter has an empty deposit can. Where can he return it?",
+      "options": [
+        {
+          "nl": "Bij de apotheek.",
+          "en": "At a pharmacy."
+        },
+        {
+          "nl": "Bij de gemeente.",
+          "en": "At the municipality."
+        },
+        {
+          "nl": "Bij een supermarkt met een innamepunt.",
+          "en": "At a supermarket with a return point."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Bij een supermarkt met een innamepunt.",
+        "en": "At a supermarket with a return point."
+      },
+      "explanation": {
+        "nl": "Een statiegeldblikje lever je in bij een innamepunt, bijvoorbeeld in een supermarkt. De apotheek is voor medicijnen, niet voor statiegeld.",
+        "en": "Return a deposit can at a collection point, for example in a supermarket. A pharmacy supplies medicines, not deposit refunds."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 6 · PDF p. 5. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 6,
+      "pdfPages": [
+        5
+      ],
+      "refs": [
+        "https://www.statiegeldnederland.nl/consumenten/veelgestelde-vragen"
+      ]
+    },
+    {
+      "id": "pdf-review-07",
+      "canonicalId": "pdf-review-07",
+      "topic": "housing",
+      "lessonId": "housing-detail-search",
+      "nl": "Job en Kelly willen een huis kopen. Wie kan hen daarbij helpen?",
+      "en": "Job and Kelly want to buy a home. Who can help them?",
+      "options": [
+        {
+          "nl": "Een uitzendbureau.",
+          "en": "An employment agency."
+        },
+        {
+          "nl": "Een makelaar.",
+          "en": "An estate agent."
+        },
+        {
+          "nl": "Het UWV.",
+          "en": "UWV."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Een makelaar.",
+        "en": "An estate agent."
+      },
+      "explanation": {
+        "nl": "Een makelaar helpt bij zoeken, bezichtigen en onderhandelen. Een notaris heeft een andere rol: de juridische overdracht. UWV en uitzendbureaus gaan over werk.",
+        "en": "An estate agent helps with searching, viewing and negotiation. A notary handles the legal transfer. UWV and employment agencies concern work."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 7 · PDF p. 5, 6. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 7,
+      "pdfPages": [
+        5,
+        6
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-08",
+      "canonicalId": "pdf-review-08",
+      "topic": "housing",
+      "lessonId": "housing-detail-search",
+      "nl": "Erik woont in een sociale huurwoning. Wat is dat?",
+      "en": "Erik lives in social housing. What does that mean?",
+      "options": [
+        {
+          "nl": "Een woning met een gereguleerde maximumhuur.",
+          "en": "A home with a regulated maximum rent."
+        },
+        {
+          "nl": "Een woning voor een korte tijd.",
+          "en": "A home rented only for a short period."
+        },
+        {
+          "nl": "Een woning zonder huurcontract.",
+          "en": "A home without a rental agreement."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Een woning met een gereguleerde maximumhuur.",
+        "en": "A home with a regulated maximum rent."
+      },
+      "explanation": {
+        "nl": "Sociale huur kent huurprijsbescherming en een maximale huur volgens de regels. Het betekent niet dat er geen contract is of dat de huur maar kort duurt.",
+        "en": "Social housing has rent regulation and a maximum rent under the rules. It does not mean there is no contract or the tenancy must be short."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 8 · PDF p. 6. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 8,
+      "pdfPages": [
+        6
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-09",
+      "canonicalId": "pdf-review-09",
+      "topic": "government",
+      "lessonId": "government-4",
+      "nl": "Sam mag stemmen. Hoe heet dit kiesrecht?",
+      "en": "Sam is entitled to vote. What is this right called?",
+      "options": [
+        {
+          "nl": "Actief kiesrecht.",
+          "en": "Active voting rights."
+        },
+        {
+          "nl": "Passief kiesrecht.",
+          "en": "The right to stand as a candidate."
+        },
+        {
+          "nl": "Verplicht kiesrecht.",
+          "en": "Compulsory voting rights."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Actief kiesrecht.",
+        "en": "Active voting rights."
+      },
+      "explanation": {
+        "nl": "Actief kiesrecht is zelf stemmen. Passief kiesrecht is je verkiesbaar stellen. In Nederland is stemmen geen algemene verplichting.",
+        "en": "Active voting rights mean voting; passive voting rights mean standing as a candidate. Voting is not generally compulsory in the Netherlands."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 9 · PDF p. 7. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 9,
+      "pdfPages": [
+        7
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-10",
+      "canonicalId": "pdf-review-10",
+      "topic": "government",
+      "lessonId": "history-detail-international",
+      "nl": "Chris heeft een Nederlands paspoort en reist voor zijn werk naar België. Moet hij voor die reis een visum aanvragen?",
+      "en": "Chris has a Dutch passport and travels to Belgium for work. Does he need a visa for this trip?",
+      "options": [
+        {
+          "nl": "Ja, dat moet.",
+          "en": "Yes."
+        },
+        {
+          "nl": "Alleen als hij langer dan een week blijft.",
+          "en": "Only if he stays longer than a week."
+        },
+        {
+          "nl": "Nee, dat hoeft niet.",
+          "en": "No."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Nee, dat hoeft niet.",
+        "en": "No."
+      },
+      "explanation": {
+        "nl": "Voor deze reis naar België heeft een Nederlander geen visum nodig. Een geldig paspoort of identiteitskaart blijft nodig. Dit geldt niet automatisch voor iedereen met alleen een Nederlandse verblijfsvergunning.",
+        "en": "A Dutch citizen does not need a visa for this trip to Belgium. A valid passport or ID card is still needed. A Dutch residence permit alone does not give everyone identical rights."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 10 · PDF p. 8. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 10,
+      "pdfPages": [
+        8
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-11",
+      "canonicalId": "pdf-review-11",
+      "topic": "government",
+      "lessonId": "government-detail-freedoms",
+      "nl": "Mogen vrouwen in Nederland hetzelfde werk doen als mannen?",
+      "en": "May women do the same work as men in the Netherlands?",
+      "options": [
+        {
+          "nl": "Ja, dat mogen ze.",
+          "en": "Yes."
+        },
+        {
+          "nl": "Alleen als ze nog geen kinderen hebben.",
+          "en": "Only if they do not have children."
+        },
+        {
+          "nl": "Nee, dat mogen ze niet.",
+          "en": "No."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Ja, dat mogen ze.",
+        "en": "Yes."
+      },
+      "explanation": {
+        "nl": "Vrouwen en mannen hebben gelijke rechten op het werk. Kinderen hebben is geen algemene wettelijke reden om een vrouw werk te verbieden.",
+        "en": "Women and men have equal rights at work. Having children is not a general legal reason to prohibit a woman from working."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 11 · PDF p. 8, 9. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 11,
+      "pdfPages": [
+        8,
+        9
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/werk/gelijke-behandeling-op-het-werk/regels-gelijke-behandeling-op-het-werk"
+      ]
+    },
+    {
+      "id": "pdf-review-12",
+      "canonicalId": "pdf-review-12",
+      "topic": "government",
+      "lessonId": "government-detail-freedoms",
+      "nl": "Wie mag nieuwe wetten aannemen in Nederland?",
+      "en": "Who may adopt new laws in the Netherlands?",
+      "options": [
+        {
+          "nl": "De gemeente.",
+          "en": "The municipality."
+        },
+        {
+          "nl": "De rechter.",
+          "en": "The judge."
+        },
+        {
+          "nl": "Het parlement.",
+          "en": "Parliament."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Het parlement.",
+        "en": "Parliament."
+      },
+      "explanation": {
+        "nl": "Voor landelijke wetten behandelt het parlement wetsvoorstellen: de Tweede Kamer en daarna de Eerste Kamer. De rechter beoordeelt zaken; gemeenten maken lokale regels, geen landelijke parlementaire wetten.",
+        "en": "For national laws, Parliament considers bills through the House and then the Senate. Courts decide cases; municipalities make local rules, not national parliamentary legislation."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 12 · PDF p. 9. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 12,
+      "pdfPages": [
+        9
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-13",
+      "canonicalId": "pdf-review-13",
+      "topic": "government",
+      "lessonId": "government-detail-freedoms",
+      "nl": "Maura wordt vervolgd voor rijden zonder rijbewijs. Haar zaak komt voor de strafrechter. Wie doet dan onafhankelijk uitspraak over de straf?",
+      "en": "Maura is prosecuted for driving without a licence and her case goes to criminal court. Who independently decides the sentence there?",
+      "options": [
+        {
+          "nl": "De burgemeester.",
+          "en": "The mayor."
+        },
+        {
+          "nl": "De politie.",
+          "en": "The police."
+        },
+        {
+          "nl": "De rechter.",
+          "en": "The judge."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "De rechter.",
+        "en": "The judge."
+      },
+      "explanation": {
+        "nl": "In een zaak voor de strafrechter beslist de rechter. De politie onderzoekt en handhaaft. Let op: voor sommige feiten kan het OM zelf een strafbeschikking opleggen; niet elke zaak komt voor de rechter.",
+        "en": "In a criminal court case the judge decides. Police investigate and enforce the law. For some offences the prosecution service can issue a penalty order; not every case goes to court."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 13 · PDF p. 10. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 13,
+      "pdfPages": [
+        10
+      ],
+      "refs": [
+        "https://www.om.nl/onderwerpen/s/strafbeschikking"
+      ],
+      "adaptation": "Court context added: the original simplified question must not imply that only judges can impose any penalty."
+    },
+    {
+      "id": "pdf-review-14",
+      "canonicalId": "work-2",
+      "topic": "work",
+      "lessonId": "work-3",
+      "nl": "Jasons brutosalaris is €2.900. Wat ontvangt hij na de gebruikelijke inhoudingen op zijn bankrekening?",
+      "en": "Jason’s gross pay is €2,900. What does he receive after the usual deductions?",
+      "options": [
+        {
+          "nl": "Minder dan €2.900.",
+          "en": "Less than €2,900."
+        },
+        {
+          "nl": "Precies €2.900.",
+          "en": "Exactly €2,900."
+        },
+        {
+          "nl": "Meer dan €2.900.",
+          "en": "More than €2,900."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Minder dan €2.900.",
+        "en": "Less than €2,900."
+      },
+      "explanation": {
+        "nl": "Bruto is vóór belasting en andere inhoudingen. Netto is wat na die inhoudingen overblijft. De vraag gaat over het loon zelf, niet over een eventuele onkostenvergoeding.",
+        "en": "Gross is before tax and other deductions. Net is what remains afterwards. This asks about pay itself, not any separate expense reimbursement."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 14 · PDF p. 11. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 14,
+      "pdfPages": [
+        11
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-15",
+      "canonicalId": "pdf-review-15",
+      "topic": "work",
+      "lessonId": "work-detail-qualifications",
+      "nl": "Wat stuur je vaak naar een bedrijf als je solliciteert?",
+      "en": "What do you often send an employer when applying for a job?",
+      "options": [
+        {
+          "nl": "Een sollicitatiebrief en een kopie van je zorgpas.",
+          "en": "A cover letter and a copy of your health insurance card."
+        },
+        {
+          "nl": "Een sollicitatiebrief en je cv.",
+          "en": "A cover letter and your CV."
+        },
+        {
+          "nl": "Je cv en een kopie van je zorgpas.",
+          "en": "Your CV and a copy of your health insurance card."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Een sollicitatiebrief en je cv.",
+        "en": "A cover letter and your CV."
+      },
+      "explanation": {
+        "nl": "Een cv beschrijft opleiding en ervaring; een sollicitatiebrief legt je motivatie uit. Je zorgpas bevat geen relevante motivatie of werkervaring.",
+        "en": "A CV describes qualifications and experience; a cover letter explains your motivation. A health insurance card is not relevant application material."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 15 · PDF p. 11, 12. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 15,
+      "pdfPages": [
+        11,
+        12
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-16",
+      "canonicalId": "pdf-review-16",
+      "topic": "work",
+      "lessonId": "institutions-detail-money",
+      "nl": "Maartje krijgt kinderopvangtoeslag. Haar inkomen stijgt en alle andere omstandigheden blijven gelijk. Wat gebeurt er waarschijnlijk?",
+      "en": "Maartje receives childcare allowance. Her income rises and everything else stays the same. What is likely?",
+      "options": [
+        {
+          "nl": "De toeslag gaat omlaag.",
+          "en": "The allowance decreases."
+        },
+        {
+          "nl": "De toeslag blijft altijd gelijk.",
+          "en": "It always stays the same."
+        },
+        {
+          "nl": "De toeslag gaat omhoog.",
+          "en": "The allowance increases."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "De toeslag gaat omlaag.",
+        "en": "The allowance decreases."
+      },
+      "explanation": {
+        "nl": "Kinderopvangtoeslag is inkomensafhankelijk. Een hoger toetsingsinkomen betekent doorgaans een lager vergoedingspercentage. Meld de inkomenswijziging bij Dienst Toeslagen.",
+        "en": "Childcare allowance is income-related. A higher assessment income generally means a lower reimbursement percentage. Report the change to Dienst Toeslagen."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 16 · PDF p. 12. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 16,
+      "pdfPages": [
+        12
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-17",
+      "canonicalId": "pdf-review-17",
+      "topic": "work",
+      "lessonId": "work-detail-benefits",
+      "nl": "Marks contract eindigt binnenkort. Vanaf wanneer kan hij volgens UWV een WW-uitkering aanvragen?",
+      "en": "Mark’s contract will end soon. From when can he apply for WW according to UWV?",
+      "options": [
+        {
+          "nl": "Vanaf één week vóór zijn eerste werkloosheidsdag.",
+          "en": "From one week before his first day of unemployment."
+        },
+        {
+          "nl": "Pas een maand na zijn eerste werkloosheidsdag.",
+          "en": "Only a month after his first day of unemployment."
+        },
+        {
+          "nl": "Hij hoeft niets aan te vragen; WW gaat automatisch.",
+          "en": "He need not apply; WW starts automatically."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Vanaf één week vóór zijn eerste werkloosheidsdag.",
+        "en": "From one week before his first day of unemployment."
+      },
+      "explanation": {
+        "nl": "UWV rekent vanaf de eerste werkloosheidsdag: aanvragen kan één week ervoor en uiterlijk één week erna. Het PDF-voorbeeld rekende eenvoudig een week vóór contracteinde; volg voor echte aanvragen de UWV-datum.",
+        "en": "UWV uses the first unemployment day: apply from one week before and no later than one week after it. The PDF example simply counted back from contract end; use UWV’s date for real applications."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 17 · PDF p. 13. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 17,
+      "pdfPages": [
+        13
+      ],
+      "refs": [
+        "https://www.uwv.nl/nl/ww/ww-aanvragen"
+      ],
+      "adaptation": "Specific dates replaced with UWV first-unemployment-day rule; the PDF’s 24 May example for a 31 May contract end is not a universal deadline."
+    },
+    {
+      "id": "pdf-review-18",
+      "canonicalId": "pdf-review-18",
+      "topic": "work",
+      "lessonId": "work-detail-qualifications",
+      "nl": "Eva wil graag een deeltijdbaan. Kan dat in Nederland?",
+      "en": "Eva would like a part-time job. Is that possible in the Netherlands?",
+      "options": [
+        {
+          "nl": "Ja, dat kan.",
+          "en": "Yes."
+        },
+        {
+          "nl": "Alleen als zij ook een opleiding volgt.",
+          "en": "Only if she is also studying."
+        },
+        {
+          "nl": "Nee, dat kan niet.",
+          "en": "No."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Ja, dat kan.",
+        "en": "Yes."
+      },
+      "explanation": {
+        "nl": "Deeltijd betekent minder uren dan een voltijdbaan. Studeren is geen algemene voorwaarde om in deeltijd te mogen werken.",
+        "en": "Part-time means working fewer hours than a full-time job. Being a student is not a general requirement."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 18 · PDF p. 13, 14. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 18,
+      "pdfPages": [
+        13,
+        14
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-19",
+      "canonicalId": "work-4",
+      "topic": "work",
+      "lessonId": "work-detail-enterprise",
+      "nl": "Ming begint een eigen schoenenwinkel. Wat moet zij als ondernemer doen?",
+      "en": "Ming starts her own shoe shop. What must she do as a business owner?",
+      "options": [
+        {
+          "nl": "Lid worden van een vakbond.",
+          "en": "Join a trade union."
+        },
+        {
+          "nl": "Veel reclame maken.",
+          "en": "Advertise extensively."
+        },
+        {
+          "nl": "Zich inschrijven bij de Kamer van Koophandel.",
+          "en": "Register with the Chamber of Commerce."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Zich inschrijven bij de Kamer van Koophandel.",
+        "en": "Register with the Chamber of Commerce."
+      },
+      "explanation": {
+        "nl": "Een onderneming wordt ingeschreven in het Handelsregister van de KvK. Reclame kan nuttig zijn maar is geen algemene wettelijke startvoorwaarde; vakbondslidmaatschap evenmin.",
+        "en": "Register the business in the Chamber of Commerce trade register. Advertising may help but is not a general legal start-up requirement, nor is union membership."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 19 · PDF p. 15. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 19,
+      "pdfPages": [
+        15
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-20",
+      "canonicalId": "pdf-review-20",
+      "topic": "work",
+      "lessonId": "work-detail-qualifications",
+      "nl": "Mag een werkgever eisen dat je goed Nederlands kunt schrijven?",
+      "en": "May an employer require good written Dutch?",
+      "options": [
+        {
+          "nl": "Ja, altijd, voor elke baan.",
+          "en": "Yes, always, for every job."
+        },
+        {
+          "nl": "Alleen als die eis nodig en passend is voor de functie.",
+          "en": "Only if the requirement is necessary and appropriate for the job."
+        },
+        {
+          "nl": "Nee, nooit.",
+          "en": "No, never."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Alleen als die eis nodig en passend is voor de functie.",
+        "en": "Only if the requirement is necessary and appropriate for the job."
+      },
+      "explanation": {
+        "nl": "Een functiegerichte taaleis kan gerechtvaardigd zijn. Een onnodig hoge taaleis kan indirect discrimineren. Beoordeel dus wat het werk werkelijk vraagt.",
+        "en": "A job-related language requirement can be justified. An unnecessarily high requirement can indirectly discriminate. What the role actually requires matters."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 20 · PDF p. 15, 16. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 20,
+      "pdfPages": [
+        15,
+        16
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/werk/gelijke-behandeling-op-het-werk/regels-gelijke-behandeling-op-het-werk"
+      ]
+    },
+    {
+      "id": "pdf-review-21",
+      "canonicalId": "pdf-review-21",
+      "topic": "work",
+      "lessonId": "work-detail-representation",
+      "nl": "Lotte heeft een arbeidscontract zonder afgesproken einddatum. Hoe heet dat?",
+      "en": "Lotte has an employment contract with no agreed end date. What is it called?",
+      "options": [
+        {
+          "nl": "Een nulurencontract.",
+          "en": "A zero-hours contract."
+        },
+        {
+          "nl": "Een tijdelijk contract.",
+          "en": "A temporary contract."
+        },
+        {
+          "nl": "Een vast contract.",
+          "en": "A permanent contract."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Een vast contract.",
+        "en": "A permanent contract."
+      },
+      "explanation": {
+        "nl": "Vast betekent voor onbepaalde tijd. Nuluren zegt iets over de uren, niet automatisch over de einddatum. Tijdelijk betekent voor bepaalde tijd of een afgebakend project.",
+        "en": "Permanent means indefinite duration. Zero-hours describes working hours, not automatically the end date. Temporary means a defined period or project."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 21 · PDF p. 16. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 21,
+      "pdfPages": [
+        16
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/werk/ontslag/vraag-en-antwoord/arbeidsomstandigheden/wat-is-het-verschil-tussen-een-tijdelijk-contract-en-een-vast-contract",
+        "https://www.workinnl.nl/loon/nuluren/default.aspx"
+      ]
+    },
+    {
+      "id": "pdf-review-22",
+      "canonicalId": "pdf-review-22",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-digital",
+      "nl": "Wat kun je met een DigiD?",
+      "en": "What can you do with DigiD?",
+      "options": [
+        {
+          "nl": "Geld overmaken naar het buitenland.",
+          "en": "Transfer money abroad."
+        },
+        {
+          "nl": "Alleen solliciteren bij bedrijven.",
+          "en": "Only apply for jobs at companies."
+        },
+        {
+          "nl": "Veilig inloggen bij digitale overheidsdiensten.",
+          "en": "Sign in securely to online public services."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Veilig inloggen bij digitale overheidsdiensten.",
+        "en": "Sign in securely to online public services."
+      },
+      "explanation": {
+        "nl": "DigiD is een inlogmiddel voor onder meer overheid en zorg. Het is geen bankrekening, identiteitsbewijs of BSN.",
+        "en": "DigiD is a login method for services including government and healthcare. It is not a bank account, identity document or BSN."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 22 · PDF p. 17. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 22,
+      "pdfPages": [
+        17
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-23",
+      "canonicalId": "pdf-review-23",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-documents",
+      "nl": "Latisha en Koen zijn gescheiden. Waar wordt de echtscheiding ingeschreven?",
+      "en": "Latisha and Koen have divorced. Where is the divorce registered?",
+      "options": [
+        {
+          "nl": "Bij de gemeente, in de burgerlijke stand.",
+          "en": "At the municipality, in the civil registry."
+        },
+        {
+          "nl": "Bij de Kamer van Koophandel.",
+          "en": "At the Chamber of Commerce."
+        },
+        {
+          "nl": "Bij Nibud.",
+          "en": "At Nibud."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Bij de gemeente, in de burgerlijke stand.",
+        "en": "At the municipality, in the civil registry."
+      },
+      "explanation": {
+        "nl": "Een echtscheiding wordt na de rechterlijke beslissing ingeschreven bij de burgerlijke stand van de gemeente waar het huwelijk is gesloten. Nibud geeft budgetinformatie; KvK registreert bedrijven.",
+        "en": "After the court decision, a divorce is entered in the civil registry where the marriage took place. Nibud provides budgeting information; the Chamber of Commerce registers businesses."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 23 · PDF p. 18. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 23,
+      "pdfPages": [
+        18
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-24",
+      "canonicalId": "pdf-review-24",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-money",
+      "nl": "Welke kosten zijn geen gewone publieke uitgave uit belastingen of sociale premies?",
+      "en": "Which costs are not an ordinary public expenditure funded by tax or social insurance contributions?",
+      "options": [
+        {
+          "nl": "Salarissen van medewerkers van een commerciële bank.",
+          "en": "Salaries of commercial bank employees."
+        },
+        {
+          "nl": "Het aanleggen van dijken.",
+          "en": "Building dikes."
+        },
+        {
+          "nl": "WW-uitkeringen.",
+          "en": "WW unemployment benefits."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Salarissen van medewerkers van een commerciële bank.",
+        "en": "Salaries of commercial bank employees."
+      },
+      "explanation": {
+        "nl": "Een commerciële bank betaalt haar eigen personeel. Dijken zijn een publieke taak. WW behoort tot de sociale verzekeringen en wordt mede via premies bekostigd: belasting en premie zijn niet precies hetzelfde.",
+        "en": "A commercial bank pays its own staff. Dikes are a public responsibility. WW is social insurance funded in part by contributions: tax and social insurance contributions are not identical."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 24 · PDF p. 18, 19. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 24,
+      "pdfPages": [
+        18,
+        19
+      ],
+      "refs": [],
+      "adaptation": "Tax/social-insurance wording clarified: the PDF groups WW under tax money, while social contributions are a distinct funding source."
+    },
+    {
+      "id": "pdf-review-25",
+      "canonicalId": "pdf-review-25",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-digital",
+      "nl": "Luuk is 15 en wordt verdacht van diefstal. De politie vraagt terecht om zijn identiteitsbewijs. Moet hij dat laten zien?",
+      "en": "Luuk is 15 and suspected of theft. Police lawfully ask for his ID. Must he show it?",
+      "options": [
+        {
+          "nl": "Ja.",
+          "en": "Yes."
+        },
+        {
+          "nl": "Alleen bij een dure diefstal.",
+          "en": "Only if the stolen item was expensive."
+        },
+        {
+          "nl": "Nee, pas vanaf 18 jaar.",
+          "en": "No, only from age 18."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Ja.",
+        "en": "Yes."
+      },
+      "explanation": {
+        "nl": "Vanaf 14 jaar geldt de identificatieplicht bij een bevoegde en gerechtvaardigde controle. De waarde van het gestolen artikel verandert die leeftijdsgrens niet.",
+        "en": "From age 14, valid ID must be shown during an authorised and justified check. The value of the stolen item does not change that age threshold."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 25 · PDF p. 19. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 25,
+      "pdfPages": [
+        19
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-26",
+      "canonicalId": "education-3",
+      "topic": "education",
+      "lessonId": "education-3",
+      "nl": "Bij welke organisatie kun je kinderbijslag aanvragen?",
+      "en": "Which organisation handles child benefit applications?",
+      "options": [
+        {
+          "nl": "De Sociale Verzekeringsbank (SVB).",
+          "en": "The Social Insurance Bank (SVB)."
+        },
+        {
+          "nl": "DUO.",
+          "en": "DUO."
+        },
+        {
+          "nl": "Een zorgverzekeraar.",
+          "en": "A health insurer."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "De Sociale Verzekeringsbank (SVB).",
+        "en": "The Social Insurance Bank (SVB)."
+      },
+      "explanation": {
+        "nl": "SVB voert de kinderbijslag uit. DUO gaat onder meer over studiefinanciering. Kinderopvangtoeslag is weer een andere regeling.",
+        "en": "SVB administers child benefit. DUO handles matters including student finance. Childcare allowance is a different scheme."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 26 · PDF p. 20. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 26,
+      "pdfPages": [
+        20
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-27",
+      "canonicalId": "pdf-review-27",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-documents",
+      "nl": "Erik is geslaagd voor zijn rijexamen. Waar vraagt hij zijn rijbewijs aan?",
+      "en": "Erik has passed his driving test. Where does he apply for his driving licence?",
+      "options": [
+        {
+          "nl": "Bij de Belastingdienst.",
+          "en": "At the Tax Administration."
+        },
+        {
+          "nl": "Bij de gemeente.",
+          "en": "At the municipality."
+        },
+        {
+          "nl": "Bij de rijschool.",
+          "en": "At his driving school."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Bij de gemeente.",
+        "en": "At the municipality."
+      },
+      "explanation": {
+        "nl": "De gemeente behandelt de gewone aanvraag van een rijbewijs voor inwoners. De rijschool geeft les; slagen voor het examen betekent niet dat de rijschool het officiële document afgeeft.",
+        "en": "The municipality handles ordinary resident driving licence applications. The driving school teaches; passing the test does not mean the school issues the official document."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 27 · PDF p. 20, 21. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 27,
+      "pdfPages": [
+        20,
+        21
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-28",
+      "canonicalId": "pdf-review-28",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-money",
+      "nl": "Is belastingaangifte doen verplicht in Nederland?",
+      "en": "Is filing a tax return compulsory in the Netherlands?",
+      "options": [
+        {
+          "nl": "Ja, dat is in veel situaties verplicht.",
+          "en": "Yes, in many situations."
+        },
+        {
+          "nl": "Alleen voor bedrijven.",
+          "en": "Only for businesses."
+        },
+        {
+          "nl": "Nee, nooit.",
+          "en": "No, never."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Ja, dat is in veel situaties verplicht.",
+        "en": "Yes, in many situations."
+      },
+      "explanation": {
+        "nl": "Bij een aangiftebrief moet je aangifte doen. Ook zonder brief kan een aangifteplicht bestaan, bijvoorbeeld als je belasting moet bijbetalen. Het is niet alleen een plicht voor bedrijven.",
+        "en": "A tax-return invitation requires filing. Filing can also be compulsory without one, for example if tax is due. The duty is not limited to businesses."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 28 · PDF p. 21. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 28,
+      "pdfPages": [
+        21
+      ],
+      "refs": [
+        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/belasting_betalen_terugvragen/check_of_u_belasting_moet_betalen/"
+      ]
+    },
+    {
+      "id": "pdf-review-29",
+      "canonicalId": "pdf-review-29",
+      "topic": "education",
+      "lessonId": "education-detail-parents",
+      "nl": "Charlie is 12 en veroorzaakt schade door een telefoon in een winkel te laten vallen. Wie is in beginsel aansprakelijk?",
+      "en": "Charlie is 12 and causes damage by dropping a phone in a shop. Who is generally liable?",
+      "options": [
+        {
+          "nl": "Charlie zelf.",
+          "en": "Charlie herself."
+        },
+        {
+          "nl": "De ouder(s) met gezag of de voogd.",
+          "en": "The parent(s) with parental authority or guardian."
+        },
+        {
+          "nl": "Altijd de winkeleigenaar.",
+          "en": "Always the shop owner."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "De ouder(s) met gezag of de voogd.",
+        "en": "The parent(s) with parental authority or guardian."
+      },
+      "explanation": {
+        "nl": "Voor schade door een kind jonger dan 14 ligt de aansprakelijkheid in beginsel bij de ouder met gezag of voogd. Een concrete schadezaak kan verdere beoordeling vragen.",
+        "en": "For damage caused by a child under 14, the parent with parental authority or guardian is generally liable. A particular claim may require further assessment."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 29 · PDF p. 22. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 29,
+      "pdfPages": [
+        22
+      ],
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/schulden/vraag-en-antwoord/schulden/schulden-van-kinderen"
+      ]
+    },
+    {
+      "id": "pdf-review-30",
+      "canonicalId": "pdf-review-30",
+      "topic": "education",
+      "lessonId": "education-detail-schools",
+      "nl": "Kun je met alleen een vmbo-diploma meteen naar de universiteit?",
+      "en": "Can you go straight to university with only a vmbo diploma?",
+      "options": [
+        {
+          "nl": "Ja.",
+          "en": "Yes."
+        },
+        {
+          "nl": "Alleen met toestemming van een docent.",
+          "en": "Only with a teacher’s permission."
+        },
+        {
+          "nl": "Nee.",
+          "en": "No."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Nee.",
+        "en": "No."
+      },
+      "explanation": {
+        "nl": "Vmbo geeft niet rechtstreeks toegang tot de universiteit. De gewone vervolgroute is mbo; voor universitaire toelating zijn andere kwalificaties of toelatingsroutes nodig.",
+        "en": "Vmbo does not directly qualify for university. The usual next step is mbo; university requires other qualifications or admission routes."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 30 · PDF p. 23. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 30,
+      "pdfPages": [
+        23
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-31",
+      "canonicalId": "pdf-review-31",
+      "topic": "education",
+      "lessonId": "education-detail-ages",
+      "nl": "Vanaf welke leeftijd geldt normaal de leerplicht?",
+      "en": "From what age does compulsory school attendance normally apply?",
+      "options": [
+        {
+          "nl": "Vanaf 4 jaar.",
+          "en": "From age 4."
+        },
+        {
+          "nl": "Vanaf 5 jaar.",
+          "en": "From age 5."
+        },
+        {
+          "nl": "Vanaf 6 jaar.",
+          "en": "From age 6."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Vanaf 5 jaar.",
+        "en": "From age 5."
+      },
+      "explanation": {
+        "nl": "Kinderen mogen meestal vanaf 4 naar school. De leerplicht start op de eerste schooldag van de maand na de vijfde verjaardag. Mogen en moeten zijn dus niet hetzelfde.",
+        "en": "Children can usually start school at 4. Compulsory attendance begins on the first school day of the month after the fifth birthday. Permission and obligation are different."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 31 · PDF p. 23, 24. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 31,
+      "pdfPages": [
+        23,
+        24
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-32",
+      "canonicalId": "pdf-review-32",
+      "topic": "values",
+      "lessonId": "values-detail-calendar",
+      "nl": "Welke feestdag is ieder jaar op 25 december?",
+      "en": "Which holiday falls on 25 December each year?",
+      "options": [
+        {
+          "nl": "Eerste Kerstdag.",
+          "en": "Christmas Day."
+        },
+        {
+          "nl": "Pasen.",
+          "en": "Easter."
+        },
+        {
+          "nl": "Sinterklaas.",
+          "en": "Sinterklaas."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Eerste Kerstdag.",
+        "en": "Christmas Day."
+      },
+      "explanation": {
+        "nl": "25 december is Eerste Kerstdag; 26 december is Tweede Kerstdag. Pasen heeft geen vaste kalenderdatum.",
+        "en": "25 December is Christmas Day and 26 December is Boxing Day. Easter has no fixed calendar date."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 32 · PDF p. 24. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 32,
+      "pdfPages": [
+        24
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-33",
+      "canonicalId": "pdf-review-33",
+      "topic": "values",
+      "lessonId": "values-detail-calendar",
+      "nl": "Welk eten hoort gewoonlijk bij Oud en Nieuw in Nederland?",
+      "en": "Which food is traditionally associated with New Year in the Netherlands?",
+      "options": [
+        {
+          "nl": "Beschuit met muisjes.",
+          "en": "Rusks with aniseed sprinkles."
+        },
+        {
+          "nl": "Oliebollen.",
+          "en": "Oliebollen (fried dough balls)."
+        },
+        {
+          "nl": "Pepernoten.",
+          "en": "Pepernoten (spiced biscuits)."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Oliebollen.",
+        "en": "Oliebollen (fried dough balls)."
+      },
+      "explanation": {
+        "nl": "Oliebollen horen bij Oud en Nieuw. Beschuit met muisjes wordt vaak bij een geboorte gegeten; pepernoten horen bij Sinterklaas. Dit zijn gebruiken, geen verplichtingen.",
+        "en": "Oliebollen are associated with New Year, rusks with sprinkles with a birth, and pepernoten with Sinterklaas. These are customs, not obligations."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 33 · PDF p. 25. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 33,
+      "pdfPages": [
+        25
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-34",
+      "canonicalId": "pdf-review-34",
+      "topic": "values",
+      "lessonId": "values-detail-relationships",
+      "nl": "William en Kyra zijn niet getrouwd. Mogen zij samenwonen?",
+      "en": "William and Kyra are unmarried. May they live together?",
+      "options": [
+        {
+          "nl": "Ja.",
+          "en": "Yes."
+        },
+        {
+          "nl": "Alleen met een samenlevingscontract.",
+          "en": "Only with a cohabitation contract."
+        },
+        {
+          "nl": "Nee.",
+          "en": "No."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Ja.",
+        "en": "Yes."
+      },
+      "explanation": {
+        "nl": "Ongehuwd samenwonen is toegestaan. Een samenlevingscontract kan afspraken vastleggen, maar is geen algemene wettelijke voorwaarde om samen te wonen.",
+        "en": "Unmarried cohabitation is permitted. A cohabitation contract can record arrangements but is not a general legal prerequisite."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 34 · PDF p. 26. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 34,
+      "pdfPages": [
+        26
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-35",
+      "canonicalId": "health-2",
+      "topic": "health",
+      "lessonId": "health-detail-rights",
+      "nl": "Rob haalt voorgeschreven hartmedicijnen bij de apotheek. Wat heeft de apotheek daarvoor nodig?",
+      "en": "Rob collects prescription heart medicine at the pharmacy. What does the pharmacy need?",
+      "options": [
+        {
+          "nl": "Een recept van de arts.",
+          "en": "A prescription from the doctor."
+        },
+        {
+          "nl": "Alleen zijn DigiD.",
+          "en": "Only his DigiD."
+        },
+        {
+          "nl": "Alleen verzekeringspapieren.",
+          "en": "Only insurance papers."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Een recept van de arts.",
+        "en": "A prescription from the doctor."
+      },
+      "explanation": {
+        "nl": "Voor receptplichtige medicijnen is een geldig recept nodig, dat vaak digitaal wordt verstuurd. Niet alle middelen zijn receptplichtig.",
+        "en": "Prescription-only medicine requires a valid prescription, often sent electronically. Not every medicine needs a prescription."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 35 · PDF p. 27. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 35,
+      "pdfPages": [
+        27
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-36",
+      "canonicalId": "pdf-review-36",
+      "topic": "health",
+      "lessonId": "health-detail-rights",
+      "nl": "Els kiest na een verhuizing een nieuwe huisarts. Mag haar oude huisarts haar dossier normaal overdragen?",
+      "en": "Els chooses a new GP after moving. May her former GP normally transfer her record?",
+      "options": [
+        {
+          "nl": "Ja, zonder haar erbij te betrekken.",
+          "en": "Yes, without involving her."
+        },
+        {
+          "nl": "Ja, met toestemming van Els.",
+          "en": "Yes, with Els’s consent."
+        },
+        {
+          "nl": "Nee, een dossier mag nooit worden gedeeld.",
+          "en": "No, a record may never be shared."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Ja, met toestemming van Els.",
+        "en": "Yes, with Els’s consent."
+      },
+      "explanation": {
+        "nl": "Bij de gewone overdracht naar een nieuwe huisarts is toestemming nodig. Met toestemming kan veilige overdracht plaatsvinden. Beroepsgeheim kent wettelijke uitzonderingen; de vraag gaat over deze gewone overstap.",
+        "en": "Ordinary transfer to a new GP requires consent. With consent the record can be transferred securely. Confidentiality has legal exceptions; this question concerns an ordinary change of GP."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 36 · PDF p. 27, 28. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 36,
+      "pdfPages": [
+        27,
+        28
+      ],
+      "refs": [
+        "https://www.knmg.nl/ik-ben-arts/praktijkdilemmas-1/praktijkdilemma/zijn-er-richtlijnen-voor-het-overdragen-van-het-medisch-dossier-als-een-patient-verandert-van-huisarts"
+      ]
+    },
+    {
+      "id": "pdf-review-37",
+      "canonicalId": "health-1",
+      "topic": "health",
+      "lessonId": "health-detail-triage",
+      "nl": "Eva ziet een grote brand met direct gevaar. Welk nummer belt zij?",
+      "en": "Eva sees a major fire with immediate danger. Which number should she call?",
+      "options": [
+        {
+          "nl": "112.",
+          "en": "112."
+        },
+        {
+          "nl": "666.",
+          "en": "666."
+        },
+        {
+          "nl": "779.",
+          "en": "779."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "112.",
+        "en": "112."
+      },
+      "explanation": {
+        "nl": "112 is het noodnummer voor politie, brandweer en ambulance bij een noodsituatie. Geef zo duidelijk mogelijk door waar je bent en wat er gebeurt.",
+        "en": "112 is the emergency number for police, fire and ambulance services. Clearly state where you are and what is happening."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 37 · PDF p. 28. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 37,
+      "pdfPages": [
+        28
+      ],
+      "refs": [
+        "https://www.politie.nl/contact"
+      ]
+    },
+    {
+      "id": "pdf-review-38",
+      "canonicalId": "pdf-review-38",
+      "topic": "health",
+      "lessonId": "health-detail-rights",
+      "nl": "Paul verhuist en wil een nieuwe tandarts. Wie regelt normaal de inschrijving?",
+      "en": "Paul moves and wants a new dentist. Who normally arranges registration?",
+      "options": [
+        {
+          "nl": "De gemeente.",
+          "en": "The municipality."
+        },
+        {
+          "nl": "Automatisch de zorgverzekeraar.",
+          "en": "The health insurer automatically."
+        },
+        {
+          "nl": "Paul zelf.",
+          "en": "Paul himself."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Paul zelf.",
+        "en": "Paul himself."
+      },
+      "explanation": {
+        "nl": "Je kiest en benadert zelf een nieuwe tandarts. Bij problemen met het vinden van zorg kun je je verzekeraar om hulp vragen, maar de gemeente schrijft je niet automatisch in.",
+        "en": "You choose and contact a dentist yourself. An insurer can help if finding care is difficult, but the municipality does not automatically register you."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 38 · PDF p. 29. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 38,
+      "pdfPages": [
+        29
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-39",
+      "canonicalId": "health-detail-rights-q",
+      "topic": "health",
+      "lessonId": "health-detail-rights",
+      "nl": "Nadia begrijpt geen Nederlands en heeft niemand die kan vertalen. Wat kan de huisarts doen om haar goed te begrijpen?",
+      "en": "Nadia does not understand Dutch and has nobody to translate. What can the GP arrange?",
+      "options": [
+        {
+          "nl": "Een passende tolk regelen.",
+          "en": "Arrange a suitable interpreter."
+        },
+        {
+          "nl": "Haar alleen daarom naar het ziekenhuis sturen.",
+          "en": "Send her to hospital solely for that reason."
+        },
+        {
+          "nl": "Alleen Nederlands blijven praten.",
+          "en": "Continue speaking only Dutch."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Een passende tolk regelen.",
+        "en": "Arrange a suitable interpreter."
+      },
+      "explanation": {
+        "nl": "Een tolk kan goede communicatie mogelijk maken. Bespreek vooraf hoe een tolk wordt geregeld en wie betaalt; de vraag betekent niet dat iedere tolk altijd gratis is.",
+        "en": "An interpreter can make effective communication possible. Discuss arrangements and payment beforehand; the question does not mean every interpreter is always free."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 39 · PDF p. 29, 30. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 39,
+      "pdfPages": [
+        29,
+        30
+      ],
+      "refs": []
+    },
+    {
+      "id": "pdf-review-40",
+      "canonicalId": "health-0",
+      "topic": "health",
+      "lessonId": "health-detail-triage",
+      "nl": "Eli heeft al enkele dagen hoofdpijn, zonder alarmsignalen of directe nood. Wie belt hij voor een afspraak?",
+      "en": "Eli has had a headache for several days without warning signs or immediate danger. Who does he call for an appointment?",
+      "options": [
+        {
+          "nl": "De apotheek.",
+          "en": "The pharmacy."
+        },
+        {
+          "nl": "De huisarts.",
+          "en": "The GP."
+        },
+        {
+          "nl": "Rechtstreeks het ziekenhuis.",
+          "en": "The hospital directly."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "De huisarts.",
+        "en": "The GP."
+      },
+      "explanation": {
+        "nl": "Bij gewone aanhoudende klachten begin je bij de huisarts. Bij plotselinge ernstige klachten of direct gevaar kan spoedhulp nodig zijn; dat is een andere situatie.",
+        "en": "For ordinary persistent symptoms, start with the GP. Sudden severe symptoms or immediate danger can require emergency care; that is a different situation."
+      },
+      "page": 0,
+      "source": "Supplied practice-result PDF · question 40 · PDF p. 30. Transcribed/adapted for study; English translation added.",
+      "pdfNumber": 40,
+      "pdfPages": [
+        30
+      ],
+      "refs": []
+    }
+  ],
+  "extraQuestions": [
+    {
+      "id": "extension-sick-privacy",
+      "topic": "work",
+      "lessonId": "work-detail-representation",
+      "nl": "Je meldt je ziek. Moet je je leidinggevende vertellen welke diagnose je hebt?",
+      "en": "You report sick. Must you tell your manager your diagnosis?",
+      "options": [
+        {
+          "nl": "Ja, alle medische details.",
+          "en": "Yes, all medical details."
+        },
+        {
+          "nl": "Nee, medische details bespreek je met de bedrijfsarts.",
+          "en": "No, discuss medical details with the occupational physician."
+        },
+        {
+          "nl": "Alleen als een collega ernaar vraagt.",
+          "en": "Only if a colleague asks."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Nee, medische details bespreek je met de bedrijfsarts.",
+        "en": "No, discuss medical details with the occupational physician."
+      },
+      "explanation": {
+        "nl": "Je werkgever kan praktische informatie over afwezigheid nodig hebben, maar hoeft je diagnose niet te weten. De bedrijfsarts beoordeelt gezondheid in relatie tot werk.",
+        "en": "An employer may need practical absence information, but not your diagnosis. The occupational physician assesses health in relation to work."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/werk-en-uitkering/mijn-privacy-bij-ziekte"
+      ]
+    },
+    {
+      "id": "extension-zero-hours",
+      "topic": "work",
+      "lessonId": "work-detail-representation",
+      "nl": "Betekent een nulurencontract automatisch dat het contract tijdelijk is?",
+      "en": "Does a zero-hours contract automatically mean a temporary contract?",
+      "options": [
+        {
+          "nl": "Nee, uren en duur zijn verschillende kenmerken.",
+          "en": "No, hours and duration are different features."
+        },
+        {
+          "nl": "Ja, nuluren betekent altijd tijdelijk.",
+          "en": "Yes, zero-hours always means temporary."
+        },
+        {
+          "nl": "Nee, nuluren betekent altijd een vast contract.",
+          "en": "No, zero-hours always means permanent."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Nee, uren en duur zijn verschillende kenmerken.",
+        "en": "No, hours and duration are different features."
+      },
+      "explanation": {
+        "nl": "Nuluren beschrijft het ontbreken van een vast aantal uren. De duur kan tijdelijk of onbepaald zijn. Kijk dus afzonderlijk naar uren en einddatum.",
+        "en": "Zero-hours describes the absence of fixed hours. The duration may be temporary or indefinite. Check hours and the end date separately."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://www.workinnl.nl/loon/nuluren/default.aspx"
+      ]
+    },
+    {
+      "id": "extension-birth-registration",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-documents",
+      "nl": "Waar geef je de geboorte van een kind aan?",
+      "en": "Where do you register a child’s birth?",
+      "options": [
+        {
+          "nl": "Bij de gemeente waar het kind is geboren.",
+          "en": "In the municipality where the child was born."
+        },
+        {
+          "nl": "Altijd bij de gemeente waar de grootouders wonen.",
+          "en": "Always where the grandparents live."
+        },
+        {
+          "nl": "Alleen bij de zorgverzekeraar.",
+          "en": "Only with the health insurer."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "Bij de gemeente waar het kind is geboren.",
+        "en": "In the municipality where the child was born."
+      },
+      "explanation": {
+        "nl": "De geboorte wordt in beginsel binnen drie dagen aangegeven in de geboortegemeente. De geboortedag telt niet mee; weekenden en feestdagen kunnen de uiterste datum verschuiven.",
+        "en": "Generally register within three days in the birth municipality. The birthday does not count; weekend and public-holiday rules can extend the deadline."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/aangifte-geboorte-en-naamskeuze-kind/aangifte-geboorte"
+      ]
+    },
+    {
+      "id": "extension-civil-marriage",
+      "topic": "values",
+      "lessonId": "values-detail-relationships",
+      "nl": "Je wilt in Nederland ook een religieuze huwelijksceremonie. Wat moet eerst gebeuren?",
+      "en": "You also want a religious wedding ceremony in the Netherlands. What must happen first?",
+      "options": [
+        {
+          "nl": "De religieuze ceremonie.",
+          "en": "The religious ceremony."
+        },
+        {
+          "nl": "Het burgerlijk huwelijk.",
+          "en": "The civil marriage."
+        },
+        {
+          "nl": "Inschrijving bij de KvK.",
+          "en": "Registration with the Chamber of Commerce."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "Het burgerlijk huwelijk.",
+        "en": "The civil marriage."
+      },
+      "explanation": {
+        "nl": "Eerst vindt het burgerlijk huwelijk plaats bij de ambtenaar van de burgerlijke stand. Daarna mag de religieuze huwelijksceremonie plaatsvinden.",
+        "en": "The civil marriage before the civil registrar comes first. The religious marriage ceremony may follow."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/trouwen-samenlevingscontract-en-geregistreerd-partnerschap/trouwen-of-geregistreerd-partnerschap-sluiten"
+      ]
+    },
+    {
+      "id": "extension-two-minutes",
+      "topic": "values",
+      "lessonId": "values-detail-calendar",
+      "nl": "Wanneer zijn er op 4 mei twee minuten stilte tijdens de Nationale Herdenking?",
+      "en": "At what time is the two-minute silence on 4 May?",
+      "options": [
+        {
+          "nl": "Om 12.00 uur.",
+          "en": "At noon."
+        },
+        {
+          "nl": "Om 18.00 uur.",
+          "en": "At 18:00."
+        },
+        {
+          "nl": "Om 20.00 uur.",
+          "en": "At 20:00."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Om 20.00 uur.",
+        "en": "At 20:00."
+      },
+      "explanation": {
+        "nl": "De Nationale Herdenking kent twee minuten stilte om 20.00 uur op 4 mei. Op 5 mei wordt de vrijheid gevierd.",
+        "en": "The national two-minute silence is at 20:00 on 4 May. Freedom is celebrated on 5 May."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://www.4en5mei.nl/herdenken/wie-en-wat-herdenken-we"
+      ]
+    },
+    {
+      "id": "extension-occupation-years",
+      "topic": "history",
+      "lessonId": "history-detail-symbols",
+      "nl": "In welke periode was Nederland bezet door nazi-Duitsland?",
+      "en": "During which period was the Netherlands occupied by Nazi Germany?",
+      "options": [
+        {
+          "nl": "1914–1918.",
+          "en": "1914–1918."
+        },
+        {
+          "nl": "1940–1945.",
+          "en": "1940–1945."
+        },
+        {
+          "nl": "1960–1965.",
+          "en": "1960–1965."
+        }
+      ],
+      "correct": 1,
+      "answer": {
+        "nl": "1940–1945.",
+        "en": "1940–1945."
+      },
+      "explanation": {
+        "nl": "De Nederlandse bezetting begon in mei 1940 en eindigde in 1945. De Tweede Wereldoorlog als geheel begon al in 1939.",
+        "en": "The occupation of the Netherlands began in May 1940 and ended in 1945. The Second World War as a whole began in 1939."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://www.annefrank.org/nl/anne-frank/de-tijdlijn/"
+      ]
+    },
+    {
+      "id": "extension-digid-authorisation",
+      "topic": "institutions",
+      "lessonId": "institutions-detail-digital",
+      "nl": "Iemand helpt je met een overheidsdienst die DigiD Machtigen ondersteunt. Wat is de veilige werkwijze?",
+      "en": "Someone helps with a public service supporting DigiD Machtigen. What is the safe approach?",
+      "options": [
+        {
+          "nl": "Je geeft je wachtwoord aan de helper.",
+          "en": "Give the helper your password."
+        },
+        {
+          "nl": "Je plaatst je DigiD-code in een groepschat.",
+          "en": "Post your DigiD code in a group chat."
+        },
+        {
+          "nl": "Je machtigt de helper, die met de eigen DigiD inlogt.",
+          "en": "Authorise the helper, who signs in with their own DigiD."
+        }
+      ],
+      "correct": 2,
+      "answer": {
+        "nl": "Je machtigt de helper, die met de eigen DigiD inlogt.",
+        "en": "Authorise the helper, who signs in with their own DigiD."
+      },
+      "explanation": {
+        "nl": "DigiD Machtigen laat iemand namens jou handelen zonder jouw inloggegevens te delen. Controleer waarvoor en hoelang de machtiging geldt.",
+        "en": "DigiD Machtigen lets someone act for you without sharing your credentials. Check the authorisation’s purpose and duration."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://www.digid.nl/aanvragen-en-activeren/machtigen"
+      ]
+    },
+    {
+      "id": "extension-holiday-pay",
+      "topic": "work",
+      "lessonId": "work-detail-representation",
+      "nl": "Hoe hoog is vakantiegeld voor werknemers in de regel minimaal?",
+      "en": "What is the usual statutory minimum holiday allowance for employees?",
+      "options": [
+        {
+          "nl": "8% van het brutojaarsalaris.",
+          "en": "8% of gross annual salary."
+        },
+        {
+          "nl": "Altijd 50% van het nettoloon.",
+          "en": "Always 50% of net pay."
+        },
+        {
+          "nl": "Vakantiegeld bestaat alleen voor zelfstandigen.",
+          "en": "Holiday allowance exists only for self-employed people."
+        }
+      ],
+      "correct": 0,
+      "answer": {
+        "nl": "8% van het brutojaarsalaris.",
+        "en": "8% of gross annual salary."
+      },
+      "explanation": {
+        "nl": "De algemene regel is minimaal 8% van het brutojaarsalaris. Wettelijke uitzonderingen bestaan; cao en contract geven ook informatie over uitbetaling. Dit is niet hetzelfde als vakantiedagen.",
+        "en": "The general rule is at least 8% of gross annual pay. Statutory exceptions exist; the collective agreement and contract also specify payment arrangements. This differs from holiday leave."
+      },
+      "page": 0,
+      "source": "Additional target-based practice · checked 15 Nov 2026 · not an exam prediction.",
+      "refs": [
+        "https://www.rijksoverheid.nl/themas/werk/vakantiedagen-en-vakantiegeld/vakantiegeld/vraag-en-antwoord/vakantiedagen-en-vakantiegeld/hoe-hoog-is-mijn-vakantiegeld"
+      ]
+    }
+  ],
+  "updatedLessons": [
+    "housing-detail-utilities",
+    "housing-detail-search",
+    "work-detail-benefits",
+    "work-detail-qualifications",
+    "work-detail-representation",
+    "values-detail-calendar",
+    "values-detail-relationships",
+    "health-detail-rights",
+    "education-detail-parents",
+    "education-detail-schools",
+    "institutions-detail-documents",
+    "institutions-detail-digital",
+    "institutions-detail-money",
+    "government-detail-freedoms",
+    "history-detail-international",
+    "history-detail-symbols"
+  ]
+}

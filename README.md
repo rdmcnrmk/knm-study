@@ -38,7 +38,7 @@ This delivery is ready for deployment; it has not been pushed to a GitHub reposi
 - Eight KNM topics, mapped to the study book’s chapters.
 - 74 bilingual lesson sections: 40 from the book, two July 2025 supplements and 32 researched expansions.
 - 80 illustrated vocabulary cards, English meanings, contextual cues and optional Dutch speech using the device’s voice.
-- 82 unofficial multiple-choice practice questions: 48 adapted from the book, two generated update questions and 32 explained questions accompanying the expansions. Incorrect options are authored for each prompt.
+- 122 unique multiple-choice practice questions: the original 82 plus 32 new PDF-derived questions and eight additional target-based questions. The separate 40-question PDF set reuses eight equivalent existing items instead of duplicating them in the general bank.
 - Topic quizzes with answer feedback, source pages, review and latest scores.
 - A 40-question mock exam: five randomly selected questions from each topic, shuffled, with a 45-minute absolute deadline. Answers, question position and deadline survive a reload. Submission includes unanswered questions in the denominator. Closing a tab does not pause time; an expired attempt is finished on return.
 - Local completion tracking, known vocabulary, latest topic-quiz scores, last chapter and one mock-exam attempt. Data can be reset under **My progress → Manage local data**.
@@ -106,3 +106,10 @@ Questions and answers are maintained in `src/speaking-data.json`; each has a sta
 Read-aloud uses 132 prerecorded ElevenLabs MP3 files (Remko, Dutch language override, Eleven v4), one question and two examples per prompt. They play at 0.85× with pitch preserved. No ElevenLabs account, API key or browser speech voice is needed by visitors. Audio requests go only to this site’s static hosting. Generated using the free plan for non-commercial use, with elevenlabs.io attribution in the Speaking title and interface. Microphone recording uses MediaRecorder over HTTPS (or localhost), stops after 60 seconds and releases the microphone on stop, question change or module exit. A recording stays in memory for the current question only; download it to retain it. Nothing is uploaded. Automatic transcription, AI evaluation and pronunciation scoring are not configured.
 
 Speaking notes and self-assessed practice status use `knm-speaking-v1` in local storage. They persist across reloads on the same browser but do not sync between devices. Clearing browser data removes them. All interface text and study translations use Dutch and English only.
+
+
+## Practice-result PDF expansion (15 November 2026)
+
+The KNM overview opens a dedicated 40-question PDF-based practice collection. Every question includes Dutch/English text, three choices, an explanation and a chapter link. `src/assessment-review.json` records source question numbers, PDF page references, canonical IDs and primary-source links. Eight equivalent existing questions are reused instead of duplicated in the general bank; 32 new PDF-derived items and eight further practice questions bring the general total to 122. Sixteen existing lesson cards were enriched, preserving all lesson completion IDs and the 78-target checklist.
+
+`ASSESSMENT_REVIEW.md` documents the full mapping and corrections to the WW date example, court/penalty wording and tax/social-insurance funding distinction. Additional practice is a study selection, not an exam prediction. The original PDF, session results, personal selections and images remain outside the public project. The separate PDF quiz does not overwrite a topic quiz score.

@@ -1,9 +1,10 @@
 import book from './book.json';
 import supplements from './supplements.json';
+import assessment from './assessment-review.json';
 import {distractors} from './distractors';
 export type Pair = {nl:string;en:string};
 export type Question = Pair & {id:string;answer:Pair;page:number;topic:string;options:Pair[];correct:number;source:string;refs?:string[];explanation?:Pair;lessonId?:string};
-export type Lesson = Pair & {id:string;title:string;page:number;refs?:string[];targets?:string[];checked?:string};
+export type Lesson = Pair & {id:string;title:string;page:number;refs?:string[];targets?:string[];checked?:string;assessmentQuestions?:number[]};
 export const sources = [
  {title:'DUO · KNM exam format (45 minutes)',url:'https://www.inburgeren.nl/examen-doen/inhoud-kennisexamens.jsp'},
  {title:'DUO · Official practice exams',url:'https://www.inburgeren.nl/examen-doen/oefenen.jsp'},
@@ -25,6 +26,11 @@ export const questions:Question[] = [...topics.flatMap(t=>t.questions.map(q=>({.
  const correct=i%3; const options=[...wrong]; options.splice(correct,0,q.answer);
  return {...q,options,correct,source:q.page?`Study book · p. ${q.page}. MCQ adaptation: generated practice.`:'July 2025 update · Rijksoverheid. Generated practice.'};
 }).concat(supplements.questions.map((q,i)=>{const correct=i%3;const options=[...q.wrong];options.splice(correct,0,q.answer);return {...q,options,correct};}));
+// Equivalent PDF variants remain in their own study set; the general bank stores a fact only once.
+export const assessmentQuestions:Question[]=assessment.questions;
+questions.push(...assessmentQuestions.filter(q=>assessment.questions.find(r=>r.id===q.id)?.canonicalId===q.id),...assessment.extraQuestions);
+export const questionById:Record<string,Question>=Object.fromEntries([...questions,...assessmentQuestions].map(q=>[q.id,q]));
+export const assessmentStats={total:assessment.questions.length,reused:assessment.questions.filter(q=>q.canonicalId!==q.id).length,additional:assessment.extraQuestions.length,updatedLessons:assessment.updatedLessons.length};
 const terms:Record<string,string[][]> = {
  housing:[['woningcorporatie','housing association','Sociale huur / Social housing'],['huurcontract','rental agreement','Huur, borg en opzegtermijn / Rent, deposit and notice'],['hypotheek','mortgage','Lening voor een woning / Loan for a home'],['meterstand','meter reading','Meet energieverbruik / Measures energy use'],['GFT','organic waste','Groente, fruit en tuin / Vegetable, fruit and garden waste'],['notaris','civil-law notary','Juridische overdracht / Legal transfer']],
  work:[['vacature','job vacancy','Een beschikbare baan / An available job'],['arbeidscontract','employment contract','Werk en loon / Work and pay'],['bruto salaris','gross salary','Vóór inhoudingen / Before deductions'],['netto salaris','net salary','Wat je ontvangt / What you receive'],['bedrijfsarts','occupational physician','Gezondheid en werk / Health and work'],['cao','collective labour agreement','Collectieve arbeidsvoorwaarden / Collective employment conditions']],
@@ -38,4 +44,4 @@ const terms:Record<string,string[][]> = {
 export const vocabulary=Object.entries(terms).flatMap(([topic,rows])=>rows.map(([nl,en,context],i)=>({id:`${topic}-v${i}`,topic,nl,en,context}))).concat(supplements.vocabulary);
 
 export const lessonTotal=topics.reduce((n,t)=>n+t.lessons.length,0);
-export const researchSources=[...new Set(supplements.lessons.flatMap(l=>l.refs))];
+export const researchSources=[...new Set([...supplements.lessons.flatMap(l=>l.refs),...assessment.questions.flatMap(q=>q.refs),...assessment.extraQuestions.flatMap(q=>q.refs)])];

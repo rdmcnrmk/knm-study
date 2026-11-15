@@ -21,8 +21,8 @@
       "id": "housing-detail-utilities",
       "topic": "housing",
       "title": "Energiecontract en jaarafrekening / Energy contracts and annual bills",
-      "nl": "Bij een vast tarief blijft de afgesproken prijs per eenheid tijdens de vaste periode gelijk; een variabel tarief kan veranderen. Een gelijk maandbedrag betekent niet dat je verbruik onbeperkt is. Op de jaarafrekening worden voorschotten vergeleken met de werkelijke kosten. Noteer meterstanden bij een verhuizing. Isoleren, korter douchen en onnodige apparaten uitschakelen besparen energie. Afvalregels verschillen per gemeente; controleer de lokale afvalkalender.",
-      "en": "With a fixed tariff, the agreed unit price stays fixed during the agreed period; a variable tariff can change. An equal monthly payment does not mean unlimited consumption. The annual statement compares advance payments with actual costs. Record meter readings when moving. Insulation, shorter showers and switching off unused appliances save energy. Waste rules vary by municipality; check the local collection calendar.",
+      "nl": "Bij een vast tarief blijft de afgesproken prijs per eenheid tijdens de vaste periode gelijk; een variabel tarief kan veranderen. Een gelijk maandbedrag betekent niet dat je verbruik onbeperkt is. Op de jaarafrekening worden voorschotten vergeleken met de werkelijke kosten. Noteer meterstanden bij een verhuizing. Isoleren, korter douchen en onnodige apparaten uitschakelen besparen energie. Afvalregels verschillen per gemeente; controleer de lokale afvalkalender. Een statiegeldblikje of -fles lever je in bij een innamepunt, bijvoorbeeld een supermarkt. Zo krijg je het statiegeld terug. Let op het statiegeldlogo en houd de barcode leesbaar.",
+      "en": "With a fixed tariff, the agreed unit price stays fixed during the agreed period; a variable tariff can change. An equal monthly payment does not mean unlimited consumption. The annual statement compares advance payments with actual costs. Record meter readings when moving. Insulation, shorter showers and switching off unused appliances save energy. Waste rules vary by municipality; check the local collection calendar. Return a deposit can or bottle to a collection point, such as a supermarket, to get the deposit back. Look for the deposit logo and keep the barcode readable.",
       "page": 0,
       "targets": [
         "3.2.1",
@@ -31,9 +31,13 @@
       ],
       "refs": [
         "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
-        "https://consument.acm.nl/elektriciteit-en-gas/wat-betaal-ik-voor-mijn-energie/vaste-variabele-leveringskosten-energie?source=energietaal"
+        "https://consument.acm.nl/elektriciteit-en-gas/wat-betaal-ik-voor-mijn-energie/vaste-variabele-leveringskosten-energie?source=energietaal",
+        "https://www.statiegeldnederland.nl/consumenten/veelgestelde-vragen"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        6
+      ]
     },
     {
       "id": "housing-detail-insurance",
@@ -54,24 +58,29 @@
       "id": "housing-detail-search",
       "topic": "housing",
       "title": "Woning zoeken met een realistisch budget / A realistic housing search",
-      "nl": "Woningaanbod, wachttijden en inschrijfregels verschillen per regio. Inschrijven bij een woningcorporatie is geen garantie op een snelle woning. Vergelijk sociale huur, andere huur en koop met je inkomen. Denk ook aan borg, servicekosten, energie, water en lokale belastingen. Een urgentieverklaring heeft voorwaarden. De eerste huisvesting van een statushouder via de gemeente is een andere route dan zelfstandig een volgende woning zoeken. Een gezinsmigrant kan bij familie intrekken.",
-      "en": "Housing supply, waiting times and registration rules differ by region. Joining a housing-association list does not guarantee a home quickly. Compare social rent, other rental options and buying against your income. Include the deposit, service charges, utilities and local taxes in your budget. Urgency status has conditions. A municipality’s initial housing route for a recognised refugee differs from independently finding a subsequent home. A family migrant may join relatives.",
+      "nl": "Woningaanbod, wachttijden en inschrijfregels verschillen per regio. Inschrijven bij een woningcorporatie is geen garantie op een snelle woning. Vergelijk sociale huur, andere huur en koop met je inkomen. Denk ook aan borg, servicekosten, energie, water en lokale belastingen. Een urgentieverklaring heeft voorwaarden. De eerste huisvesting van een statushouder via de gemeente is een andere route dan zelfstandig een volgende woning zoeken. Een gezinsmigrant kan bij familie intrekken. Sociale huur heeft een gereguleerde maximale huurprijs. Een makelaar kan helpen bij het zoeken naar en kopen van een woning; de notaris verzorgt de juridische overdracht. Verwar deze rollen niet.",
+      "en": "Housing supply, waiting times and registration rules differ by region. Joining a housing-association list does not guarantee a home quickly. Compare social rent, other rental options and buying against your income. Include the deposit, service charges, utilities and local taxes in your budget. Urgency status has conditions. A municipality’s initial housing route for a recognised refugee differs from independently finding a subsequent home. A family migrant may join relatives. Social housing has a regulated maximum rent. An estate agent can help you find and buy a home; the notary handles the legal transfer. These roles are different.",
       "page": 0,
       "targets": [
         "3.1.1",
         "3.1.3"
       ],
       "refs": [
-        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.rijksoverheid.nl/themas/bouwen-en-wonen/huurwoning-zoeken/ik-zoek-een-huurwoning/vraag-en-antwoord/huurwoning-zoeken/wat-is-het-verschil-tussen-een-sociale-huurwoning-een-middenhuurwoning-en-een-huurwoning-in-de-vrije-sector"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        7,
+        8
+      ]
     },
     {
       "id": "work-detail-benefits",
       "topic": "work",
       "title": "WW, bijstand en de MAP / Unemployment, assistance and MAP",
-      "nl": "WW loopt via UWV en hangt onder meer af van je arbeidsverleden en de reden van werkloosheid. Bijstand is een vangnet via de gemeente als je onvoldoende inkomen en middelen hebt en aan voorwaarden voldoet. Een uitkering geeft ook plichten: verstrek juiste informatie, meld wijzigingen en volg de afspraken over werk zoeken. De MAP wordt via de gemeente geregeld voor wie deze module moet volgen. Kijk hiervoor in je PIP en Mijn Inburgering.",
-      "en": "WW unemployment benefit is administered by UWV; eligibility depends on factors including work history and why employment ended. Municipal social assistance is a safety net for people with insufficient income and resources who meet its conditions. Benefits also bring duties: provide accurate information, report changes and follow job-search arrangements. MAP is organised through the municipality for people required to complete it. Check your PIP and Mijn Inburgering.",
+      "nl": "WW loopt via UWV en hangt onder meer af van je arbeidsverleden en de reden van werkloosheid. Bijstand is een vangnet via de gemeente als je onvoldoende inkomen en middelen hebt en aan voorwaarden voldoet. Een uitkering geeft ook plichten: verstrek juiste informatie, meld wijzigingen en volg de afspraken over werk zoeken. De MAP wordt via de gemeente geregeld voor wie deze module moet volgen. Kijk hiervoor in je PIP en Mijn Inburgering. Een WW-uitkering komt niet automatisch. Je vraagt deze aan via Mijn UWV, vanaf één week vóór je eerste werkloosheidsdag en uiterlijk binnen één week daarna. UWV rekent met de eerste werkloosheidsdag, niet eenvoudigweg met de einddatum van het contract.",
+      "en": "WW unemployment benefit is administered by UWV; eligibility depends on factors including work history and why employment ended. Municipal social assistance is a safety net for people with insufficient income and resources who meet its conditions. Benefits also bring duties: provide accurate information, report changes and follow job-search arrangements. MAP is organised through the municipality for people required to complete it. Check your PIP and Mijn Inburgering. WW is not automatic. Apply through Mijn UWV from one week before your first day of unemployment and no later than one week afterwards. UWV uses the first unemployment day, not simply the contract end date.",
       "page": 0,
       "targets": [
         "1.1.1",
@@ -79,16 +88,20 @@
         "1.1.8"
       ],
       "refs": [
-        "https://www.uwv.nl/nl/rechten-plichten/algemene-plichten"
+        "https://www.uwv.nl/nl/rechten-plichten/algemene-plichten",
+        "https://www.uwv.nl/nl/ww/ww-aanvragen"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        17
+      ]
     },
     {
       "id": "work-detail-representation",
       "topic": "work",
       "title": "Vakbond, ondernemingsraad en ziekte / Unions, works councils and illness",
-      "nl": "Een vakbond komt op voor werknemers en onderhandelt over cao’s. Een ondernemingsraad heeft medezeggenschap binnen een organisatie; dit is niet hetzelfde als een vakbond. Een vertrouwenspersoon kan helpen bij ongewenst gedrag of discriminatie. Bij ziekte volg je de ziekmeldprocedure van de werkgever. De bedrijfsarts gaat over gezondheid in relatie tot werk; de huisarts behandelt gewone zorgvragen. Bereid een beoordelingsgesprek voor met voorbeelden en vragen over je werk. Een werkgever en werknemer maken afspraken over werktijden, verlof, veilig werken en loon. Belastingen en premies worden op het brutoloon ingehouden. Je kunt vragen stellen over arbeidsvoorwaarden en daarover onderhandelen.",
-      "en": "A trade union represents workers and negotiates collective agreements. A works council participates in decisions inside an organisation; it is different from a union. A confidential adviser can help with inappropriate behaviour or discrimination. When ill, follow your employer’s reporting procedure. An occupational physician handles health in relation to work; a GP handles ordinary healthcare. Prepare for a performance review with examples and questions about your work. Employer and employee agree on hours, leave, safety and pay. Taxes and contributions are deducted from gross salary. You can ask about employment conditions and negotiate them.",
+      "nl": "Een vakbond komt op voor werknemers en onderhandelt over cao’s. Een ondernemingsraad heeft medezeggenschap binnen een organisatie; dit is niet hetzelfde als een vakbond. Een vertrouwenspersoon kan helpen bij ongewenst gedrag of discriminatie. Bij ziekte volg je de ziekmeldprocedure van de werkgever. De bedrijfsarts gaat over gezondheid in relatie tot werk; de huisarts behandelt gewone zorgvragen. Bereid een beoordelingsgesprek voor met voorbeelden en vragen over je werk. Een werkgever en werknemer maken afspraken over werktijden, verlof, veilig werken en loon. Belastingen en premies worden op het brutoloon ingehouden. Je kunt vragen stellen over arbeidsvoorwaarden en daarover onderhandelen. Een vast contract heeft geen afgesproken einddatum; een tijdelijk contract eindigt op een afgesproken moment of na een project. Een nulurencontract gaat over het ontbreken van een vast aantal uren en kan tijdelijk of vast zijn. Bij ziekmelding hoeft de werknemer de werkgever geen diagnose te vertellen; medische details horen bij de bedrijfsarts. Vakantiegeld is in de regel minimaal 8% van het brutojaarsalaris; er zijn wettelijke uitzonderingen en de uitbetalingsafspraken staan in cao of contract.",
+      "en": "A trade union represents workers and negotiates collective agreements. A works council participates in decisions inside an organisation; it is different from a union. A confidential adviser can help with inappropriate behaviour or discrimination. When ill, follow your employer’s reporting procedure. An occupational physician handles health in relation to work; a GP handles ordinary healthcare. Prepare for a performance review with examples and questions about your work. Employer and employee agree on hours, leave, safety and pay. Taxes and contributions are deducted from gross salary. You can ask about employment conditions and negotiate them. A permanent contract has no agreed end date; a temporary contract ends at an agreed time or after a project. A zero-hours contract concerns the lack of fixed hours and can be temporary or permanent. When reporting sick, employees do not have to tell their employer a diagnosis; medical details belong with the occupational physician. Holiday allowance is generally at least 8% of gross annual pay; statutory exceptions exist, and payment arrangements are in the collective agreement or contract.",
       "page": 0,
       "targets": [
         "1.2.1",
@@ -96,9 +109,16 @@
         "1.3.1"
       ],
       "refs": [
-        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.rijksoverheid.nl/themas/werk/ontslag/vraag-en-antwoord/arbeidsomstandigheden/wat-is-het-verschil-tussen-een-tijdelijk-contract-en-een-vast-contract",
+        "https://www.workinnl.nl/loon/nuluren/default.aspx",
+        "https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/werk-en-uitkering/mijn-privacy-bij-ziekte",
+        "https://www.rijksoverheid.nl/themas/werk/vakantiedagen-en-vakantiegeld/vakantiegeld/vraag-en-antwoord/vakantiedagen-en-vakantiegeld/hoe-hoog-is-mijn-vakantiegeld"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        21
+      ]
     },
     {
       "id": "work-detail-enterprise",
@@ -113,14 +133,17 @@
       "refs": [
         "https://www.uwv.nl/nl/rechten-plichten/algemene-plichten"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-14",
+      "assessmentQuestions": [
+        19
+      ]
     },
     {
       "id": "work-detail-qualifications",
       "topic": "work",
       "title": "Sollicitatie, diploma en bijscholing / Applications, qualifications and training",
-      "nl": "Een vacature noemt taken en eisen. Koppel je cv aan relevante opleiding en ervaring en bereid voorbeelden voor het gesprek voor. Werkgevers kunnen taal- en communicatievaardigheden vragen. Een diplomawaardering helpt het niveau van een buitenlands diploma te vergelijken; dit is niet automatisch toestemming voor ieder gereglementeerd beroep. Bijscholing of een beroepsopleiding kan je kansen vergroten. Bespreek scholing zo nodig met gemeente of UWV. Deeltijdwerk betekent minder uren dan een voltijdbaan.",
-      "en": "A vacancy describes duties and requirements. Connect your CV to relevant education and experience and prepare examples for the interview. Employers may require language and communication skills. Credential evaluation helps compare a foreign qualification; it does not automatically authorise every regulated profession. Further training or vocational education can improve opportunities. Discuss training with the municipality or UWV if relevant. Part-time employment involves fewer hours than a full-time job.",
+      "nl": "Een vacature noemt taken en eisen. Koppel je cv aan relevante opleiding en ervaring en bereid voorbeelden voor het gesprek voor. Werkgevers kunnen taal- en communicatievaardigheden vragen. Een diplomawaardering helpt het niveau van een buitenlands diploma te vergelijken; dit is niet automatisch toestemming voor ieder gereglementeerd beroep. Bijscholing of een beroepsopleiding kan je kansen vergroten. Bespreek scholing zo nodig met gemeente of UWV. Deeltijdwerk betekent minder uren dan een voltijdbaan. Een sollicitatie bevat vaak een cv en een sollicitatiebrief; een zorgpas hoort daar normaal niet bij. Een taaleis moet passen bij wat nodig is voor de functie: niet elke baan rechtvaardigt dezelfde hoge taaleis.",
+      "en": "A vacancy describes duties and requirements. Connect your CV to relevant education and experience and prepare examples for the interview. Employers may require language and communication skills. Credential evaluation helps compare a foreign qualification; it does not automatically authorise every regulated profession. Further training or vocational education can improve opportunities. Discuss training with the municipality or UWV if relevant. Part-time employment involves fewer hours than a full-time job. An application often includes a CV and cover letter; a health insurance card is not normally part of it. A language requirement must fit the job: not every role justifies the same high language standard.",
       "page": 0,
       "targets": [
         "1.1.2",
@@ -130,9 +153,15 @@
         "1.1.6"
       ],
       "refs": [
-        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.rijksoverheid.nl/themas/werk/gelijke-behandeling-op-het-werk/regels-gelijke-behandeling-op-het-werk"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        15,
+        18,
+        20
+      ]
     },
     {
       "id": "values-detail-customs",
@@ -155,8 +184,8 @@
       "id": "values-detail-calendar",
       "topic": "values",
       "title": "Feestdagen en herdenken / Celebrations and remembrance",
-      "nl": "4 mei is Nationale Dodenherdenking; 5 mei is Bevrijdingsdag. Koningsdag is normaal op 27 april; valt die datum op zondag, dan wordt het op 26 april gevierd. Sinterklaas wordt vaak op 5 december gevierd. Keti Koti op 1 juli herdenkt en viert de afschaffing van slavernij. Carnaval en het Suikerfeest zijn voor sommige groepen belangrijk. Een feestdag betekent niet automatisch een vrije werkdag: kijk in je cao of contract.",
-      "en": "4 May is National Remembrance Day; 5 May is Liberation Day. King’s Day is normally 27 April, or 26 April when the date falls on a Sunday. Sinterklaas is often celebrated on 5 December. Keti Koti on 1 July commemorates and celebrates the abolition of slavery. Carnival and Eid al-Fitr matter to some communities. A public holiday does not automatically mean a day off work: check the collective agreement or contract.",
+      "nl": "4 mei is Nationale Dodenherdenking; 5 mei is Bevrijdingsdag. Koningsdag is normaal op 27 april; valt die datum op zondag, dan wordt het op 26 april gevierd. Sinterklaas wordt vaak op 5 december gevierd. Keti Koti op 1 juli herdenkt en viert de afschaffing van slavernij. Carnaval en het Suikerfeest zijn voor sommige groepen belangrijk. Een feestdag betekent niet automatisch een vrije werkdag: kijk in je cao of contract. Eerste Kerstdag is op 25 december en Tweede Kerstdag op 26 december. Bij Oud en Nieuw zijn oliebollen gebruikelijk; beschuit met muisjes hoort bij een geboorte. Op 4 mei is er om 20.00 uur twee minuten stilte tijdens de Nationale Herdenking.",
+      "en": "4 May is National Remembrance Day; 5 May is Liberation Day. King’s Day is normally 27 April, or 26 April when the date falls on a Sunday. Sinterklaas is often celebrated on 5 December. Keti Koti on 1 July commemorates and celebrates the abolition of slavery. Carnival and Eid al-Fitr matter to some communities. A public holiday does not automatically mean a day off work: check the collective agreement or contract. Christmas Day is 25 December and Boxing Day is 26 December. Oliebollen are customary at New Year; rusks with aniseed sprinkles are associated with a birth. At 20:00 on 4 May, two minutes of silence are observed during National Remembrance.",
       "page": 0,
       "targets": [
         "2.1.5",
@@ -164,9 +193,14 @@
       ],
       "refs": [
         "https://www.government.nl/home/question-and-answer/work/public-holidays-in-the-netherlands",
-        "https://www.nationaalarchief.nl/en/node/93843"
+        "https://www.nationaalarchief.nl/en/node/93843",
+        "https://www.4en5mei.nl/herdenken/wie-en-wat-herdenken-we"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        32,
+        33
+      ]
     },
     {
       "id": "values-detail-participation",
@@ -188,8 +222,8 @@
       "id": "values-detail-relationships",
       "topic": "values",
       "title": "Relaties, gelijke rechten en grenzen / Relationships, equal rights and boundaries",
-      "nl": "Mensen kunnen trouwen, een geregistreerd partnerschap aangaan of ongehuwd samenwonen. Een huwelijk kan ook tussen partners van hetzelfde geslacht. Een persoon mag zelf keuzes maken over partner, werk, studie en geloof. Familie of traditie geeft geen recht op dwang of geweld. Ook binnen een relatie zijn toestemming en lichamelijke grenzen belangrijk. Huiselijk geweld en kindermishandeling zijn geen toegestane privézaken. Bij direct gevaar bel je 112.",
-      "en": "People may marry, enter a registered partnership or live together without marrying. Marriage is also possible for same-sex couples. Individuals make their own choices about partners, work, study and religion. Family or tradition does not justify coercion or violence. Consent and bodily boundaries matter within relationships too. Domestic violence and child abuse are not permitted private matters. Call 112 for immediate danger.",
+      "nl": "Mensen kunnen trouwen, een geregistreerd partnerschap aangaan of ongehuwd samenwonen. Een huwelijk kan ook tussen partners van hetzelfde geslacht. Een persoon mag zelf keuzes maken over partner, werk, studie en geloof. Familie of traditie geeft geen recht op dwang of geweld. Ook binnen een relatie zijn toestemming en lichamelijke grenzen belangrijk. Huiselijk geweld en kindermishandeling zijn geen toegestane privézaken. Bij direct gevaar bel je 112. Een samenlevingscontract is niet verplicht om ongehuwd samen te wonen. Voor een religieuze huwelijksceremonie in Nederland moet eerst het burgerlijk huwelijk zijn gesloten.",
+      "en": "People may marry, enter a registered partnership or live together without marrying. Marriage is also possible for same-sex couples. Individuals make their own choices about partners, work, study and religion. Family or tradition does not justify coercion or violence. Consent and bodily boundaries matter within relationships too. Domestic violence and child abuse are not permitted private matters. Call 112 for immediate danger. A cohabitation contract is not compulsory for unmarried partners to live together. In the Netherlands a civil marriage must take place before a religious marriage ceremony.",
       "page": 0,
       "targets": [
         "2.1.4",
@@ -198,9 +232,13 @@
         "7.2.8"
       ],
       "refs": [
-        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/trouwen-samenlevingscontract-en-geregistreerd-partnerschap/trouwen-of-geregistreerd-partnerschap-sluiten"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        34
+      ]
     },
     {
       "id": "health-detail-triage",
@@ -218,7 +256,11 @@
       "refs": [
         "https://www.zorginstituutnederland.nl/verzekerde-zorg/h/huisarts-zvw"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-14",
+      "assessmentQuestions": [
+        37,
+        40
+      ]
     },
     {
       "id": "health-detail-costs",
@@ -241,8 +283,8 @@
       "id": "health-detail-rights",
       "topic": "health",
       "title": "Zorg begrijpen, privacy en medicijnen / Understanding care, privacy and medicines",
-      "nl": "Vertel de arts welke medicijnen je gebruikt en stel vragen als je iets niet begrijpt. Vraag zo nodig naar een tolk; spreek vooraf af hoe dit geregeld en betaald wordt. Zorgverleners hebben beroepsgeheim, met wettelijke uitzonderingen. Behandeling vraagt in beginsel geïnformeerde toestemming. Een recept gebruik je bij de apotheek; sommige middelen zijn zonder recept te koop bij apotheek of drogist. Volg de bijsluiter en vraag advies over combinatie met andere medicijnen. Een tandarts kies je zelf; regelmatige controles en goede mondhygiëne zijn gebruikelijk.",
-      "en": "Tell the doctor which medicines you use and ask questions if something is unclear. Ask about an interpreter when needed, including arrangements and payment in advance. Healthcare professionals have confidentiality duties, subject to legal exceptions. Treatment generally requires informed consent. Prescriptions are used at a pharmacy; some products are available without prescription from a pharmacy or drugstore. Follow the leaflet and ask about interactions with other medicines. Choose your own dentist; regular check-ups and good oral hygiene are customary.",
+      "nl": "Vertel de arts welke medicijnen je gebruikt en stel vragen als je iets niet begrijpt. Vraag zo nodig naar een tolk; spreek vooraf af hoe dit geregeld en betaald wordt. Zorgverleners hebben beroepsgeheim, met wettelijke uitzonderingen. Behandeling vraagt in beginsel geïnformeerde toestemming. Een recept gebruik je bij de apotheek; sommige middelen zijn zonder recept te koop bij apotheek of drogist. Volg de bijsluiter en vraag advies over combinatie met andere medicijnen. Je kiest zelf een tandarts en regelt de inschrijving; regelmatige controles en goede mondhygiëne zijn gebruikelijk. Bij overstappen naar een nieuwe huisarts is toestemming van de patiënt nodig voor de gewone overdracht van het medisch dossier. Beroepsgeheim betekent dus niet dat overdracht nooit mag; de huisarts draagt het dossier veilig over.",
+      "en": "Tell the doctor which medicines you use and ask questions if something is unclear. Ask about an interpreter when needed, including arrangements and payment in advance. Healthcare professionals have confidentiality duties, subject to legal exceptions. Treatment generally requires informed consent. Prescriptions are used at a pharmacy; some products are available without prescription from a pharmacy or drugstore. Follow the leaflet and ask about interactions with other medicines. Choose and register with your own dentist; regular check-ups and good oral hygiene are customary. When switching to a new GP, the patient’s consent is needed for the ordinary transfer of the medical record. Confidentiality does not mean transfer is never allowed; the GP transfers the record securely.",
       "page": 0,
       "targets": [
         "4.1.1",
@@ -251,9 +293,16 @@
       ],
       "refs": [
         "https://www.zorginstituutnederland.nl/verzekerde-zorg/h/huisarts-zvw",
-        "https://www.rijksoverheid.nl/themas/werk/werkloos-worden/vraag-en-antwoord/zorgverzekering/wat-zit-er-in-het-basispakket-van-de-zorgverzekering"
+        "https://www.rijksoverheid.nl/themas/werk/werkloos-worden/vraag-en-antwoord/zorgverzekering/wat-zit-er-in-het-basispakket-van-de-zorgverzekering",
+        "https://www.knmg.nl/ik-ben-arts/praktijkdilemmas-1/praktijkdilemma/zijn-er-richtlijnen-voor-het-overdragen-van-het-medisch-dossier-als-een-patient-verandert-van-huisarts"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        35,
+        36,
+        38,
+        39
+      ]
     },
     {
       "id": "health-detail-support",
@@ -287,14 +336,17 @@
       "refs": [
         "https://www.rijksoverheid.nl/themas/onderwijs/leerplicht/leerplicht-en-kwalificatieplicht"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-14",
+      "assessmentQuestions": [
+        31
+      ]
     },
     {
       "id": "education-detail-schools",
       "topic": "education",
       "title": "Schoolkeuze, ondersteuning en diversiteit / School choice, support and diversity",
-      "nl": "Openbare en bijzondere scholen zijn allebei onderdeel van het onderwijsstelsel. Bijzonder betekent bijvoorbeeld een religieuze of onderwijsinhoudelijke grondslag, niet automatisch speciaal onderwijs. Voor een kind met extra ondersteuningsbehoeften bespreek je passende hulp met de school. Vervolgopleidingen kunnen toelatingseisen hebben. Voorschoolse educatie kan jonge kinderen helpen; buitenschoolse opvang is opvang rond schooltijd. Basis- en middelbare scholen besteden verplicht aandacht aan seksualiteit en seksuele diversiteit; de invulling kan verschillen.",
-      "en": "Public and privately governed schools both belong to the education system. A “bijzondere” school may have a religious or educational philosophy; this does not automatically mean special education. Discuss suitable support with the school for a child with additional needs. Further education can have entry requirements. Preschool education can support young children; out-of-school childcare covers time around school hours. Primary and secondary schools must address sexuality and sexual diversity, with variation in delivery.",
+      "nl": "Openbare en bijzondere scholen zijn allebei onderdeel van het onderwijsstelsel. Bijzonder betekent bijvoorbeeld een religieuze of onderwijsinhoudelijke grondslag, niet automatisch speciaal onderwijs. Voor een kind met extra ondersteuningsbehoeften bespreek je passende hulp met de school. Vervolgopleidingen kunnen toelatingseisen hebben. Voorschoolse educatie kan jonge kinderen helpen; buitenschoolse opvang is opvang rond schooltijd. Basis- en middelbare scholen besteden verplicht aandacht aan seksualiteit en seksuele diversiteit; de invulling kan verschillen. Een vmbo-diploma geeft niet rechtstreeks toegang tot de universiteit. De gewone vervolgstap is mbo; via vervolgopleidingen kunnen andere routes mogelijk zijn.",
+      "en": "Public and privately governed schools both belong to the education system. A “bijzondere” school may have a religious or educational philosophy; this does not automatically mean special education. Discuss suitable support with the school for a child with additional needs. Further education can have entry requirements. Preschool education can support young children; out-of-school childcare covers time around school hours. Primary and secondary schools must address sexuality and sexual diversity, with variation in delivery. A vmbo diploma does not give direct university admission. The usual next step is mbo; other routes can become available through further qualifications.",
       "page": 0,
       "targets": [
         "8.1.1",
@@ -305,14 +357,17 @@
       "refs": [
         "https://www.rijksoverheid.nl/site/binaries/site-content/collections/documents/2023/06/06/antwoorden-op-kamervragen-van-het-lid-van-haga-over-de-week-van-de-lentekriebels-en-de-berichtgeving-daarover/antwoorden-op-kamervragen-van-het-lid-van-haga-over-de-week-van-de-lentekriebels-en-de-berichtgeving-daarover.pdf"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        30
+      ]
     },
     {
       "id": "education-detail-parents",
       "topic": "education",
       "title": "Ouders, school en jeugdhulp / Parents, school and youth support",
-      "nl": "Ouders zorgen voor veiligheid, verzorging en schoolbezoek van hun minderjarige kinderen. Zij bespreken ontwikkeling en problemen met leraren. Voor schade door kinderen gelden leeftijdsafhankelijke aansprakelijkheidsregels; bij 14- en 15-jarigen kunnen omstandigheden meetellen. Vraag bij een concrete schadeclaim juridisch advies. Je kunt opvoedhulp vragen aan school, huisarts of gemeente. Kinderbescherming grijpt niet bij elk meningsverschil in: ernstige zorgen over veiligheid kunnen tot onderzoek en een rechterlijke maatregel leiden.",
-      "en": "Parents ensure the safety, care and school attendance of minor children and discuss development with teachers. Liability for damage caused by children depends on age; circumstances can matter for 14- and 15-year-olds. Seek legal advice for a specific claim. Ask the school, GP or municipality for parenting support. Child protection does not intervene in every disagreement: serious safety concerns may lead to investigation and a court measure.",
+      "nl": "Ouders zorgen voor veiligheid, verzorging en schoolbezoek van hun minderjarige kinderen. Zij bespreken ontwikkeling en problemen met leraren. Je kunt opvoedhulp vragen aan school, huisarts of gemeente. Kinderbescherming grijpt niet bij elk meningsverschil in: ernstige zorgen over veiligheid kunnen tot onderzoek en een rechterlijke maatregel leiden. Bij schade veroorzaakt door een kind jonger dan 14 jaar zijn de ouder(s) met gezag of voogd in beginsel aansprakelijk. Een kind van 14 of 15 is zelf aansprakelijk; ouders kunnen mede aansprakelijk zijn als zij de schade redelijkerwijs hadden kunnen voorkomen. Dit gaat over civiele schade, niet over wie een straf krijgt.",
+      "en": "Parents ensure the safety, care and school attendance of minor children and discuss development with teachers.  Ask the school, GP or municipality for parenting support. Child protection does not intervene in every disagreement: serious safety concerns may lead to investigation and a court measure. For damage caused by a child under 14, the parent(s) with parental authority or guardian are generally liable. A child aged 14 or 15 is personally liable; parents can also be liable if they could reasonably have prevented the damage. This concerns civil liability, not criminal punishment.",
       "page": 0,
       "targets": [
         "8.2.1",
@@ -320,9 +375,13 @@
         "8.2.3"
       ],
       "refs": [
-        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.rijksoverheid.nl/themas/recht-veiligheid-en-defensie/schulden/vraag-en-antwoord/schulden/schulden-van-kinderen"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        29
+      ]
     },
     {
       "id": "education-detail-payments",
@@ -345,8 +404,8 @@
       "id": "institutions-detail-documents",
       "topic": "institutions",
       "title": "Gemeente, IND en nationaliteit / Municipality, IND and nationality",
-      "nl": "Geboorte, verhuizing en veranderingen in je gezin kunnen registratie in de BRP en gevolgen voor regelingen vragen. Paspoort en rijbewijs regel je doorgaans via de gemeente, afhankelijk van je situatie. De IND behandelt verblijfsrecht; een verblijfsvergunning is geen Nederlands paspoort. Naturalisatie vraag je als inwoner aan bij je gemeente, waarna de IND beslist. Vaak moet je afstand doen van je oude nationaliteit, maar er zijn uitzonderingen. Controleer de IND-regels voor jouw situatie.",
-      "en": "Births, moves and household changes may require BRP registration and affect support schemes. Passports and driving licences are generally arranged through the municipality, depending on your situation. The IND handles residence rights; a residence permit is not a Dutch passport. Residents apply for naturalisation at their municipality, after which the IND decides. Renouncing a previous nationality is often required, but exceptions exist. Check IND rules for your situation.",
+      "nl": "Geboorte, verhuizing en veranderingen in je gezin kunnen registratie in de BRP en gevolgen voor regelingen vragen. Paspoort en rijbewijs regel je doorgaans via de gemeente, afhankelijk van je situatie. De IND behandelt verblijfsrecht; een verblijfsvergunning is geen Nederlands paspoort. Naturalisatie vraag je als inwoner aan bij je gemeente, waarna de IND beslist. Vaak moet je afstand doen van je oude nationaliteit, maar er zijn uitzonderingen. Controleer de IND-regels voor jouw situatie. Een echtscheiding wordt na de rechterlijke beslissing ingeschreven in de burgerlijke stand bij de gemeente waar het huwelijk is gesloten. Geboorteaangifte doe je bij de gemeente waar het kind is geboren, in beginsel binnen drie dagen; de geboortedag telt niet mee en voor weekenden en feestdagen gelden termijnregels.",
+      "en": "Births, moves and household changes may require BRP registration and affect support schemes. Passports and driving licences are generally arranged through the municipality, depending on your situation. The IND handles residence rights; a residence permit is not a Dutch passport. Residents apply for naturalisation at their municipality, after which the IND decides. Renouncing a previous nationality is often required, but exceptions exist. Check IND rules for your situation. After the court decision, a divorce is registered in the civil registry of the municipality where the marriage took place. Register a birth in the municipality where the child was born, generally within three days; the birthday does not count and weekend/public-holiday deadline rules apply.",
       "page": 0,
       "targets": [
         "6.2.1",
@@ -355,16 +414,22 @@
       ],
       "refs": [
         "https://ind.nl/nl/nederlanderschap/nederlander-worden-door-naturalisatie",
-        "https://ind.nl/nl/afstand-nationaliteit"
+        "https://ind.nl/nl/afstand-nationaliteit",
+        "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/aangifte-geboorte-en-naamskeuze-kind/aangifte-geboorte",
+        "https://www.rechtspraak.nl/onderwerpen/echtscheiding/procedure"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        23,
+        27
+      ]
     },
     {
       "id": "institutions-detail-digital",
       "topic": "institutions",
       "title": "Identificatie, BSN en digitale hulp / Identification, BSN and digital support",
-      "nl": "Vanaf 14 jaar moet je bij een bevoegde, gerechtvaardigde controle een geldig identiteitsbewijs kunnen tonen. In het OV kan dit al vanaf 12 jaar gelden bij reizen zonder geldig kaartje of belemmeren van controle. BSN is je persoonsnummer; DigiD is een inlogmiddel. Deel DigiD-wachtwoorden en codes niet. Controleer afzender en webadres van berichten. Het Informatiepunt Digitale Overheid in de bibliotheek kan helpen met digitale overheidszaken; je hoeft dit niet alleen te kunnen. De politie helpt bij misdrijven, ongevallen en discriminatie. Bij ernstige misdrijven zoals moord of ontvoering bestaat aangifteplicht.",
-      "en": "From age 14, you must be able to show valid identification during an authorised, justified check. On public transport this can apply from age 12 when travelling without a valid ticket or obstructing ticket checks. A BSN is your personal service number; DigiD is a login method. Do not share DigiD passwords or codes. Check senders and web addresses. The library’s Digital Government Information Point can help with digital public services; you need not manage alone. Police help with crime, accidents and discrimination. Serious crimes such as murder or kidnapping carry a duty to report.",
+      "nl": "Vanaf 14 jaar moet je bij een bevoegde, gerechtvaardigde controle een geldig identiteitsbewijs kunnen tonen. In het OV kan dit al vanaf 12 jaar gelden bij reizen zonder geldig kaartje of belemmeren van controle. BSN is je persoonsnummer; DigiD is een inlogmiddel. Deel DigiD-wachtwoorden en codes niet. Controleer afzender en webadres van berichten. Het Informatiepunt Digitale Overheid in de bibliotheek kan helpen met digitale overheidszaken; je hoeft dit niet alleen te kunnen. De politie helpt bij misdrijven, ongevallen en discriminatie. Bij ernstige misdrijven zoals moord of ontvoering bestaat aangifteplicht. Hulp bij een digitale overheidsdienst kan via DigiD Machtigen, als die dienst dit ondersteunt: de helper logt met de eigen DigiD in. Dit is iets anders dan je wachtwoord afgeven. Voor niet-spoedeisende politiehulp kun je 0900-8844 bellen; 112 is voor noodsituaties, zoals een grote brand of direct gevaar.",
+      "en": "From age 14, you must be able to show valid identification during an authorised, justified check. On public transport this can apply from age 12 when travelling without a valid ticket or obstructing ticket checks. A BSN is your personal service number; DigiD is a login method. Do not share DigiD passwords or codes. Check senders and web addresses. The library’s Digital Government Information Point can help with digital public services; you need not manage alone. Police help with crime, accidents and discrimination. Serious crimes such as murder or kidnapping carry a duty to report. For a public service that supports it, DigiD Machtigen lets you authorise a helper who signs in with their own DigiD. This is different from sharing your password. For non-emergency police assistance, call 0900-8844; 112 is for emergencies such as a major fire or immediate danger.",
       "page": 0,
       "targets": [
         "6.1.1",
@@ -374,16 +439,22 @@
         "https://www.rijksoverheid.nl/themas/migratie-en-reizen/paspoort-en-identiteitskaart/vraag-en-antwoord/paspoort-en-identiteitskaart/wat-is-de-identificatieplicht",
         "https://www.rijksoverheid.nl/documenten/vraag-en-antwoord/identificatieplicht/geldt-de-identificatieplicht-ook-voor-minderjarigen",
         "https://www.digid.nl/hulp-contact/hulp-bij-een-bibliotheek",
-        "https://www.politie.nl/informatie/ik-ben-slachtoffer-moet-ik-aangifte-doen.html"
+        "https://www.politie.nl/informatie/ik-ben-slachtoffer-moet-ik-aangifte-doen.html",
+        "https://www.digid.nl/aanvragen-en-activeren/machtigen",
+        "https://www.politie.nl/contact"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        22,
+        25
+      ]
     },
     {
       "id": "institutions-detail-money",
       "topic": "institutions",
       "title": "Toeslagen, belasting en hulp bij geldzorgen / Allowances, tax and money support",
-      "nl": "Dienst Toeslagen regelt inkomensafhankelijke toeslagen zoals huur-, zorg- en kinderopvangtoeslag. De oudere leerstof gebruikt hiervoor vaak de naam Belastingdienst. Een voorschot is gebaseerd op gegevens die je moet controleren. Geef een gewijzigd verwacht jaarinkomen door; anders moet je mogelijk terugbetalen. Belastingaangifte, een toeslag en kinderbijslag zijn verschillende zaken. Bewaar jaaropgaven minstens vijf jaar en lees termijnen. Vraag bij geldzorgen tijdig hulp aan gemeente of schuldhulpverlening; Nibud biedt budgetinformatie. Gemeentelijke heffingen zijn bijvoorbeeld afvalstoffenheffing, rioolheffing, ozb en parkeerbelasting. Belastingen betalen onder meer onderwijs, wegen, politie en zorg. Een aangifte kan tot betalen of terugkrijgen leiden; vraag hulp als je de brief niet begrijpt. Bijstand en schuldhulp lopen via de gemeente; een voedselbank kan onder voorwaarden voedselhulp bieden. De GGD werkt aan publieke gezondheid.",
-      "en": "Dienst Toeslagen administers income-related rent, healthcare and childcare allowances. Older study material often uses the name Belastingdienst for this. An advance is based on details you should check. Update your expected annual income if it changes; otherwise you may have to repay money. A tax return, an allowance and child benefit are different things. Keep annual income statements for at least five years and read deadlines. Seek municipal debt support early; Nibud provides budgeting information. Municipal charges include waste, sewerage, property and parking taxes. Taxes fund services including education, roads, police and care. A tax return can lead to payment or a refund; ask for help if a letter is unclear. Municipalities handle social assistance and debt support; a food bank may provide food subject to conditions. The GGD works on public health.",
+      "nl": "Dienst Toeslagen regelt inkomensafhankelijke toeslagen zoals huur-, zorg- en kinderopvangtoeslag. De oudere leerstof gebruikt hiervoor vaak de naam Belastingdienst. Een voorschot is gebaseerd op gegevens die je moet controleren. Geef een gewijzigd verwacht jaarinkomen door; anders moet je mogelijk terugbetalen. Belastingaangifte, een toeslag en kinderbijslag zijn verschillende zaken. Bewaar jaaropgaven minstens vijf jaar en lees termijnen. Vraag bij geldzorgen tijdig hulp aan gemeente of schuldhulpverlening; Nibud biedt budgetinformatie. Gemeentelijke heffingen zijn bijvoorbeeld afvalstoffenheffing, rioolheffing, ozb en parkeerbelasting. Belastingen betalen onder meer onderwijs, wegen, politie en zorg. Een aangifte kan tot betalen of terugkrijgen leiden; vraag hulp als je de brief niet begrijpt. Bijstand en schuldhulp lopen via de gemeente; een voedselbank kan onder voorwaarden voedselhulp bieden. De GGD werkt aan publieke gezondheid. Bij een hoger gezamenlijk toetsingsinkomen daalt kinderopvangtoeslag doorgaans, als de overige omstandigheden gelijk blijven. Voor kinderbijslag moet je bij de SVB zijn. Krijg je een aangiftebrief, dan moet je aangifte doen vóór de aangegeven datum; ook zonder brief kan aangifte verplicht zijn. Salarissen bij een gewone commerciële bank worden door de bank betaald, niet als overheidsdienst uit belastinggeld. Sociale verzekeringen worden mede uit premies bekostigd: WW is niet simpelweg dezelfde geldstroom als algemene belastingen.",
+      "en": "Dienst Toeslagen administers income-related rent, healthcare and childcare allowances. Older study material often uses the name Belastingdienst for this. An advance is based on details you should check. Update your expected annual income if it changes; otherwise you may have to repay money. A tax return, an allowance and child benefit are different things. Keep annual income statements for at least five years and read deadlines. Seek municipal debt support early; Nibud provides budgeting information. Municipal charges include waste, sewerage, property and parking taxes. Taxes fund services including education, roads, police and care. A tax return can lead to payment or a refund; ask for help if a letter is unclear. Municipalities handle social assistance and debt support; a food bank may provide food subject to conditions. The GGD works on public health. A higher combined assessment income usually reduces childcare allowance if other circumstances stay the same. SVB handles child benefit. If you receive a tax-return invitation, file by its deadline; filing can also be compulsory without a letter. Employees of an ordinary commercial bank are paid by the bank, not as a public service from tax money. Social insurance is also funded through contributions: WW is not simply the same funding stream as general taxation.",
       "page": 0,
       "targets": [
         "6.1.2",
@@ -393,9 +464,16 @@
         "6.3.3"
       ],
       "refs": [
-        "https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hoe-zorg-ik-dat-jullie-mijn-toeslag-met-het-juiste-inkomen-berekenen"
+        "https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hoe-zorg-ik-dat-jullie-mijn-toeslag-met-het-juiste-inkomen-berekenen",
+        "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/inkomstenbelasting/belasting_betalen_terugvragen/check_of_u_belasting_moet_betalen/",
+        "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-2931.html"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        16,
+        24,
+        28
+      ]
     },
     {
       "id": "institutions-detail-complaints",
@@ -449,8 +527,8 @@
       "id": "government-detail-freedoms",
       "topic": "government",
       "title": "Grondrechten, privacy en de rechtsstaat / Fundamental rights, privacy and the rule of law",
-      "nl": "Artikel 1 beschermt gelijke behandeling in gelijke gevallen. Vrijheid van godsdienst omvat ook het recht geen geloof te hebben of van geloof te veranderen. Meningsuiting is beschermd maar heeft wettelijke grenzen, bijvoorbeeld rond bedreiging en discriminatie. Religie en traditie vervangen de wet niet. Privacy betekent onder meer dat organisaties gegevens niet zomaar voor ieder doel mogen gebruiken. Je kunt inzage en correctie vragen. Rechters zijn onafhankelijk; hoger beroep kan volgens de toepasselijke regels mogelijk zijn.",
-      "en": "Article 1 protects equal treatment in equal situations. Religious freedom includes having no religion or changing beliefs. Expression is protected but has legal limits, for example concerning threats and discrimination. Religion and tradition do not replace the law. Privacy means organisations cannot simply use data for any purpose. You can request access and correction. Judges are independent; an appeal may be possible under the relevant rules.",
+      "nl": "Artikel 1 beschermt gelijke behandeling in gelijke gevallen. Vrijheid van godsdienst omvat ook het recht geen geloof te hebben of van geloof te veranderen. Meningsuiting is beschermd maar heeft wettelijke grenzen, bijvoorbeeld rond bedreiging en discriminatie. Religie en traditie vervangen de wet niet. Privacy betekent onder meer dat organisaties gegevens niet zomaar voor ieder doel mogen gebruiken. Je kunt inzage en correctie vragen. Rechters zijn onafhankelijk; hoger beroep kan volgens de toepasselijke regels mogelijk zijn. Vrouwen mogen hetzelfde werk doen als mannen; moederschap is geen algemene reden om werk te verbieden. Het parlement neemt wetsvoorstellen aan: de Tweede Kamer kan wijzigen, de Eerste Kamer neemt aan of verwerpt. In een strafzaak oordeelt de onafhankelijke rechter. Niet iedere overtreding komt voor de rechter: het OM kan voor bepaalde zaken zelf een strafbeschikking opleggen, maar geen gevangenisstraf.",
+      "en": "Article 1 protects equal treatment in equal situations. Religious freedom includes having no religion or changing beliefs. Expression is protected but has legal limits, for example concerning threats and discrimination. Religion and tradition do not replace the law. Privacy means organisations cannot simply use data for any purpose. You can request access and correction. Judges are independent; an appeal may be possible under the relevant rules. Women may do the same work as men; motherhood is not a general reason to prohibit employment. Parliament adopts bills: the House may amend them and the Senate accepts or rejects them. An independent judge decides a criminal case brought to court. Not every offence goes to court: the Public Prosecution Service can impose a penalty order in certain cases, but cannot impose imprisonment.",
       "page": 0,
       "targets": [
         "7.1.3",
@@ -462,9 +540,16 @@
       ],
       "refs": [
         "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
-        "https://www.rijksoverheid.nl/themas/overheid-en-democratie/privacy-en-persoonsgegevens/privacyregels-beschermen-persoonsgegevens"
+        "https://www.rijksoverheid.nl/themas/overheid-en-democratie/privacy-en-persoonsgegevens/privacyregels-beschermen-persoonsgegevens",
+        "https://www.rijksoverheid.nl/themas/werk/gelijke-behandeling-op-het-werk/regels-gelijke-behandeling-op-het-werk",
+        "https://www.om.nl/onderwerpen/s/strafbeschikking"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        11,
+        12,
+        13
+      ]
     },
     {
       "id": "government-detail-donation",
@@ -495,39 +580,53 @@
       "refs": [
         "https://www.cbs.nl/-/media/_pdf/2026/09/2026ov027_kaart_12-provincies.pdf"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-14",
+      "assessmentQuestions": [
+        3
+      ]
     },
     {
       "id": "history-detail-symbols",
       "topic": "history",
       "title": "Vlag, kunst, koloniën en slavernij / Flag, art, colonies and slavery",
-      "nl": "De Nederlandse vlag heeft horizontaal rood boven, wit in het midden en blauw onder. Het Wilhelmus is het volkslied. In de zeventiende eeuw groeiden scheepvaart, handel, schilderkunst en steden. Dit verleden omvat ook koloniale overheersing, slavernij en uitbuiting; welvaart kwam niet iedereen ten goede. Keti Koti verwijst naar de afschaffing van slavernij op 1 juli 1863 in Suriname en het Caribisch gebied, waarbij veel mensen in Suriname nog tien jaar gedwongen op plantages moesten werken.",
-      "en": "The Dutch flag has horizontal red at the top, white in the middle and blue below. The Wilhelmus is the national anthem. Shipping, trade, painting and cities expanded in the seventeenth century. This history also includes colonial rule, slavery and exploitation; prosperity did not benefit everyone. Keti Koti refers to abolition on 1 July 1863 in Suriname and the Caribbean, while many people in Suriname were forced to keep working on plantations for another ten years.",
+      "nl": "De Nederlandse vlag heeft horizontaal rood boven, wit in het midden en blauw onder. Het Wilhelmus is het volkslied. In de zeventiende eeuw groeiden scheepvaart, handel, schilderkunst en steden. Dit verleden omvat ook koloniale overheersing, slavernij en uitbuiting; welvaart kwam niet iedereen ten goede. Keti Koti verwijst naar de afschaffing van slavernij op 1 juli 1863 in Suriname en het Caribisch gebied, waarbij veel mensen in Suriname nog tien jaar gedwongen op plantages moesten werken. De Holocaust vond plaats tijdens de Tweede Wereldoorlog (1939–1945). Nederland was van 1940 tot 1945 bezet door nazi-Duitsland; dat is niet dezelfde begindatum als die van de hele wereldoorlog.",
+      "en": "The Dutch flag has horizontal red at the top, white in the middle and blue below. The Wilhelmus is the national anthem. Shipping, trade, painting and cities expanded in the seventeenth century. This history also includes colonial rule, slavery and exploitation; prosperity did not benefit everyone. Keti Koti refers to abolition on 1 July 1863 in Suriname and the Caribbean, while many people in Suriname were forced to keep working on plantations for another ten years. The Holocaust took place during the Second World War (1939–1945). The Netherlands was occupied by Nazi Germany from 1940 to 1945; that occupation did not begin in the same year as the world war as a whole.",
       "page": 0,
       "targets": [
         "5.1.1"
       ],
       "refs": [
         "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
-        "https://www.nationaalarchief.nl/en/node/93843"
+        "https://www.nationaalarchief.nl/en/node/93843",
+        "https://www.annefrank.org/nl/anne-frank/de-tijdlijn/"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        4,
+        5
+      ]
     },
     {
       "id": "history-detail-international",
       "topic": "history",
       "title": "Migratie, emancipatie en samenwerking / Migration, emancipation and cooperation",
-      "nl": "Na de Tweede Wereldoorlog kwamen mensen uit voormalige koloniën, arbeidsmigranten en vluchtelingen naar Nederland. Sinds de jaren zestig werden emancipatie en individuele keuzevrijheid zichtbaarder. Huwelijk voor partners van hetzelfde geslacht, abortus en euthanasie zijn wettelijk geregeld, met eigen voorwaarden; dit zijn geen onbeperkte rechten zonder regels. De EU gaat over Europese samenwerking en regels, de NAVO over bondgenootschappelijke veiligheid en de VN over wereldwijde samenwerking. Deze organisaties zijn niet hetzelfde. Nederland moet EU-afspraken naleven. Voor EU-burgers bestaan in beginsel vrij verkeer en mogelijkheden om in andere lidstaten te wonen en werken, met voorwaarden. Dit geldt niet automatisch op dezelfde manier voor iedere niet-EU-burger.",
-      "en": "After the Second World War, people from former colonies, labour migrants and refugees came to the Netherlands. Emancipation and individual choice became more prominent from the 1960s. Same-sex marriage, abortion and euthanasia are regulated by law, each with its own conditions; they are not unlimited rights without rules. The EU concerns European cooperation and rules, NATO collective security and the UN global cooperation. These organisations are different. The Netherlands must comply with EU agreements. EU citizens generally have free movement and opportunities to live and work in other member states, subject to conditions. These rights do not automatically apply in the same way to every non-EU citizen.",
+      "nl": "Na de Tweede Wereldoorlog kwamen mensen uit voormalige koloniën, arbeidsmigranten en vluchtelingen naar Nederland. Sinds de jaren zestig werden emancipatie en individuele keuzevrijheid zichtbaarder. Huwelijk voor partners van hetzelfde geslacht, abortus en euthanasie zijn wettelijk geregeld, met eigen voorwaarden; dit zijn geen onbeperkte rechten zonder regels. De EU gaat over Europese samenwerking en regels, de NAVO over bondgenootschappelijke veiligheid en de VN over wereldwijde samenwerking. Deze organisaties zijn niet hetzelfde. Nederland moet EU-afspraken naleven. Voor EU-burgers bestaan in beginsel vrij verkeer en mogelijkheden om in andere lidstaten te wonen en werken, met voorwaarden. Dit geldt niet automatisch op dezelfde manier voor iedere niet-EU-burger. VN betekent Verenigde Naties. Een hoofddoel is het bewaren van internationale vrede en veiligheid. Een Nederlander kan met een geldig paspoort of identiteitskaart zonder visum naar België reizen; verblijf en werken binnen de EU kennen daarnaast eigen voorwaarden.",
+      "en": "After the Second World War, people from former colonies, labour migrants and refugees came to the Netherlands. Emancipation and individual choice became more prominent from the 1960s. Same-sex marriage, abortion and euthanasia are regulated by law, each with its own conditions; they are not unlimited rights without rules. The EU concerns European cooperation and rules, NATO collective security and the UN global cooperation. These organisations are different. The Netherlands must comply with EU agreements. EU citizens generally have free movement and opportunities to live and work in other member states, subject to conditions. These rights do not automatically apply in the same way to every non-EU citizen. VN means United Nations. A central purpose is maintaining international peace and security. A Dutch citizen can travel to Belgium with a valid passport or identity card without a visa; EU residence and employment have additional conditions.",
       "page": 0,
       "targets": [
         "5.1.2",
         "7.1.2"
       ],
       "refs": [
-        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html"
+        "https://zoek.officielebekendmakingen.nl/stcrt-2024-15802.html",
+        "https://www.un.org/en/our-work/maintain-international-peace-and-security",
+        "https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm"
       ],
-      "checked": "2026-11-14"
+      "checked": "2026-11-15",
+      "assessmentQuestions": [
+        2,
+        10
+      ]
     },
     {
       "id": "history-detail-region",

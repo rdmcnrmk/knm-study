@@ -73,3 +73,8 @@ Speaking question and answer audio was generated on 14 November 2026 using Eleve
 
 Publisher conditions: https://elevenlabs.io/docs/help-center/legal/can-i-publish-the-content-i-generate-on-the-platform
 Provider: https://elevenlabs.io
+
+
+## Supplied KNM practice-result PDF
+
+The user supplied `Optimum Assessment Result.pdf` (31 pages, 40 practice questions). Source questions and choices have been transcribed/adapted for a study collection, with English translations and explanations added. Rights in the source prompts remain with their original owner; no MIT licence or affiliation is asserted for them. Source images, original PDF, private results and session metadata are not redistributed. Source numbers and page references are recorded in `src/assessment-review.json`; accuracy changes and reuse decisions are recorded in `ASSESSMENT_REVIEW.md`. Official practice remains available through https://www.inburgeren.nl/examen-doen/oefenen.jsp .
