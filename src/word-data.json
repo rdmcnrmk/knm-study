@@ -1,0 +1,9428 @@
+[
+  {
+    "id": "word-959a45d44e6f",
+    "nl": "de",
+    "meanings": [
+      "the"
+    ],
+    "examples": [
+      "De zon schijnt vandaag."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-dbd3a49d0d90",
+    "nl": "en",
+    "meanings": [
+      "and"
+    ],
+    "examples": [
+      "Ik hou van koffie en thee."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-5b4412d8fe0d",
+    "nl": "een",
+    "meanings": [
+      "a / an"
+    ],
+    "examples": [
+      "Ik heb een nieuwe fiets."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-68419b272cd4",
+    "nl": "het",
+    "meanings": [
+      "the / it"
+    ],
+    "examples": [
+      "Het weer is mooi."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-582967534d0f",
+    "nl": "in",
+    "meanings": [
+      "in"
+    ],
+    "examples": [
+      "Wij wonen in de stad."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-2d6c9a90dd38",
+    "nl": "te",
+    "meanings": [
+      "too"
+    ],
+    "examples": [
+      "Deze schoenen zijn te klein."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-72a7ab318788",
+    "nl": "ik",
+    "meanings": [
+      "I"
+    ],
+    "examples": [
+      "Ik leer Nederlands."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-6a346c0361c3",
+    "nl": "hebben",
+    "meanings": [
+      "to have"
+    ],
+    "examples": [
+      "Zij hebben een grote hond."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-722c8c993fd7",
+    "nl": "hij",
+    "meanings": [
+      "he"
+    ],
+    "examples": [
+      "Hij leest graag een boek."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-accd1722d6f7",
+    "nl": "niet",
+    "meanings": [
+      "not"
+    ],
+    "examples": [
+      "Ik weet het niet zeker."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-037aeaeaf4bb",
+    "nl": "op",
+    "meanings": [
+      "on"
+    ],
+    "examples": [
+      "Het boek ligt op de tafel."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-947d5a35ff2f",
+    "nl": "dat",
+    "meanings": [
+      "that"
+    ],
+    "examples": [
+      "Dat is een geweldig idee."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-a6f105e2b990",
+    "nl": "voor",
+    "meanings": [
+      "for / before"
+    ],
+    "examples": [
+      "Dit cadeau is voor jou."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-cc7e4412564b",
+    "nl": "er",
+    "meanings": [
+      "there"
+    ],
+    "examples": [
+      "Er staat een boom in de tuin.",
+      "Er staat een auto voor de deur."
+    ],
+    "decks": [
+      "Core 1",
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-9e507a6dfbf9",
+    "nl": "je",
+    "meanings": [
+      "you / your"
+    ],
+    "examples": [
+      "Hoe gaat het met je?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-b9e16c3eee5a",
+    "nl": "zullen",
+    "meanings": [
+      "shall / will"
+    ],
+    "examples": [
+      "We zullen morgen vertrekken."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-bc00acbadd2d",
+    "nl": "kunnen",
+    "meanings": [
+      "can / to be able to"
+    ],
+    "examples": [
+      "Kun je mij helpen?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-c33635072f01",
+    "nl": "haar",
+    "meanings": [
+      "her / hair"
+    ],
+    "examples": [
+      "Zij kamt haar haren."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-28391d3bc64e",
+    "nl": "of",
+    "meanings": [
+      "or"
+    ],
+    "examples": [
+      "Wil je water of sap?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-f00a787f7492",
+    "nl": "wat",
+    "meanings": [
+      "what"
+    ],
+    "examples": [
+      "Wat ben je aan het doen?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-c62d45fa684b",
+    "nl": "gaan",
+    "meanings": [
+      "to go"
+    ],
+    "examples": [
+      "Wij gaan naar het park."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-d4a0ffcc990b",
+    "nl": "hem",
+    "meanings": [
+      "him"
+    ],
+    "examples": [
+      "Ik zag hem gisteren."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-d865e1ecb307",
+    "nl": "komen",
+    "meanings": [
+      "to come"
+    ],
+    "examples": [
+      "Wanneer kom je naar huis?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ec4f2dbb3b14",
+    "nl": "dan",
+    "meanings": [
+      "then"
+    ],
+    "examples": [
+      "Eerst eten en dan slapen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ed4771b3e3a8",
+    "nl": "zo",
+    "meanings": [
+      "so / like this"
+    ],
+    "examples": [
+      "Doe het alsjeblieft zo."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-bf501c6cc825",
+    "nl": "moeten",
+    "meanings": [
+      "must / to have to"
+    ],
+    "examples": [
+      "Wij moeten op tijd zijn."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-af3bc1afdc10",
+    "nl": "mijn",
+    "meanings": [
+      "my"
+    ],
+    "examples": [
+      "Mijn tas staat bij de deur."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-934447d103c4",
+    "nl": "zij",
+    "meanings": [
+      "she / they"
+    ],
+    "examples": [
+      "Zij studeert aan de universiteit."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-c4987df89852",
+    "nl": "deze",
+    "meanings": [
+      "this / these"
+    ],
+    "examples": [
+      "Deze jas is heel warm."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-dc7c811b9561",
+    "nl": "we",
+    "meanings": [
+      "we"
+    ],
+    "examples": [
+      "We gaan samen wandelen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-5871c5f5d92d",
+    "nl": "meer",
+    "meanings": [
+      "more"
+    ],
+    "examples": [
+      "Ik wil graag meer water."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-39e82b0431b5",
+    "nl": "dit",
+    "meanings": [
+      "this"
+    ],
+    "examples": [
+      "Dit is mijn favoriete liedje."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-bf0bdca561fa",
+    "nl": "maken",
+    "meanings": [
+      "to make"
+    ],
+    "examples": [
+      "Hij kan lekkere soep maken."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-b0ab4e53bc94",
+    "nl": "staan",
+    "meanings": [
+      "to stand"
+    ],
+    "examples": [
+      "De bloemen staan op tafel."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-a887c9e57126",
+    "nl": "goed",
+    "meanings": [
+      "good"
+    ],
+    "examples": [
+      "Het eten smaakt erg goed."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-4333bf944755",
+    "nl": "ander",
+    "meanings": [
+      "other"
+    ],
+    "examples": [
+      "We proberen een ander plan."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-6479aa985b86",
+    "nl": "doen",
+    "meanings": [
+      "to do"
+    ],
+    "examples": [
+      "Wat ga je vandaag doen?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-2744ccd10c75",
+    "nl": "me",
+    "meanings": [
+      "me"
+    ],
+    "examples": [
+      "Kun je me even helpen?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-0bfe935e70c3",
+    "nl": "u",
+    "meanings": [
+      "you (formal)"
+    ],
+    "examples": [
+      "Kunt u dat herhalen?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-b7178ac84bd9",
+    "nl": "mij",
+    "meanings": [
+      "me"
+    ],
+    "examples": [
+      "Geef het maar aan mij."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-0ddf7ecd20a4",
+    "nl": "laten",
+    "meanings": [
+      "to let / leave"
+    ],
+    "examples": [
+      "Laat de deur open."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-635182503015",
+    "nl": "al",
+    "meanings": [
+      "already"
+    ],
+    "examples": [
+      "Het is al laat."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-f554dce3209b",
+    "nl": "daar",
+    "meanings": [
+      "there"
+    ],
+    "examples": [
+      "Daar staat mijn auto."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-08e018769afa",
+    "nl": "denken",
+    "meanings": [
+      "to think"
+    ],
+    "examples": [
+      "Ik denk dat het gaat regenen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-4a6d2b61f990",
+    "nl": "toen",
+    "meanings": [
+      "then / when (past)"
+    ],
+    "examples": [
+      "Toen ik jong was, woonde ik daar."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-5f7d190b5ba0",
+    "nl": "geven",
+    "meanings": [
+      "to give"
+    ],
+    "examples": [
+      "Kun je mij het zout geven?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-32c2aaad55e4",
+    "nl": "hoe",
+    "meanings": [
+      "how"
+    ],
+    "examples": [
+      "Hoe laat begint de les?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-3086cf468ccc",
+    "nl": "nu",
+    "meanings": [
+      "now"
+    ],
+    "examples": [
+      "Nu moeten we beginnen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-5124fa29fbc9",
+    "nl": "vinden",
+    "meanings": [
+      "to find / think"
+    ],
+    "examples": [
+      "Ik vind dit een mooi schilderij."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-48b676e2b107",
+    "nl": "man",
+    "meanings": [
+      "man"
+    ],
+    "examples": [
+      "De man loopt over straat."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-363351ce7cdb",
+    "nl": "jaar",
+    "meanings": [
+      "year"
+    ],
+    "examples": [
+      "Dit jaar reis ik veel."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-529cbc8f2127",
+    "nl": "hier",
+    "meanings": [
+      "here"
+    ],
+    "examples": [
+      "Kom eens even hier."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-df93cf57edfa",
+    "nl": "wij",
+    "meanings": [
+      "we"
+    ],
+    "examples": [
+      "Wij wonen in een fijn dorp."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-4154992d38a3",
+    "nl": "houden",
+    "meanings": [
+      "to hold / to love / keep"
+    ],
+    "examples": [
+      "Ik hou veel van muziek."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-0c0d982f36f5",
+    "nl": "zitten",
+    "meanings": [
+      "to sit"
+    ],
+    "examples": [
+      "Zij zitten op de bank."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-1b001706a418",
+    "nl": "hand",
+    "meanings": [
+      "hand"
+    ],
+    "examples": [
+      "Was altijd eerst je hand."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-5cf7d7ec1cb5",
+    "nl": "lang",
+    "meanings": [
+      "long"
+    ],
+    "examples": [
+      "Het is een lange weg naar huis."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-faa726fef974",
+    "nl": "twee",
+    "meanings": [
+      "two"
+    ],
+    "examples": [
+      "Twee koppen koffie, graag."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-512d0f29088c",
+    "nl": "dag",
+    "meanings": [
+      "day"
+    ],
+    "examples": [
+      "Fijne dag verder!"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-bc4baee475c1",
+    "nl": "eerst",
+    "meanings": [
+      "first"
+    ],
+    "examples": [
+      "Eerst maken we het huiswerk af.",
+      "Eerst gaan we eten, daarna wandelen."
+    ],
+    "decks": [
+      "Core 1",
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-b191571256e3",
+    "nl": "alleen",
+    "meanings": [
+      "only / alone"
+    ],
+    "examples": [
+      "Hij was gisteren helemaal alleen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-c261d8deeacd",
+    "nl": "brengen",
+    "meanings": [
+      "to bring"
+    ],
+    "examples": [
+      "Breng je een paraplu mee?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-7d7a8b1f00f5",
+    "nl": "beginnen",
+    "meanings": [
+      "to begin / start"
+    ],
+    "examples": [
+      "De film gaat nu beginnen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ad14f4a25cef",
+    "nl": "zelf",
+    "meanings": [
+      "self"
+    ],
+    "examples": [
+      "Ik heb de taart zelf gebakken."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ead1812627e5",
+    "nl": "horen",
+    "meanings": [
+      "to hear"
+    ],
+    "examples": [
+      "Kun je de vogels horen fluiten?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ae0d79e4567d",
+    "nl": "nieuw",
+    "meanings": [
+      "new"
+    ],
+    "examples": [
+      "Zij kocht een nieuw huis."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-8192b0151fc2",
+    "nl": "laat",
+    "meanings": [
+      "late"
+    ],
+    "examples": [
+      "Het werd erg laat gisteravond."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-17a33b22d6bb",
+    "nl": "voelen",
+    "meanings": [
+      "to feel"
+    ],
+    "examples": [
+      "Ik voel me vandaag heel goed."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ebd5f87bf96e",
+    "nl": "plaats",
+    "meanings": [
+      "place"
+    ],
+    "examples": [
+      "Is deze plaats nog vrij?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-bb797e109926",
+    "nl": "leven",
+    "meanings": [
+      "life / to live"
+    ],
+    "examples": [
+      "Geniet van het leven."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-4a4fc4283e77",
+    "nl": "huis",
+    "meanings": [
+      "house"
+    ],
+    "examples": [
+      "Het huis heeft een grote tuin."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-e950378824fc",
+    "nl": "vallen",
+    "meanings": [
+      "to fall"
+    ],
+    "examples": [
+      "De bladeren vallen van de bomen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-c1ff7eebbc39",
+    "nl": "moeder",
+    "meanings": [
+      "mother"
+    ],
+    "examples": [
+      "Mijn moeder kookt vanavond."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-a39611a1d51a",
+    "nl": "spreken",
+    "meanings": [
+      "to speak"
+    ],
+    "examples": [
+      "Spreek je een beetje Nederlands?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-4ff5a9d3ef68",
+    "nl": "woord",
+    "meanings": [
+      "word"
+    ],
+    "examples": [
+      "Ik ken dit nieuwe woord nog niet."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-3702fc186663",
+    "nl": "ja",
+    "meanings": [
+      "yes"
+    ],
+    "examples": [
+      "Ja, dat klopt helemaal."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-0c2630a7a800",
+    "nl": "wanneer",
+    "meanings": [
+      "when"
+    ],
+    "examples": [
+      "Wanneer vertrekt de trein?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-6196fd3ecdea",
+    "nl": "vader",
+    "meanings": [
+      "father"
+    ],
+    "examples": [
+      "Mijn vader leest de krant."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ba31188f8190",
+    "nl": "werk",
+    "meanings": [
+      "work / job"
+    ],
+    "examples": [
+      "Ik ben druk bezig met mijn werk."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-2f60f61a3424",
+    "nl": "elk",
+    "meanings": [
+      "each / every"
+    ],
+    "examples": [
+      "Elk kind krijgt een appel.",
+      "Elke ochtend drink ik thee."
+    ],
+    "decks": [
+      "Core 1",
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-cf542ada135e",
+    "nl": "ver",
+    "meanings": [
+      "far"
+    ],
+    "examples": [
+      "Het station is niet ver weg.",
+      "Het museum is niet ver van hier."
+    ],
+    "decks": [
+      "Core 1",
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-1d9283d848ea",
+    "nl": "later",
+    "meanings": [
+      "later"
+    ],
+    "examples": [
+      "We praten er later over."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-906de0d8670c",
+    "nl": "vertellen",
+    "meanings": [
+      "to tell"
+    ],
+    "examples": [
+      "Hij kan mooie verhalen vertellen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-6778a411f8b4",
+    "nl": "jij",
+    "meanings": [
+      "you"
+    ],
+    "examples": [
+      "Jij bent een goede vriend."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-aa85fedd700c",
+    "nl": "drie",
+    "meanings": [
+      "three"
+    ],
+    "examples": [
+      "Er staan drie glazen op tafel."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-1dd5737114a8",
+    "nl": "oud",
+    "meanings": [
+      "old"
+    ],
+    "examples": [
+      "Dit is een heel oud gebouw."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-b21b613c4527",
+    "nl": "soms",
+    "meanings": [
+      "sometimes"
+    ],
+    "examples": [
+      "Soms ga ik met de fiets."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-fd1e348e9c21",
+    "nl": "wereld",
+    "meanings": [
+      "world"
+    ],
+    "examples": [
+      "De wereld is vol verrassingen."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-a043c4e4e93f",
+    "nl": "uur",
+    "meanings": [
+      "hour / o'clock"
+    ],
+    "examples": [
+      "We wachten al een uur."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-805363c9d5a0",
+    "nl": "naam",
+    "meanings": [
+      "name"
+    ],
+    "examples": [
+      "Mijn naam is Thomas."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-e6e4a7bc1684",
+    "nl": "soort",
+    "meanings": [
+      "kind / type"
+    ],
+    "examples": [
+      "Welk soort thee vind je lekker?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-904b35c887f0",
+    "nl": "werken",
+    "meanings": [
+      "to work"
+    ],
+    "examples": [
+      "Zij werken samen op kantoor."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-b9f6da279ec5",
+    "nl": "vol",
+    "meanings": [
+      "full"
+    ],
+    "examples": [
+      "Het restaurant zit helemaal vol."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-bc14e1b6641a",
+    "nl": "welk",
+    "meanings": [
+      "which"
+    ],
+    "examples": [
+      "Welk boek wil je lezen?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-2afcca9e14ea",
+    "nl": "boek",
+    "meanings": [
+      "book"
+    ],
+    "examples": [
+      "Dit boek is erg spannend."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-2d1f78b0171e",
+    "nl": "deur",
+    "meanings": [
+      "door"
+    ],
+    "examples": [
+      "Doe alsjeblieft de deur dicht."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-ca46a3f7dabf",
+    "nl": "ding",
+    "meanings": [
+      "thing"
+    ],
+    "examples": [
+      "Wat is dat vreemde ding?"
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-18fc166232dc",
+    "nl": "nee",
+    "meanings": [
+      "no"
+    ],
+    "examples": [
+      "Nee, ik weet het antwoord niet."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-0f4168490e38",
+    "nl": "water",
+    "meanings": [
+      "water"
+    ],
+    "examples": [
+      "Drink voldoende water per dag."
+    ],
+    "decks": [
+      "Core 1"
+    ]
+  },
+  {
+    "id": "word-d81c2c020920",
+    "nl": "het feit",
+    "meanings": [
+      "fact"
+    ],
+    "examples": [
+      "Het is een bekend feit.",
+      "Dat is een bekend feit."
+    ],
+    "decks": [
+      "Core 1",
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-ea0a3561ce57",
+    "nl": "wachten",
+    "meanings": [
+      "to wait"
+    ],
+    "examples": [
+      "We wachten op de bus."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-71651d41f45c",
+    "nl": "leren",
+    "meanings": [
+      "to learn / teach"
+    ],
+    "examples": [
+      "Ik wil gitaar spelen leren."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-2348f9987442",
+    "nl": "open",
+    "meanings": [
+      "open"
+    ],
+    "examples": [
+      "Het raam staat nog open."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-0f9db1de3770",
+    "nl": "probleem",
+    "meanings": [
+      "problem"
+    ],
+    "examples": [
+      "Dat is geen enkel probleem."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-807952d5ea12",
+    "nl": "groep",
+    "meanings": [
+      "group"
+    ],
+    "examples": [
+      "De groep bestaat uit tien personen."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-520be1a970ab",
+    "nl": "jong",
+    "meanings": [
+      "young"
+    ],
+    "examples": [
+      "Zij zijn nog erg jong."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-939df4a72606",
+    "nl": "wit",
+    "meanings": [
+      "white"
+    ],
+    "examples": [
+      "De sneeuw is kraakhelder wit."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-120722f71294",
+    "nl": "zodat",
+    "meanings": [
+      "so that"
+    ],
+    "examples": [
+      "Spreek duidelijk, zodat iedereen je hoort."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-cfbdb40cb7e4",
+    "nl": "lachen",
+    "meanings": [
+      "to laugh"
+    ],
+    "examples": [
+      "We moesten hard om zijn grap lachen."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-c5052532c220",
+    "nl": "bed",
+    "meanings": [
+      "bed"
+    ],
+    "examples": [
+      "Ik ga vanavond vroeg naar bed."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-f08ab1b866b3",
+    "nl": "verder",
+    "meanings": [
+      "further"
+    ],
+    "examples": [
+      "We lopen nog een stukje verder."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-72110207b649",
+    "nl": "moment",
+    "meanings": [
+      "moment"
+    ],
+    "examples": [
+      "Wacht even een klein moment."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-2448e3fd93b2",
+    "nl": "staat",
+    "meanings": [
+      "state / condition"
+    ],
+    "examples": [
+      "Het huis is in goede staat."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-45a9d89d4697",
+    "nl": "vriend",
+    "meanings": [
+      "friend"
+    ],
+    "examples": [
+      "Hij is mijn beste vriend."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-6df37daaa46c",
+    "nl": "week",
+    "meanings": [
+      "week"
+    ],
+    "examples": [
+      "Volgende week gaan we op vakantie."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-ff96bd8f8884",
+    "nl": "laatste",
+    "meanings": [
+      "last"
+    ],
+    "examples": [
+      "Dit is het laatste koekje."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-4cfb29fced49",
+    "nl": "helpen",
+    "meanings": [
+      "to help"
+    ],
+    "examples": [
+      "Kun je me even helpen dragen?"
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-51e51941a252",
+    "nl": "licht",
+    "meanings": [
+      "light"
+    ],
+    "examples": [
+      "Doe het licht aan in de gang."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-c980168d0b3c",
+    "nl": "diep",
+    "meanings": [
+      "deep"
+    ],
+    "examples": [
+      "Het water in het meer is diep."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-efef2d6570fe",
+    "nl": "nacht",
+    "meanings": [
+      "night"
+    ],
+    "examples": [
+      "In de nacht is het erg rustig."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-1217ad5ffde7",
+    "nl": "langs",
+    "meanings": [
+      "along / past"
+    ],
+    "examples": [
+      "We fietsten langs de rivier."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-f634c721db95",
+    "nl": "beide",
+    "meanings": [
+      "both"
+    ],
+    "examples": [
+      "Beide opties zijn heel aantrekkelijk."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-3885921bd547",
+    "nl": "jullie",
+    "meanings": [
+      "you (plural)"
+    ],
+    "examples": [
+      "Komen jullie vanavond ook eten?"
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-88c0a2817d54",
+    "nl": "vrij",
+    "meanings": [
+      "free"
+    ],
+    "examples": [
+      "Morgen ben ik de hele dag vrij."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-0948b6b20783",
+    "nl": "gevoel",
+    "meanings": [
+      "feeling"
+    ],
+    "examples": [
+      "Ik heb een goed gevoel over de toets."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-a11ae06469c6",
+    "nl": "half",
+    "meanings": [
+      "half"
+    ],
+    "examples": [
+      "Het is nu half drie."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-0b157b10ae22",
+    "nl": "tafel",
+    "meanings": [
+      "table"
+    ],
+    "examples": [
+      "Zet de borden maar op tafel."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-d64debd942d7",
+    "nl": "school",
+    "meanings": [
+      "school"
+    ],
+    "examples": [
+      "De kinderen lopen samen naar school."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-6b8baccb2f21",
+    "nl": "vier",
+    "meanings": [
+      "four"
+    ],
+    "examples": [
+      "De tafel heeft vier stevige poten."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-282ce974fe1f",
+    "nl": "dood",
+    "meanings": [
+      "death / dead"
+    ],
+    "examples": [
+      "Stilte heerste na zijn dood."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-0b6ab6c7417f",
+    "nl": "sociaal",
+    "meanings": [
+      "social"
+    ],
+    "examples": [
+      "Zij is erg sociaal en maakt snel vrienden."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-ed5465b9220d",
+    "nl": "hard",
+    "meanings": [
+      "hard / loud"
+    ],
+    "examples": [
+      "Hij werkt ontzettend hard."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-200fccfa0f81",
+    "nl": "wijn",
+    "meanings": [
+      "wine"
+    ],
+    "examples": [
+      "Schenk een glas rode wijn in."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-f3b686afed66",
+    "nl": "maand",
+    "meanings": [
+      "month"
+    ],
+    "examples": [
+      "Volgende maand begint de herfst."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-bf5502eb3316",
+    "nl": "de mond",
+    "meanings": [
+      "mouth"
+    ],
+    "examples": [
+      "Houd je mond even dicht.",
+      "Doe je mond open bij de tandarts."
+    ],
+    "decks": [
+      "Core 2",
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-011453020c70",
+    "nl": "reden",
+    "meanings": [
+      "reason"
+    ],
+    "examples": [
+      "Wat is de reden van je vertraging?"
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-6e779ebbe5d4",
+    "nl": "voet",
+    "meanings": [
+      "foot"
+    ],
+    "examples": [
+      "Ik heb pijn aan mijn linkervoet."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-8fab97699942",
+    "nl": "idee",
+    "meanings": [
+      "idea"
+    ],
+    "examples": [
+      "Dat vind ik een uitstekend idee."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-7807c93cedb3",
+    "nl": "rol",
+    "meanings": [
+      "role"
+    ],
+    "examples": [
+      "Zij speelt een belangrijke rol in het stuk."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-4ae124a8994d",
+    "nl": "jou",
+    "meanings": [
+      "you"
+    ],
+    "examples": [
+      "Ik zag jou gisteren in het park."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-c0456346d34d",
+    "nl": "antwoord",
+    "meanings": [
+      "answer"
+    ],
+    "examples": [
+      "Geef snel een duidelijk antwoord."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-942e1a480a1e",
+    "nl": "slapen",
+    "meanings": [
+      "to sleep"
+    ],
+    "examples": [
+      "De baby ligt heerlijk te slapen."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-64879f7d6b96",
+    "nl": "plan",
+    "meanings": [
+      "plan"
+    ],
+    "examples": [
+      "We hebben een slim plan bedacht."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-92d3ca43060e",
+    "nl": "meestal",
+    "meanings": [
+      "mostly / usually"
+    ],
+    "examples": [
+      "Meestal ga ik met de fiets naar het werk."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-1f54e4326f73",
+    "nl": "straat",
+    "meanings": [
+      "street"
+    ],
+    "examples": [
+      "Er rijden weinig auto's in onze straat."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-ab4382700034",
+    "nl": "persoon",
+    "meanings": [
+      "person"
+    ],
+    "examples": [
+      "Ieder persoon heeft eigen talenten."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-d8d94723ad19",
+    "nl": "schouder",
+    "meanings": [
+      "shoulder"
+    ],
+    "examples": [
+      "Hij legde een hand op mijn schouder."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-3bddf548b915",
+    "nl": "luisteren",
+    "meanings": [
+      "to listen"
+    ],
+    "examples": [
+      "Luister goed naar de leraar."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-3e2c109d465c",
+    "nl": "invloed",
+    "meanings": [
+      "influence"
+    ],
+    "examples": [
+      "Muziek heeft een grote invloed op onze stemming."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-dd6b079f455b",
+    "nl": "hart",
+    "meanings": [
+      "heart"
+    ],
+    "examples": [
+      "Mijn hart klopt rustig."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-117d4c8873bf",
+    "nl": "zoon",
+    "meanings": [
+      "son"
+    ],
+    "examples": [
+      "Hun zoon studeert geneeskunde."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-56b65615507e",
+    "nl": "bezig",
+    "meanings": [
+      "busy"
+    ],
+    "examples": [
+      "Ik ben momenteel erg bezig."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-ddf7ff5ebd9d",
+    "nl": "arm",
+    "meanings": [
+      "arm / poor"
+    ],
+    "examples": [
+      "Hij brak zijn rechterarm."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-4edd7747c2b1",
+    "nl": "tien",
+    "meanings": [
+      "ten"
+    ],
+    "examples": [
+      "Er zitten tien eieren in de doos."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-cb6e53541e37",
+    "nl": "los",
+    "meanings": [
+      "loose"
+    ],
+    "examples": [
+      "De veter van mijn schoen zit los."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-f982d5222f55",
+    "nl": "vijf",
+    "meanings": [
+      "five"
+    ],
+    "examples": [
+      "We vertrekken om vijf uur."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-07decdfb7786",
+    "nl": "minuut",
+    "meanings": [
+      "minute"
+    ],
+    "examples": [
+      "Wacht nog twee minuten op mij."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-3ce41250a068",
+    "nl": "liefde",
+    "meanings": [
+      "love"
+    ],
+    "examples": [
+      "Liefde overwint alles."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-84b5870c6d1f",
+    "nl": "sommige",
+    "meanings": [
+      "some"
+    ],
+    "examples": [
+      "Sommige mensen houden niet van regen."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-d15690f08a57",
+    "nl": "direct",
+    "meanings": [
+      "directly / immediate"
+    ],
+    "examples": [
+      "We moeten direct een besluit nemen."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-e1fafdbb2af3",
+    "nl": "relatie",
+    "meanings": [
+      "relationship"
+    ],
+    "examples": [
+      "Zij hebben al jaren een goede relatie."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-9c5f36501ae9",
+    "nl": "systeem",
+    "meanings": [
+      "system"
+    ],
+    "examples": [
+      "Het computersysteem werkt perfect."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-6a47054c782f",
+    "nl": "proces",
+    "meanings": [
+      "process"
+    ],
+    "examples": [
+      "Het herstel is een langzaam proces."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-b0ae362097df",
+    "nl": "menen",
+    "meanings": [
+      "to mean / suppose",
+      "to mean"
+    ],
+    "examples": [
+      "Meen je dat nou serieus?",
+      "Ik meen serieus wat ik zojuist zei."
+    ],
+    "decks": [
+      "Core 2",
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-3c33fa2d7138",
+    "nl": "derde",
+    "meanings": [
+      "third"
+    ],
+    "examples": [
+      "Hij eindigde op de derde plaats."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-051eddfc024b",
+    "nl": "drinken",
+    "meanings": [
+      "to drink"
+    ],
+    "examples": [
+      "Wil je een kop warme thee drinken?"
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-093e7d5fdbaa",
+    "nl": "contact",
+    "meanings": [
+      "contact"
+    ],
+    "examples": [
+      "Neem gerust contact met ons op."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-b3587bd654b5",
+    "nl": "functie",
+    "meanings": [
+      "function / role"
+    ],
+    "examples": [
+      "Wat is jouw functie binnen dit bedrijf?"
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-0f0aa408c183",
+    "nl": "warm",
+    "meanings": [
+      "warm / hot"
+    ],
+    "examples": [
+      "In de zomer is het water heerlijk warm."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-41e67e66b04f",
+    "nl": "vinger",
+    "meanings": [
+      "finger"
+    ],
+    "examples": [
+      "Hij wees met zijn vinger naar het bord."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-5b1107a333a0",
+    "nl": "kleur",
+    "meanings": [
+      "color"
+    ],
+    "examples": [
+      "Blauw is mijn lievelingskleur."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-ebf8931077ae",
+    "nl": "pijn",
+    "meanings": [
+      "pain"
+    ],
+    "examples": [
+      "Heb je nog veel pijn na de val?"
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-e648d7f3141a",
+    "nl": "glas",
+    "meanings": [
+      "glass"
+    ],
+    "examples": [
+      "Mag ik een glas koud water?"
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-c11c32448010",
+    "nl": "artikel",
+    "meanings": [
+      "article"
+    ],
+    "examples": [
+      "Ik las een boeiend artikel in de krant."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-d86e5e937a1c",
+    "nl": "eind",
+    "meanings": [
+      "end"
+    ],
+    "examples": [
+      "Aan het eind van de straat slaan we linksaf."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-1517cfba0805",
+    "nl": "persoonlijk",
+    "meanings": [
+      "personally / personal"
+    ],
+    "examples": [
+      "Dat is mijn persoonlijke mening."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-49976dba11d3",
+    "nl": "rood",
+    "meanings": [
+      "red"
+    ],
+    "examples": [
+      "De appel is mooi rood en rijp."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-61c9446767bf",
+    "nl": "dokter",
+    "meanings": [
+      "doctor"
+    ],
+    "examples": [
+      "De dokter heeft medicijnen voorgeschreven."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-37da93e5b4f2",
+    "nl": "zee",
+    "meanings": [
+      "sea"
+    ],
+    "examples": [
+      "We brachten de hele dag door aan zee."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-2bdbbba64bef",
+    "nl": "groeien",
+    "meanings": [
+      "to grow"
+    ],
+    "examples": [
+      "De planten groeien snel in het voorjaar."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-b54e624d6f41",
+    "nl": "koud",
+    "meanings": [
+      "cold"
+    ],
+    "examples": [
+      "In de winter kan het buiten erg koud zijn."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-f7383a739660",
+    "nl": "leiden",
+    "meanings": [
+      "to lead"
+    ],
+    "examples": [
+      "Zij zal het nieuwe project leiden."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-bc5efe441ea2",
+    "nl": "familie",
+    "meanings": [
+      "family"
+    ],
+    "examples": [
+      "Mijn familie komt gezellig op bezoek."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-eb277ad586c2",
+    "nl": "periode",
+    "meanings": [
+      "period"
+    ],
+    "examples": [
+      "Tijdens deze periode werk ik thuis."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-6659c9b5c276",
+    "nl": "sinds",
+    "meanings": [
+      "since"
+    ],
+    "examples": [
+      "Ik woon hier al sinds vorig jaar."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-0f1ea4a08bfb",
+    "nl": "resultaat",
+    "meanings": [
+      "result"
+    ],
+    "examples": [
+      "Het resultaat van het onderzoek was positief."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-143605f260c0",
+    "nl": "normaal",
+    "meanings": [
+      "normal"
+    ],
+    "examples": [
+      "Dat is een heel normale reactie."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-65711adccfd1",
+    "nl": "rond",
+    "meanings": [
+      "round / around"
+    ],
+    "examples": [
+      "De aarde is rond."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-f5c7cfad085f",
+    "nl": "organisatie",
+    "meanings": [
+      "organization"
+    ],
+    "examples": [
+      "Zij werkt voor een internationale organisatie."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-70fb017b2123",
+    "nl": "speciaal",
+    "meanings": [
+      "special"
+    ],
+    "examples": [
+      "Vandaag is een speciale gelegenheid."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-e2d6d373957e",
+    "nl": "patiënt",
+    "meanings": [
+      "patient"
+    ],
+    "examples": [
+      "De arts onderzoekt de patiënt zorgvuldig."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-dc70dc7306b1",
+    "nl": "broer",
+    "meanings": [
+      "brother"
+    ],
+    "examples": [
+      "Mijn broer woont in Amsterdam."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-6b61a70740f5",
+    "nl": "leveren",
+    "meanings": [
+      "to deliver / provide"
+    ],
+    "examples": [
+      "De winkel zal het pakket morgen leveren."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-870545a68247",
+    "nl": "hopen",
+    "meanings": [
+      "to hope"
+    ],
+    "examples": [
+      "We hopen dat het zonnig blijft."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-62fc079408ef",
+    "nl": "totaal",
+    "meanings": [
+      "total"
+    ],
+    "examples": [
+      "Het totaalbedrag staat onderaan de bon."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-068e8cbe8ed1",
+    "nl": "zes",
+    "meanings": [
+      "six"
+    ],
+    "examples": [
+      "Er zitten zes stoelen om de eettafel."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-59b79e5deed0",
+    "nl": "blauw",
+    "meanings": [
+      "blue"
+    ],
+    "examples": [
+      "De lucht is vandaag prachtig blauw."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-d25b9d212a8f",
+    "nl": "stap",
+    "meanings": [
+      "step"
+    ],
+    "examples": [
+      "Elke stap brengt je dichter bij je doel."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-541d42a7b5da",
+    "nl": "karakter",
+    "meanings": [
+      "character"
+    ],
+    "examples": [
+      "Hij heeft een vriendelijk en open karakter."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-80d899ab2c27",
+    "nl": "theorie",
+    "meanings": [
+      "theory"
+    ],
+    "examples": [
+      "In theorie klinkt het plan heel eenvoudig."
+    ],
+    "decks": [
+      "Core 2"
+    ]
+  },
+  {
+    "id": "word-3c1a6c91cec9",
+    "nl": "bloed",
+    "meanings": [
+      "blood"
+    ],
+    "examples": [
+      "Het bloed stroomt door ons lichaam."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-93b761aa470d",
+    "nl": "beter",
+    "meanings": [
+      "better"
+    ],
+    "examples": [
+      "Ik voel me vandaag al een stuk beter."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a795fc6be3ad",
+    "nl": "dochter",
+    "meanings": [
+      "daughter"
+    ],
+    "examples": [
+      "Hun dochter zit op de basisschool."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-925cf4c82856",
+    "nl": "stappen",
+    "meanings": [
+      "to step / walk"
+    ],
+    "examples": [
+      "We stappen rustig de trap op."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-5b3dfa0b2743",
+    "nl": "droom",
+    "meanings": [
+      "dream"
+    ],
+    "examples": [
+      "Het was slechts een mooie droom."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-5eff322a1bd4",
+    "nl": "meter",
+    "meanings": [
+      "meter"
+    ],
+    "examples": [
+      "Het zwembad is vijfentwintig meter lang."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-9d851f28834f",
+    "nl": "steen",
+    "meanings": [
+      "stone / brick"
+    ],
+    "examples": [
+      "Hij gooide een kleine steen in het water."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-aff56b782db0",
+    "nl": "hulp",
+    "meanings": [
+      "help"
+    ],
+    "examples": [
+      "Bedankt voor al je vriendelijke hulp."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-2e09d5210db8",
+    "nl": "rest",
+    "meanings": [
+      "rest / remainder"
+    ],
+    "examples": [
+      "De rest van de taart eten we morgen op."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-408be6de6031",
+    "nl": "muziek",
+    "meanings": [
+      "music"
+    ],
+    "examples": [
+      "Klassieke muziek geeft me rust."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-eba7f88a4033",
+    "nl": "maaltijd",
+    "meanings": [
+      "meal"
+    ],
+    "examples": [
+      "We aten een heerlijke warme maaltijd."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-4f075ac5d5ac",
+    "nl": "openen",
+    "meanings": [
+      "to open"
+    ],
+    "examples": [
+      "De deuren openen precies om acht uur."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-4381dc2ab142",
+    "nl": "bank",
+    "meanings": [
+      "bank / couch"
+    ],
+    "examples": [
+      "We rustten lekker uit op de comfortabele bank."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-668075572bd2",
+    "nl": "papier",
+    "meanings": [
+      "paper"
+    ],
+    "examples": [
+      "Schrijf je notities op dit vel papier."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-dc8d9b347503",
+    "nl": "de hoop",
+    "meanings": [
+      "hope / heap",
+      "pile / hope"
+    ],
+    "examples": [
+      "Er is altijd hoop op verbetering.",
+      "Er ligt een grote hoop herfstbladeren in de tuin."
+    ],
+    "decks": [
+      "Core 3",
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-830b6857946c",
+    "nl": "minister",
+    "meanings": [
+      "minister"
+    ],
+    "examples": [
+      "De minister hield een toespraak over het onderwijs."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-9b58e68145a7",
+    "nl": "wind",
+    "meanings": [
+      "wind"
+    ],
+    "examples": [
+      "De harde wind woei door de bomen."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a27dce4a06aa",
+    "nl": "koffie",
+    "meanings": [
+      "coffee"
+    ],
+    "examples": [
+      "Ik drink elke ochtend een kop verse koffie."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-fa9d0038f28c",
+    "nl": "stoppen",
+    "meanings": [
+      "to stop"
+    ],
+    "examples": [
+      "De bus zal bij de volgende halte stoppen."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-e24fa0116f5f",
+    "nl": "oor",
+    "meanings": [
+      "ear"
+    ],
+    "examples": [
+      "Hij fluisterde iets zachtjes in haar oor."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-df6217590a91",
+    "nl": "informatie",
+    "meanings": [
+      "information"
+    ],
+    "examples": [
+      "Hier vind je alle benodigde informatie."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-be53dd449ff3",
+    "nl": "methode",
+    "meanings": [
+      "method"
+    ],
+    "examples": [
+      "Deze nieuwe methode werkt zeer efficiënt."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-8ac1ef5381ca",
+    "nl": "lip",
+    "meanings": [
+      "lip"
+    ],
+    "examples": [
+      "Ze bracht wat balsem aan op haar lip."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-b7f2537e1dfe",
+    "nl": "positie",
+    "meanings": [
+      "position"
+    ],
+    "examples": [
+      "Zij heeft een sterke positie in het team."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-2146a029ad5e",
+    "nl": "alle",
+    "meanings": [
+      "all"
+    ],
+    "examples": [
+      "Alle studenten hebben het examen gehaald."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-7d60812202f2",
+    "nl": "enorm",
+    "meanings": [
+      "enormous / huge"
+    ],
+    "examples": [
+      "Het nieuwe stadion is enorm groot."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-6187eb884a22",
+    "nl": "foto",
+    "meanings": [
+      "photo"
+    ],
+    "examples": [
+      "Zij maakte een prachtige foto van het landschap."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-d0607f7ad262",
+    "nl": "film",
+    "meanings": [
+      "movie / film"
+    ],
+    "examples": [
+      "We hebben gisteren een boeiende film gekeken."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-47069dadee3f",
+    "nl": "activiteit",
+    "meanings": [
+      "activity"
+    ],
+    "examples": [
+      "Wandelen is een gezonde dagelijkse activiteit."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-774cdf08f6a8",
+    "nl": "modern",
+    "meanings": [
+      "modern"
+    ],
+    "examples": [
+      "Het museum heeft een moderne inrichting."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-53573e04450d",
+    "nl": "geluk",
+    "meanings": [
+      "luck / happiness"
+    ],
+    "examples": [
+      "Ik wens je veel geluk en succes toe."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a7a3c8f65476",
+    "nl": "basis",
+    "meanings": [
+      "base / foundation"
+    ],
+    "examples": [
+      "Vertrouwen vormt de basis van elke relatie."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-c1334c3e8467",
+    "nl": "zuster",
+    "meanings": [
+      "sister / nurse"
+    ],
+    "examples": [
+      "Mijn zuster werkt als verpleegkundige."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-df2eb91f4546",
+    "nl": "wakker",
+    "meanings": [
+      "awake"
+    ],
+    "examples": [
+      "Ik werd vanmorgen heel vroeg wakker."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-eb4e5ad707b9",
+    "nl": "tante",
+    "meanings": [
+      "aunt"
+    ],
+    "examples": [
+      "Mijn tante stuurde een mooie verjaardagskaart."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-f67af0c35efc",
+    "nl": "vuur",
+    "meanings": [
+      "fire"
+    ],
+    "examples": [
+      "Het vuur in de open haard brandt gezellig."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-e0b77347f40e",
+    "nl": "prijs",
+    "meanings": [
+      "price / prize"
+    ],
+    "examples": [
+      "De prijs van de benzine is gedaald."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-1862b5064ca0",
+    "nl": "reactie",
+    "meanings": [
+      "reaction / response"
+    ],
+    "examples": [
+      "Ik wacht nog op een officiële reactie."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-cf4966d21fbb",
+    "nl": "praktijk",
+    "meanings": [
+      "practice"
+    ],
+    "examples": [
+      "In de praktijk blijkt het heel eenvoudig te zijn."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-73f7c3a05c38",
+    "nl": "neus",
+    "meanings": [
+      "nose"
+    ],
+    "examples": [
+      "Hij veegde zijn neus af met een zakdoek."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-ff3aef9b18e9",
+    "nl": "terrein",
+    "meanings": [
+      "terrain / grounds"
+    ],
+    "examples": [
+      "Het sportcentrum heeft een uitgestrekt terrein."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-c6f3d26ac607",
+    "nl": "koning",
+    "meanings": [
+      "king"
+    ],
+    "examples": [
+      "De koning bezocht de historische stad."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-056b693309a9",
+    "nl": "zingen",
+    "meanings": [
+      "to sing"
+    ],
+    "examples": [
+      "De kinderen zingen een vrolijk lied."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-31f2e3b43f6f",
+    "nl": "vliegen",
+    "meanings": [
+      "to fly"
+    ],
+    "examples": [
+      "De vogels vliegen hoog in de lucht."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-e2720246035c",
+    "nl": "cultuur",
+    "meanings": [
+      "culture"
+    ],
+    "examples": [
+      "We willen graag meer over de lokale cultuur leren."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a97080b9752e",
+    "nl": "missen",
+    "meanings": [
+      "to miss"
+    ],
+    "examples": [
+      "Ik zal je erg missen tijdens de reis."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-7b5f95bb4c16",
+    "nl": "politie",
+    "meanings": [
+      "police / law enforcement"
+    ],
+    "examples": [
+      "De politie helpt het verkeer te regelen."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-84ee0e87010e",
+    "nl": "wensen",
+    "meanings": [
+      "to wish"
+    ],
+    "examples": [
+      "Wat zou je voor je verjaardag willen wensen?"
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-41a093100bbb",
+    "nl": "factor",
+    "meanings": [
+      "factor"
+    ],
+    "examples": [
+      "Tijd is een belangrijke factor bij dit project."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-e6f07d43b5c2",
+    "nl": "begin",
+    "meanings": [
+      "beginning / start"
+    ],
+    "examples": [
+      "Aan het begin van het jaar stellen we doelen op."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-8e7cb4979788",
+    "nl": "succes",
+    "meanings": [
+      "success / good luck"
+    ],
+    "examples": [
+      "Veel succes met je presentatie vandaag!"
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-b184048d4893",
+    "nl": "kosten",
+    "meanings": [
+      "costs / to cost"
+    ],
+    "examples": [
+      "Hoeveel zal deze reparatie ongeveer kosten?"
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-1c49eeaa1669",
+    "nl": "natuur",
+    "meanings": [
+      "nature"
+    ],
+    "examples": [
+      "We maken graag lange wandelingen in de natuur."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-8d53a3e36729",
+    "nl": "hotel",
+    "meanings": [
+      "hotel"
+    ],
+    "examples": [
+      "We verblijven drie nachten in een rustig hotel."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-71fbda636ddb",
+    "nl": "studie",
+    "meanings": [
+      "study"
+    ],
+    "examples": [
+      "Zij rondt haar studie dit jaar succesvol af."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a69beca35ccc",
+    "nl": "vriendelijk",
+    "meanings": [
+      "friendly / kind"
+    ],
+    "examples": [
+      "De ober was buitengewoon vriendelijk."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-bd8bf4f1e8c6",
+    "nl": "aspect",
+    "meanings": [
+      "aspect"
+    ],
+    "examples": [
+      "We bekijken elk aspect van het probleem."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-c27517b466cd",
+    "nl": "figuur",
+    "meanings": [
+      "figure / shape"
+    ],
+    "examples": [
+      "Die meetkundige figuur heeft vier gelijke hoeken."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-5d7e7b47714d",
+    "nl": "ontbreken",
+    "meanings": [
+      "to lack / to be missing"
+    ],
+    "examples": [
+      "Er ontbreken nog twee belangrijke documenten."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-744d1050372a",
+    "nl": "nationaal",
+    "meanings": [
+      "national"
+    ],
+    "examples": [
+      "Het nationale elftal speelt vanavond een wedstrijd."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-010a0d4c182d",
+    "nl": "ziek",
+    "meanings": [
+      "sick / ill"
+    ],
+    "examples": [
+      "Hij bleef thuis omdat hij ziek was."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-599f7703547e",
+    "nl": "term",
+    "meanings": [
+      "term"
+    ],
+    "examples": [
+      "Dit is een medische term voor die aandoening."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-7c64c18dbe11",
+    "nl": "geef",
+    "meanings": [
+      "give"
+    ],
+    "examples": [
+      "Geef mij de sleutel alsjeblieft even."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-fa07f8253f5e",
+    "nl": "rennen",
+    "meanings": [
+      "to run"
+    ],
+    "examples": [
+      "De kinderen rennen vrolijk door het gras."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a1525b92e7f7",
+    "nl": "engels",
+    "meanings": [
+      "English"
+    ],
+    "examples": [
+      "Veel mensen spreken vloeiend Engels."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-dcb576426a17",
+    "nl": "effect",
+    "meanings": [
+      "effect / impact"
+    ],
+    "examples": [
+      "Het medicijn had direct een gunstig effect."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-96044d9734b6",
+    "nl": "plant",
+    "meanings": [
+      "plant"
+    ],
+    "examples": [
+      "Vergeet niet de plant water te geven."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a8792157cb4f",
+    "nl": "product",
+    "meanings": [
+      "product"
+    ],
+    "examples": [
+      "Dit biologische product is van hoge kwaliteit."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-77a8bfd3bc41",
+    "nl": "slaap",
+    "meanings": [
+      "sleep"
+    ],
+    "examples": [
+      "Voldoende slaap is essentieel voor je gezondheid."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-324d0315d575",
+    "nl": "tekst",
+    "meanings": [
+      "text"
+    ],
+    "examples": [
+      "Lees de tekst goed door voor het antwoord."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-d0407be44449",
+    "nl": "knie",
+    "meanings": [
+      "knee"
+    ],
+    "examples": [
+      "Hij viel tijdens het hardlopen op zijn knie."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-ff4c1cd96878",
+    "nl": "geboren",
+    "meanings": [
+      "born"
+    ],
+    "examples": [
+      "Zij is in het voorjaar geboren."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-2cd370d927d0",
+    "nl": "telefoon",
+    "meanings": [
+      "phone"
+    ],
+    "examples": [
+      "Mijn telefoon ging plotseling over."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-318d579d4bb6",
+    "nl": "individueel",
+    "meanings": [
+      "individual / individually"
+    ],
+    "examples": [
+      "Iedere student krijgt individuele begeleiding."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-f3b810b4951d",
+    "nl": "structuur",
+    "meanings": [
+      "structure"
+    ],
+    "examples": [
+      "Het verslag heeft een heldere structuur."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-3f0cf37dc280",
+    "nl": "helft",
+    "meanings": [
+      "half"
+    ],
+    "examples": [
+      "De helft van de klas was op tijd aanwezig."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-c7259ac5bf3b",
+    "nl": "trein",
+    "meanings": [
+      "train"
+    ],
+    "examples": [
+      "De snelle trein rijdt stipt op tijd."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-644039d078a7",
+    "nl": "praktisch",
+    "meanings": [
+      "practical"
+    ],
+    "examples": [
+      "Dit meubel is zowel mooi als praktisch."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-917f7c9ac237",
+    "nl": "zomer",
+    "meanings": [
+      "summer"
+    ],
+    "examples": [
+      "In de zomer schijnt de zon vaak fel."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-2471850a1a4d",
+    "nl": "winnen",
+    "meanings": [
+      "to win"
+    ],
+    "examples": [
+      "Zij hopen de hoofdprijs te winnen."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-658cc82e916c",
+    "nl": "conclusie",
+    "meanings": [
+      "conclusion"
+    ],
+    "examples": [
+      "Wat is de uiteindelijke conclusie van het rapport?"
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a3ca38ef0e85",
+    "nl": "baby",
+    "meanings": [
+      "baby"
+    ],
+    "examples": [
+      "De pasgeboren baby slaapt rustig in de wieg."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-92ea94cd0647",
+    "nl": "internationaal",
+    "meanings": [
+      "international"
+    ],
+    "examples": [
+      "Zij bezochten een grote internationale conferentie."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-6c97d8d14ed6",
+    "nl": "eiland",
+    "meanings": [
+      "island"
+    ],
+    "examples": [
+      "Het kleine eiland ligt midden in de oceaan."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-b01cacf5e488",
+    "nl": "meester",
+    "meanings": [
+      "master / male teacher"
+    ],
+    "examples": [
+      "De meester legde de som rustig uit."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-0fd1419fa1d8",
+    "nl": "kwaliteit",
+    "meanings": [
+      "quality"
+    ],
+    "examples": [
+      "Deze schoenen zijn gemaakt van uitstekende kwaliteit."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-829ba8b91adf",
+    "nl": "vullen",
+    "meanings": [
+      "to fill"
+    ],
+    "examples": [
+      "Vul de waterfles helemaal tot de rand."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-f128d1720ed5",
+    "nl": "individu",
+    "meanings": [
+      "individual"
+    ],
+    "examples": [
+      "Elk individu heeft recht op zijn eigen mening."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-b88f5bac6a49",
+    "nl": "vervullen",
+    "meanings": [
+      "to fulfill"
+    ],
+    "examples": [
+      "Hij hoopt al zijn wensen te vervullen."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-e68dc2a41f86",
+    "nl": "plaatsen",
+    "meanings": [
+      "to place / to post"
+    ],
+    "examples": [
+      "Zij plaatsen een advertentie in de plaatselijke krant."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-1e06b8a99eaa",
+    "nl": "bespreken",
+    "meanings": [
+      "to discuss"
+    ],
+    "examples": [
+      "We zullen de plannen morgenochtend bespreken."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-7bd8c49a0a31",
+    "nl": "discussie",
+    "meanings": [
+      "discussion"
+    ],
+    "examples": [
+      "De discussie leidde tot nieuwe inzichten."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-cd441f654a8f",
+    "nl": "sigaret",
+    "meanings": [
+      "cigarette"
+    ],
+    "examples": [
+      "Roken van een sigaret is schadelijk voor de gezondheid."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-ddbbfd66eec4",
+    "nl": "vis",
+    "meanings": [
+      "fish"
+    ],
+    "examples": [
+      "Er zwemt een kleurrijke vis in de vijver."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-a26cc410ade7",
+    "nl": "absoluut",
+    "meanings": [
+      "absolutely / absolute"
+    ],
+    "examples": [
+      "Dat is absoluut de juiste beslissing."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-386e5ba3a799",
+    "nl": "historisch",
+    "meanings": [
+      "historical"
+    ],
+    "examples": [
+      "We wandelden door het historische centrum van de stad."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-37406b52ac5b",
+    "nl": "nummer",
+    "meanings": [
+      "number / song"
+    ],
+    "examples": [
+      "Wat is jouw favoriete nummer op dit album?"
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-fef4cb2b3b61",
+    "nl": "schaduw",
+    "meanings": [
+      "shadow / shade"
+    ],
+    "examples": [
+      "We zochten verkoeling in de schaduw van de boom."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-631f6acb4d3a",
+    "nl": "leiding",
+    "meanings": [
+      "leadership / management"
+    ],
+    "examples": [
+      "Onder haar leiding groeide het team snel."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-5455fc3fb94c",
+    "nl": "kat",
+    "meanings": [
+      "cat"
+    ],
+    "examples": [
+      "De zwarte kat ligt te slapen op de vensterbank."
+    ],
+    "decks": [
+      "Core 3"
+    ]
+  },
+  {
+    "id": "word-690e2e12cb95",
+    "nl": "universiteit",
+    "meanings": [
+      "university"
+    ],
+    "examples": [
+      "Zij studeert rechten aan de universiteit."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-20d8cfd329ed",
+    "nl": "mezelf",
+    "meanings": [
+      "myself"
+    ],
+    "examples": [
+      "Ik heb mezelf ingeschreven voor de cursus."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-40686fbcc262",
+    "nl": "fase",
+    "meanings": [
+      "phase / stage"
+    ],
+    "examples": [
+      "We bevinden ons nu in de laatste fase van het project.",
+      "Dit is een nieuwe fase in mijn leven."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-cb3cfdd81e00",
+    "nl": "technisch",
+    "meanings": [
+      "technical"
+    ],
+    "examples": [
+      "Het apparaat had een klein technisch mankement."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-edd8ef9823b1",
+    "nl": "positief",
+    "meanings": [
+      "positive"
+    ],
+    "examples": [
+      "Zij behoudt altijd een positieve instelling."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-b48ff07ba0ea",
+    "nl": "programma",
+    "meanings": [
+      "program"
+    ],
+    "examples": [
+      "Het nieuwe televisieprogramma trok veel kijkers."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-0fd942363abc",
+    "nl": "leider",
+    "meanings": [
+      "leader"
+    ],
+    "examples": [
+      "Een goede leider luistert naar alle medewerkers."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-ba36704f041d",
+    "nl": "wapen",
+    "meanings": [
+      "weapon"
+    ],
+    "examples": [
+      "De bewaker droeg een officieel wapen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-0ac25c974da1",
+    "nl": "literatuur",
+    "meanings": [
+      "literature"
+    ],
+    "examples": [
+      "Zij leest graag klassieke Nederlandse literatuur."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-78d6dc033304",
+    "nl": "brood",
+    "meanings": [
+      "bread"
+    ],
+    "examples": [
+      "We kopen elke ochtend vers gebakken brood."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-eeb21cdd59c5",
+    "nl": "medisch",
+    "meanings": [
+      "medical"
+    ],
+    "examples": [
+      "De patiënt kreeg direct deskundige medische zorg."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-49fe2d4714c5",
+    "nl": "officier",
+    "meanings": [
+      "officer"
+    ],
+    "examples": [
+      "De officier gaf duidelijke instructies aan de troepen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-117ee308d8d2",
+    "nl": "rivier",
+    "meanings": [
+      "river"
+    ],
+    "examples": [
+      "De rivier stroomt rustig door de vallei."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-0fb5bcc3a751",
+    "nl": "dansen",
+    "meanings": [
+      "to dance"
+    ],
+    "examples": [
+      "We gaan vanavond gezellig samen dansen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-1e36dbdb0bbb",
+    "nl": "interessant",
+    "meanings": [
+      "interesting"
+    ],
+    "examples": [
+      "Dit boek bevat veel interessante feiten."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-88a890eb1a07",
+    "nl": "markt",
+    "meanings": [
+      "market"
+    ],
+    "examples": [
+      "Op zaterdag gaan we altijd naar de verse markt."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-9dd9842ac48c",
+    "nl": "officieel",
+    "meanings": [
+      "officially / official"
+    ],
+    "examples": [
+      "Het document is nu officieel ondertekend."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-fc1f2a6a043f",
+    "nl": "baas",
+    "meanings": [
+      "boss"
+    ],
+    "examples": [
+      "Mijn baas gaf me een compliment voor het werk."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-3c340d59dbbb",
+    "nl": "schoen",
+    "meanings": [
+      "shoe"
+    ],
+    "examples": [
+      "Mijn linker schoen zit erg comfortabel."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-4509beb0ab40",
+    "nl": "boot",
+    "meanings": [
+      "boat"
+    ],
+    "examples": [
+      "We voeren met een houten boot over het meer."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-63963e9a96d8",
+    "nl": "de vloer",
+    "meanings": [
+      "floor"
+    ],
+    "examples": [
+      "De houten vloer in de woonkamer glanst mooi.",
+      "De houten vloer in de gang is pas gelakt."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-3f0af6dbc906",
+    "nl": "dromen",
+    "meanings": [
+      "to dream"
+    ],
+    "examples": [
+      "Iedereen heeft het recht om van een betere toekomst te dromen.",
+      "Ik droom vaak over reizen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-30c5461fc27b",
+    "nl": "winter",
+    "meanings": [
+      "winter"
+    ],
+    "examples": [
+      "In de winter kan het flink sneeuwen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-c35e4a8b5a51",
+    "nl": "de maan",
+    "meanings": [
+      "moon"
+    ],
+    "examples": [
+      "De volle maan scheen helder aan de donkere hemel.",
+      "De volle maan schijnt helder aan de hemel."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-c9d9454da281",
+    "nl": "kilometer",
+    "meanings": [
+      "kilometer"
+    ],
+    "examples": [
+      "We hebben vandaag tien kilometer gewandeld."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-94e4e06d05ec",
+    "nl": "de wens",
+    "meanings": [
+      "wish"
+    ],
+    "examples": [
+      "Zij deed een wens toen ze de vallende ster zag.",
+      "Wat is jouw grootste wens voor het nieuwe jaar?"
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-47fca528985b",
+    "nl": "miljoen",
+    "meanings": [
+      "million"
+    ],
+    "examples": [
+      "De stad telt meer dan een miljoen inwoners."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-9d64d711a2a1",
+    "nl": "seconde",
+    "meanings": [
+      "second"
+    ],
+    "examples": [
+      "Wacht nog even een enkele seconde."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-b99bd6d46d09",
+    "nl": "rijk",
+    "meanings": [
+      "rich / wealthy"
+    ],
+    "examples": [
+      "Hij is rijk aan ervaring en kennis.",
+      "Hij is niet rijk, maar wel heel tevreden."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-63a6f3583546",
+    "nl": "bier",
+    "meanings": [
+      "beer"
+    ],
+    "examples": [
+      "We dronken een koud glas bier op het terras."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-447bde3518c4",
+    "nl": "collega",
+    "meanings": [
+      "colleague"
+    ],
+    "examples": [
+      "Mijn collega hielp mij met het verslag."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-98fef9cd1c87",
+    "nl": "actie",
+    "meanings": [
+      "action / promotion"
+    ],
+    "examples": [
+      "Het is tijd om gerichte actie te ondernemen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-e74f3c37e314",
+    "nl": "plezier",
+    "meanings": [
+      "pleasure / fun"
+    ],
+    "examples": [
+      "Ik wens je ontzettend veel plezier tijdens het feest!"
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-0fb325ea7e26",
+    "nl": "psychologie",
+    "meanings": [
+      "psychology"
+    ],
+    "examples": [
+      "Zij studeert met veel toewijding psychologie."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-a546c3a34b98",
+    "nl": "techniek",
+    "meanings": [
+      "technique / technology"
+    ],
+    "examples": [
+      "De nieuwe techniek maakt ons werk veel sneller."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-f4a160660e9f",
+    "nl": "vechten",
+    "meanings": [
+      "to fight"
+    ],
+    "examples": [
+      "Zij bleven vechten voor hun rechten."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-1a51fc091b8e",
+    "nl": "gras",
+    "meanings": [
+      "grass"
+    ],
+    "examples": [
+      "Het groene gras ruikt heerlijk na de regenbui."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-f563fcd3fb85",
+    "nl": "pad",
+    "meanings": [
+      "path"
+    ],
+    "examples": [
+      "We volgden een smal pad door het bos."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-c75c769adae3",
+    "nl": "financieel",
+    "meanings": [
+      "financial"
+    ],
+    "examples": [
+      "Het bedrijf staat er financieel uitstekend voor."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-c46efac7490d",
+    "nl": "beïnvloeden",
+    "meanings": [
+      "to influence"
+    ],
+    "examples": [
+      "Het weer kan je humeur sterk beïnvloeden."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-d6aedac5cb8a",
+    "nl": "actief",
+    "meanings": [
+      "active"
+    ],
+    "examples": [
+      "Hij blijft fit door elke dag actief te bewegen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-0bd78293c0d1",
+    "nl": "ster",
+    "meanings": [
+      "star"
+    ],
+    "examples": [
+      "Er stond een heldere ster aan de nachtelijke hemel."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-bc020a35b7f9",
+    "nl": "machine",
+    "meanings": [
+      "machine"
+    ],
+    "examples": [
+      "De machine produceert duizend onderdelen per uur."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-660365acd08c",
+    "nl": "energie",
+    "meanings": [
+      "energy"
+    ],
+    "examples": [
+      "Zonne-energie is een schone vorm van stroom."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-f4a53236f00a",
+    "nl": "gouden",
+    "meanings": [
+      "golden"
+    ],
+    "examples": [
+      "Zij droeg een prachtige gouden ring om haar vinger."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-9868da8191e5",
+    "nl": "nek",
+    "meanings": [
+      "neck"
+    ],
+    "examples": [
+      "Hij had last van stijfheid in zijn nek."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-0c344bef4572",
+    "nl": "rusten",
+    "meanings": [
+      "to rest"
+    ],
+    "examples": [
+      "Na de lange wandeling gingen we even lekker rusten."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-cc3be3e081aa",
+    "nl": "auteur",
+    "meanings": [
+      "author"
+    ],
+    "examples": [
+      "De auteur signeerde haar nieuwste roman."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-61b54c5bf48f",
+    "nl": "procent",
+    "meanings": [
+      "percent"
+    ],
+    "examples": [
+      "Tachtig procent van de stemmen is al geteld."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-4919063719e8",
+    "nl": "museum",
+    "meanings": [
+      "museum"
+    ],
+    "examples": [
+      "In het museum hangen meesterwerken van beroemde schilders."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-5c576bd57234",
+    "nl": "realiseren",
+    "meanings": [
+      "to realize"
+    ],
+    "examples": [
+      "Pas later ging hij zich het gevaar realiseren."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-74a15ff0c926",
+    "nl": "cultureel",
+    "meanings": [
+      "cultural"
+    ],
+    "examples": [
+      "De stad organiseert veel culturele evenementen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-04e027e4990a",
+    "nl": "bus",
+    "meanings": [
+      "bus"
+    ],
+    "examples": [
+      "We nemen de bus naar het centrum."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-1cbf490a712b",
+    "nl": "directeur",
+    "meanings": [
+      "director / manager"
+    ],
+    "examples": [
+      "De directeur gaf een presentatie aan het personeel."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-df0d03131856",
+    "nl": "materiaal",
+    "meanings": [
+      "material"
+    ],
+    "examples": [
+      "Dit stevige materiaal is bestand tegen weer en wind."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-b40cae83d81d",
+    "nl": "produceren",
+    "meanings": [
+      "to produce"
+    ],
+    "examples": [
+      "De fabriek kan duizenden eenheden per dag produceren."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-76d657c15854",
+    "nl": "het veld",
+    "meanings": [
+      "field"
+    ],
+    "examples": [
+      "De koeien grazen rustig in het open veld.",
+      "De koeien grazen rustig in het groene veld."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-aaac7fafa769",
+    "nl": "gast",
+    "meanings": [
+      "guest"
+    ],
+    "examples": [
+      "Elke gast werd hartelijk verwelkomd bij de receptie."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-ed1cd2e6c923",
+    "nl": "dubbel",
+    "meanings": [
+      "double"
+    ],
+    "examples": [
+      "Zij bestelde een dubbele espresso."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-fd2fbfcd289a",
+    "nl": "zand",
+    "meanings": [
+      "sand"
+    ],
+    "examples": [
+      "De kinderen bouwden een kasteel van zand op het strand."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-d27c2fbf8703",
+    "nl": "centrum",
+    "meanings": [
+      "center / downtown"
+    ],
+    "examples": [
+      "We ontmoeten elkaar vanmiddag in het centrum."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-063809b7fc3e",
+    "nl": "productie",
+    "meanings": [
+      "production"
+    ],
+    "examples": [
+      "De productie van nieuwe goederen verloopt volgens schema."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-01da4a7abe05",
+    "nl": "westen",
+    "meanings": [
+      "west"
+    ],
+    "examples": [
+      "De zon gaat onder in het westen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-5c0f07b8b9e8",
+    "nl": "specifiek",
+    "meanings": [
+      "specific"
+    ],
+    "examples": [
+      "Kun je een specifiek voorbeeld van dat probleem geven?"
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-2799a61f0f3d",
+    "nl": "koel",
+    "meanings": [
+      "cool"
+    ],
+    "examples": [
+      "Bewaar de drankjes op een koele en donkere plek."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-178562005a2f",
+    "nl": "wassen",
+    "meanings": [
+      "to wash"
+    ],
+    "examples": [
+      "Vergeet niet je handen grondig met zeep te wassen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-f767fc1e274e",
+    "nl": "de klant",
+    "meanings": [
+      "client / customer",
+      "customer / client"
+    ],
+    "examples": [
+      "De tevreden klant gaf een royale fooi.",
+      "De vriendelijke verkoper helpt een nieuwe klant."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-a1c6cf1ec22f",
+    "nl": "de tong",
+    "meanings": [
+      "tongue"
+    ],
+    "examples": [
+      "De dokter vroeg de patiënt zijn tong uit te steken.",
+      "Ik verbrandde per ongeluk mijn tong aan de hete soep."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-b74f83c9353b",
+    "nl": "argument",
+    "meanings": [
+      "argument / point"
+    ],
+    "examples": [
+      "Hij bracht een overtuigend argument naar voren."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-b22e5d9d4ac5",
+    "nl": "negatief",
+    "meanings": [
+      "negative"
+    ],
+    "examples": [
+      "Probeer zelfs in moeilijke tijden niet negatief te denken."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-ef39abd3c5f6",
+    "nl": "de kaas",
+    "meanings": [
+      "cheese"
+    ],
+    "examples": [
+      "Nederland staat wereldwijd bekend om zijn heerlijke kaas.",
+      "Goudse kaas is wereldwijd erg bekend."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-b1068fbf01a8",
+    "nl": "titel",
+    "meanings": [
+      "title"
+    ],
+    "examples": [
+      "Wat is de pakkende titel van jouw nieuwe boek?"
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-682f2ce78f17",
+    "nl": "visie",
+    "meanings": [
+      "vision"
+    ],
+    "examples": [
+      "Zij deelde haar duidelijke visie op de toekomst."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-63d23b44e404",
+    "nl": "persoonlijkheid",
+    "meanings": [
+      "personality"
+    ],
+    "examples": [
+      "Zijn warme persoonlijkheid maakt hem geliefd bij iedereen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-f532e756a244",
+    "nl": "de kust",
+    "meanings": [
+      "coast"
+    ],
+    "examples": [
+      "We genoten van een frisse wandeling langs de kust.",
+      "In de zomer wandelen we graag langs de Nederlandse kust."
+    ],
+    "decks": [
+      "Core 4",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-bf245a132fd2",
+    "nl": "danken",
+    "meanings": [
+      "to thank"
+    ],
+    "examples": [
+      "Ik wil je van harte danken voor je grote inzet."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-aa3a05d9d57c",
+    "nl": "radio",
+    "meanings": [
+      "radio"
+    ],
+    "examples": [
+      "Hij luistert 's ochtends graag naar het nieuws op de radio.",
+      "Ik luister graag naar de radio."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-b3688329419c",
+    "nl": "wijd",
+    "meanings": [
+      "wide / broad"
+    ],
+    "examples": [
+      "Het landschap bood een wijd en adembenemend uitzicht."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-f71030e4c05e",
+    "nl": "jezelf",
+    "meanings": [
+      "yourself"
+    ],
+    "examples": [
+      "Blijf altijd trouw aan jezelf."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-5ad789940b94",
+    "nl": "interesseren",
+    "meanings": [
+      "to interest"
+    ],
+    "examples": [
+      "Geschiedenis en kunst kunnen mij mateloos interesseren."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-91b0ae2177a9",
+    "nl": "olie",
+    "meanings": [
+      "oil"
+    ],
+    "examples": [
+      "Verhit een scheutje olijfolie in de pan.",
+      "We bakken groenten in olijfolie."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-75a8dadc8969",
+    "nl": "thee",
+    "meanings": [
+      "tea"
+    ],
+    "examples": [
+      "Mag ik een warme kop kamillethee, alstublieft?",
+      "Wil je een kopje thee?"
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-985302d50995",
+    "nl": "risico",
+    "meanings": [
+      "risk"
+    ],
+    "examples": [
+      "Het nemen van een berekend risico kan lonend zijn.",
+      "Dat is een groot risico."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-7a47d46e30a5",
+    "nl": "president",
+    "meanings": [
+      "president"
+    ],
+    "examples": [
+      "De president hield een toespraak voor het hele land.",
+      "De president praat op televisie."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-f09a953a3ccf",
+    "nl": "groen",
+    "meanings": [
+      "green"
+    ],
+    "examples": [
+      "In het voorjaar kleurt het bos prachtig fris groen.",
+      "Het gras is erg groen."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-1926ad35376e",
+    "nl": "honger",
+    "meanings": [
+      "hunger / hungry"
+    ],
+    "examples": [
+      "Na de training had ik enorme honger gekregen.",
+      "Ik heb grote honger."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-a1815354cfd4",
+    "nl": "traditioneel",
+    "meanings": [
+      "traditional"
+    ],
+    "examples": [
+      "We bereidden een traditioneel gerecht voor het diner.",
+      "We eten een traditionele maaltijd."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-a00bea543a70",
+    "nl": "adres",
+    "meanings": [
+      "address"
+    ],
+    "examples": [
+      "Wat is jouw huidige woonadres?",
+      "Wat is je adres?"
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-a530c507fd89",
+    "nl": "experiment",
+    "meanings": [
+      "experiment"
+    ],
+    "examples": [
+      "Het wetenschappelijke experiment leverde verrassende data op.",
+      "Het experiment in de klas was leuk."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-3eb1b858ea47",
+    "nl": "fundamenteel",
+    "meanings": [
+      "fundamental / fundamentally"
+    ],
+    "examples": [
+      "Vrijheid van meningsuiting is een fundamenteel mensenrecht.",
+      "Water is fundamenteel voor het leven."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-8715877aa811",
+    "nl": "advies",
+    "meanings": [
+      "advice"
+    ],
+    "examples": [
+      "Zij gaf me nuttig advies over mijn loopbaan.",
+      "Bedankt voor het goede advies."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-971d114742a0",
+    "nl": "klimmen",
+    "meanings": [
+      "to climb"
+    ],
+    "examples": [
+      "De bergbeklimmers gaan de hoge rotswand beklimmen.",
+      "De kinderen klimmen in de boom."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-4aecd0315aa7",
+    "nl": "typisch",
+    "meanings": [
+      "typical"
+    ],
+    "examples": [
+      "Dat is een typisch voorbeeld van Hollandse gezelligheid.",
+      "Dat is typisch Nederlands."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-44859b2baa3d",
+    "nl": "stijl",
+    "meanings": [
+      "style"
+    ],
+    "examples": [
+      "Zij richt haar woning in met een moderne stijl.",
+      "Zij heeft een leuke kledingstijl."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-28720365c5e7",
+    "nl": "top",
+    "meanings": [
+      "top / summit"
+    ],
+    "examples": [
+      "Na uren wandelen bereikten we eindelijk de top van de berg.",
+      "We staan op de top van de heuvel."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-30934c80cf59",
+    "nl": "traditie",
+    "meanings": [
+      "tradition"
+    ],
+    "examples": [
+      "Het is een mooie traditie om samen feest te vieren.",
+      "Het is een oude familietraditie."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-e3c9b80d4e72",
+    "nl": "heet",
+    "meanings": [
+      "hot / to be called"
+    ],
+    "examples": [
+      "De hete soep moet eerst even afkoelen.",
+      "Pas op, de thee is erg heet."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-c3a346058342",
+    "nl": "psychologisch",
+    "meanings": [
+      "psychological"
+    ],
+    "examples": [
+      "Het onderzoek richtte zich op psychologische factoren.",
+      "Het boek gaat over menselijk gedrag."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-aa97302150fc",
+    "nl": "computer",
+    "meanings": [
+      "computer"
+    ],
+    "examples": [
+      "Ik werk de hele dag op een snelle computer.",
+      "Ik koop een nieuwe computer."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-a0b6d3745106",
+    "nl": "generatie",
+    "meanings": [
+      "generation"
+    ],
+    "examples": [
+      "Elke nieuwe generatie brengt frisse ideeën met zich mee.",
+      "Mijn ouders horen bij een andere generatie."
+    ],
+    "decks": [
+      "Core 4"
+    ]
+  },
+  {
+    "id": "word-c2f3a7fabda6",
+    "nl": "bodem",
+    "meanings": [
+      "bottom / ground / soil"
+    ],
+    "examples": [
+      "De vruchtbare bodem is uitermate geschikt voor landbouw.",
+      "Er ligt water op de bodem van het glas."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-264c8c381bf1",
+    "nl": "student",
+    "meanings": [
+      "student"
+    ],
+    "examples": [
+      "Elke student bereidt zich intensief voor op de tentamens.",
+      "De student leest een boek."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-a896c718aa86",
+    "nl": "relatief",
+    "meanings": [
+      "relatively / relative"
+    ],
+    "examples": [
+      "De toets was dit jaar relatief eenvoudig.",
+      "Het examen was relatief makkelijk."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-0e412c7752c4",
+    "nl": "categorie",
+    "meanings": [
+      "category"
+    ],
+    "examples": [
+      "Plaats dit artikel in de juiste categorie.",
+      "Kies de juiste categorie."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-509919c9a2ac",
+    "nl": "kalm",
+    "meanings": [
+      "calm"
+    ],
+    "examples": [
+      "Blijf alstublieft rustig en kalm in een noodsituatie.",
+      "Blijf alsjeblieft kalm."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-4a9ddb4066f8",
+    "nl": "eindigen",
+    "meanings": [
+      "to end / finish"
+    ],
+    "examples": [
+      "De voorstelling zal om tien uur vanavond eindigen.",
+      "De film zal om tien uur eindigen."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-678e71eb0c22",
+    "nl": "goederen",
+    "meanings": [
+      "goods / freight"
+    ],
+    "examples": [
+      "De trein vervoert zware goederen naar de haven.",
+      "De vrachtwagen brengt goederen naar de winkel."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-97fe308c57ad",
+    "nl": "formuleren",
+    "meanings": [
+      "to formulate"
+    ],
+    "examples": [
+      "Probeer je antwoord zo duidelijk mogelijk te formuleren.",
+      "Kun je die vraag opnieuw formuleren?"
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-d3e43f83d066",
+    "nl": "instrument",
+    "meanings": [
+      "instrument"
+    ],
+    "examples": [
+      "De gitaar is een prachtig muziekinstrument.",
+      "Speel jij een muziekinstrument?"
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-e726e9a8ef66",
+    "nl": "klas",
+    "meanings": [
+      "class / classroom"
+    ],
+    "examples": [
+      "Er zitten vijfentwintig enthousiaste leerlingen in de klas.",
+      "Er zitten twintig kinderen in de klas."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-9fced723a70c",
+    "nl": "combinatie",
+    "meanings": [
+      "combination"
+    ],
+    "examples": [
+      "De combinatie van smaken in dit gerecht is fantastisch.",
+      "Blauw en wit is een mooie combinatie."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-d48e788d527b",
+    "nl": "publiceren",
+    "meanings": [
+      "to publish"
+    ],
+    "examples": [
+      "De wetenschapper wil haar nieuwste bevindingen publiceren.",
+      "De schrijver wil een nieuw boek publiceren."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-07948f03bedc",
+    "nl": "landschap",
+    "meanings": [
+      "landscape"
+    ],
+    "examples": [
+      "We genoten van het uitgestrekte heuvellandschap.",
+      "Nederland heeft een mooi groen landschap."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-5a5da6ad1f0f",
+    "nl": "warmte",
+    "meanings": [
+      "warmth / heat"
+    ],
+    "examples": [
+      "De warmte van het haardvuur was heerlijk op deze koude dag.",
+      "Ik hou van de warmte van de zon."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-c9ab67e8240c",
+    "nl": "televisie",
+    "meanings": [
+      "television"
+    ],
+    "examples": [
+      "We kijken vanavond samen een film op de televisie."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-e160b7a374a4",
+    "nl": "organiseren",
+    "meanings": [
+      "to organize"
+    ],
+    "examples": [
+      "Het comité gaat een feestelijk evenement organiseren.",
+      "Zij gaan een feest organiseren."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-0326f0989796",
+    "nl": "patroon",
+    "meanings": [
+      "pattern"
+    ],
+    "examples": [
+      "De stof heeft een regelmatig geometrisch patroon.",
+      "Dit overhemd heeft een leuk patroon."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-d4f0bc5a29de",
+    "nl": "agent",
+    "meanings": [
+      "officer / agent"
+    ],
+    "examples": [
+      "De vriendelijke agent wees de toeristen de juiste weg."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-f86419d11944",
+    "nl": "emotie",
+    "meanings": [
+      "emotion"
+    ],
+    "examples": [
+      "Muziek kan diepe emoties bij luisteraars oproepen.",
+      "Muziek brengt veel emotie met zich mee."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-88bc3ec19cc8",
+    "nl": "orgaan",
+    "meanings": [
+      "organ"
+    ],
+    "examples": [
+      "Het hart is een vitaal orgaan in het menselijk lichaam.",
+      "Het hart is een belangrijk orgaan."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-d837c86cf961",
+    "nl": "provincie",
+    "meanings": [
+      "province"
+    ],
+    "examples": [
+      "Utrecht is een centrale provincie in Nederland.",
+      "Noord-Brabant is een provincie in Nederland."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-9c0211c51d04",
+    "nl": "detail",
+    "meanings": [
+      "detail"
+    ],
+    "examples": [
+      "Let goed op elk klein detail in de instructies.",
+      "Dat is een klein detail."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-ee275d64dafc",
+    "nl": "restaurant",
+    "meanings": [
+      "restaurant"
+    ],
+    "examples": [
+      "We hebben gereserveerd in een gezellig Italiaans restaurant.",
+      "We eten vanavond in een restaurant."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-7e73b026cfd1",
+    "nl": "wild",
+    "meanings": [
+      "wild"
+    ],
+    "examples": [
+      "In het bos leven veel wilde dieren.",
+      "In het park zagen we wilde vogels."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-5d7446808942",
+    "nl": "pijnlijk",
+    "meanings": [
+      "painful"
+    ],
+    "examples": [
+      "Het was een pijnlijke blessure na de harde botsing.",
+      "Mijn knie is erg pijnlijk."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-9b4ef3e5b7b4",
+    "nl": "station",
+    "meanings": [
+      "station"
+    ],
+    "examples": [
+      "De sneltrein arriveert over vijf minuten op het centrale station.",
+      "We ontmoeten elkaar op het station."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-c487e4a93d1a",
+    "nl": "klassiek",
+    "meanings": [
+      "classic / classical"
+    ],
+    "examples": [
+      "Zij houdt enorm van klassieke muziekstukken.",
+      "Ik luister naar klassieke muziek."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-9d5d7fcf3aa3",
+    "nl": "sector",
+    "meanings": [
+      "sector"
+    ],
+    "examples": [
+      "De technologische sector groeit tegenwoordig razendsnel.",
+      "Hij werkt in de IT-sector."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-5f97de5d87c9",
+    "nl": "eindeloos",
+    "meanings": [
+      "endless"
+    ],
+    "examples": [
+      "We keken uit over een eindeloze zee van bloemen.",
+      "De weg leek wel eindeloos."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-3295bc2dd76b",
+    "nl": "emotioneel",
+    "meanings": [
+      "emotional"
+    ],
+    "examples": [
+      "Het afscheid op het vliegveld was een emotioneel moment.",
+      "Zij was erg emotioneel na het nieuws."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-056e08183f13",
+    "nl": "studeren",
+    "meanings": [
+      "to study"
+    ],
+    "examples": [
+      "Hij moet vanavond hard studeren voor het biologie-examen."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-78f6514260a9",
+    "nl": "symbool",
+    "meanings": [
+      "symbol"
+    ],
+    "examples": [
+      "De duif is een wereldwijd symbool voor vrede."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-6f00d2a312d1",
+    "nl": "luitenant",
+    "meanings": [
+      "lieutenant"
+    ],
+    "examples": [
+      "De luitenant gaf bevel aan het peloton om op te rukken.",
+      "De luitenant praat met de soldaten."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-ded291328a3c",
+    "nl": "passeren",
+    "meanings": [
+      "to pass"
+    ],
+    "examples": [
+      "De auto's passeren de landsgrens zonder oponthoud."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-60004baec411",
+    "nl": "motief",
+    "meanings": [
+      "motive / motif"
+    ],
+    "examples": [
+      "De politie onderzoekt het motief achter de daad."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-a7e2f0dcce84",
+    "nl": "fabriek",
+    "meanings": [
+      "factory"
+    ],
+    "examples": [
+      "De moderne fabriek produceert elektrische voertuigen."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-0a845f248c7e",
+    "nl": "lijst",
+    "meanings": [
+      "list / frame"
+    ],
+    "examples": [
+      "Zet alle benodigdheden op een overzichtelijke lijst."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-c2e9e8207e2b",
+    "nl": "serieus",
+    "meanings": [
+      "serious"
+    ],
+    "examples": [
+      "We moeten dit maatschappelijke probleem heel serieus nemen."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-4e2bbfa78e8e",
+    "nl": "logisch",
+    "meanings": [
+      "logical"
+    ],
+    "examples": [
+      "Dat is een volkomen logische conclusie op basis van de feiten.",
+      "Dat klinkt heel logisch."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-ccb711f092ac",
+    "nl": "mama",
+    "meanings": [
+      "mom / mother"
+    ],
+    "examples": [
+      "Mama bakt vanmiddag heerlijke pannenkoeken voor ons."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-30c746a8ac04",
+    "nl": "vluchten",
+    "meanings": [
+      "to flee / escape"
+    ],
+    "examples": [
+      "De dorpelingen moesten halsoverkop vluchten voor het water."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-527279f46648",
+    "nl": "noorden",
+    "meanings": [
+      "north"
+    ],
+    "examples": [
+      "De ganzen vliegen in de lente terug naar het noorden."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-c2e71557867e",
+    "nl": "bijten",
+    "meanings": [
+      "to bite"
+    ],
+    "examples": [
+      "Kijk uit dat de jonge hond niet in je schoen gaat bijten.",
+      "Pas op, die hond kan bijten."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-3a27c748fcf5",
+    "nl": "vorming",
+    "meanings": [
+      "formation / training"
+    ],
+    "examples": [
+      "Onderwijs speelt een grote rol bij de karaktervorming."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-850f7dc43910",
+    "nl": "café",
+    "meanings": [
+      "cafe / pub"
+    ],
+    "examples": [
+      "We dronken een kopje koffie in een sfeervol café."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-2958d416d08a",
+    "nl": "object",
+    "meanings": [
+      "object"
+    ],
+    "examples": [
+      "Er lag een onbekend zilverkleurig object op het strand."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-8b9b28baf5f7",
+    "nl": "Holland",
+    "meanings": [
+      "Holland / Netherlands"
+    ],
+    "examples": [
+      "Veel buitenlandse toeristen bezoeken Holland in de lente."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-cc72862e14c1",
+    "nl": "kamp",
+    "meanings": [
+      "camp"
+    ],
+    "examples": [
+      "De jeugdgroep zette hun tenten op in het zomerkamp."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-a2fce2a5aae0",
+    "nl": "dun",
+    "meanings": [
+      "thin"
+    ],
+    "examples": [
+      "De ijslaag op de sloot is nog veel te dun om op te schaatsen.",
+      "Het boek is erg dun.",
+      "Dit lichte zomerjasje is gemaakt van dunne stof."
+    ],
+    "decks": [
+      "Core 5",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-879a67602aab",
+    "nl": "ideaal",
+    "meanings": [
+      "ideal"
+    ],
+    "examples": [
+      "Dit zonnige weer is ideaal voor een fietstocht door de duinen.",
+      "Dit weer is ideaal voor een wandeling."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-4b0d7f59fd93",
+    "nl": "juni",
+    "meanings": [
+      "June"
+    ],
+    "examples": [
+      "In de maand juni worden de dagen al lekker lang en zonnig.",
+      "Het is warm in juni."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-6cd6eca9cee8",
+    "nl": "accepteren",
+    "meanings": [
+      "to accept"
+    ],
+    "examples": [
+      "We moeten de situatie accepteren zoals die nu is."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-958b22738145",
+    "nl": "initiatief",
+    "meanings": [
+      "initiative"
+    ],
+    "examples": [
+      "Zij nam het initiatief om een wijkfeest op te zetten."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-bbe8e9531e01",
+    "nl": "bitter",
+    "meanings": [
+      "bitter"
+    ],
+    "examples": [
+      "Pure chocolade kan soms een tikkeltje bitter smaken."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-6bc2a1638e24",
+    "nl": "verspreiden",
+    "meanings": [
+      "to spread"
+    ],
+    "examples": [
+      "Het goede nieuws begon zich razendsnel te verspreiden."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-7854a65f8dad",
+    "nl": "verbieden",
+    "meanings": [
+      "to forbid / ban"
+    ],
+    "examples": [
+      "De regels verbieden het gebruik van telefoons tijdens de les."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-803cfcb16a46",
+    "nl": "consequentie",
+    "meanings": [
+      "consequence"
+    ],
+    "examples": [
+      "Elke actie heeft onvermijdelijk een consequentie."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-ec9dc88ae0c7",
+    "nl": "oktober",
+    "meanings": [
+      "October"
+    ],
+    "examples": [
+      "In oktober beginnen de bladeren van de bomen te verkleuren."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-bb38bd24f66c",
+    "nl": "westers",
+    "meanings": [
+      "western"
+    ],
+    "examples": [
+      "Zij bestuderen de westerse cultuur en filosofie."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-26ec8948852e",
+    "nl": "jongeman",
+    "meanings": [
+      "young man"
+    ],
+    "examples": [
+      "De vriendelijke jongeman hielp de oude dame met oversteken."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-655fc10ace95",
+    "nl": "de hoed",
+    "meanings": [
+      "hat"
+    ],
+    "examples": [
+      "Hij droeg een stijlvolle hoed tegen de felle zon.",
+      "De oude man draagt altijd een zwarte vilten hoed."
+    ],
+    "decks": [
+      "Core 5",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-f8b1f55e96be",
+    "nl": "zenden",
+    "meanings": [
+      "to send / broadcast"
+    ],
+    "examples": [
+      "Het tv-station zal het live concert vanavond uitzenden."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-8fd9927c27a0",
+    "nl": "zondag",
+    "meanings": [
+      "Sunday"
+    ],
+    "examples": [
+      "Op zondag genieten we van een ontspannen en lange ochtend."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-d652953452c2",
+    "nl": "theoretisch",
+    "meanings": [
+      "theoretical / theoretically"
+    ],
+    "examples": [
+      "Theoretisch gezien klopt de hele berekening perfect."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-900fbf466911",
+    "nl": "psycholoog",
+    "meanings": [
+      "psychologist"
+    ],
+    "examples": [
+      "De psycholoog hielp hem met het verwerken van stress."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-ebe71c53e9a0",
+    "nl": "pers",
+    "meanings": [
+      "press"
+    ],
+    "examples": [
+      "De pers verzamelde zich massaal voor de ingang van het gebouw.",
+      "De pers stelt veel vragen."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-4983009cbece",
+    "nl": "terras",
+    "meanings": [
+      "terrace / patio"
+    ],
+    "examples": [
+      "We zaten heerlijk in het zonnetje op het open terras.",
+      "We drinken koffie op het terras."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-34d6231c09aa",
+    "nl": "crisis",
+    "meanings": [
+      "crisis"
+    ],
+    "examples": [
+      "Het crisisteam kwam direct bijeen om de situatie op te lossen.",
+      "Zij zoeken een oplossing voor de crisis."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-74a51c3ce9ff",
+    "nl": "pot",
+    "meanings": [
+      "pot / jar"
+    ],
+    "examples": [
+      "Er staat een pot met zelfgemaakte aardbeienjam in de koelkast."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-1c87df9582df",
+    "nl": "operatie",
+    "meanings": [
+      "operation / surgery"
+    ],
+    "examples": [
+      "De medische operatie in het ziekenhuis is geslaagd.",
+      "De operatie ging heel goed."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-7f3fa48ca885",
+    "nl": "partner",
+    "meanings": [
+      "partner"
+    ],
+    "examples": [
+      "Zij zijn al jarenlang betrouwbare partners in het bedrijf.",
+      "Zij is mijn partner op het werk."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-b96b18fbe9a2",
+    "nl": "suiker",
+    "meanings": [
+      "sugar"
+    ],
+    "examples": [
+      "Doe alsjeblieft niet te veel suiker in mijn koffie.",
+      "Wil je suiker in je koffie?"
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-c09088a50059",
+    "nl": "gemeen",
+    "meanings": [
+      "mean / common"
+    ],
+    "examples": [
+      "Het is niet aardig om gemene opmerkingen te maken.",
+      "Dat was niet aardig, maar gemeen."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-3bdf76655240",
+    "nl": "plaat",
+    "meanings": [
+      "plate / record / picture"
+    ],
+    "examples": [
+      "We luisterden naar een oude plaat op de platenspeler.",
+      "Mijn vader luistert naar een oude plaat."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-8c7cb5df3b32",
+    "nl": "stijf",
+    "meanings": [
+      "stiff / rigid"
+    ],
+    "examples": [
+      "Na de intensieve krachttraining voelden mijn spieren stijf aan.",
+      "Mijn benen zijn erg stijf."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-320da8a4690e",
+    "nl": "economie",
+    "meanings": [
+      "economy"
+    ],
+    "examples": [
+      "De nationale economie vertoont weer een gezonde groei.",
+      "De economie van het land groeit."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-773e0b61af35",
+    "nl": "bruin",
+    "meanings": [
+      "brown"
+    ],
+    "examples": [
+      "Mijn hond heeft een prachtige glanzende bruine vacht.",
+      "Zij heeft bruine ogen."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-8505698e6164",
+    "nl": "sneeuw",
+    "meanings": [
+      "snow"
+    ],
+    "examples": [
+      "In de bergen viel er vannacht een vers pak witte sneeuw.",
+      "Er ligt witte sneeuw op straat."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-f92472492c59",
+    "nl": "het kruis",
+    "meanings": [
+      "cross"
+    ],
+    "examples": [
+      "Zet een duidelijk kruisje in het juiste vakje.",
+      "Zet een kruisje in het vakje.",
+      "Zet een duidelijk kruisje in het juiste vakje op het formulier."
+    ],
+    "decks": [
+      "Core 5",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-f0b7939f865a",
+    "nl": "automatisch",
+    "meanings": [
+      "automatically / automatic"
+    ],
+    "examples": [
+      "De deuren van de supermarkt openen volautomatisch.",
+      "De deur gaat automatisch open."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-244210e48437",
+    "nl": "project",
+    "meanings": [
+      "project"
+    ],
+    "examples": [
+      "We werken samen aan een uitdagend en vernieuwend project.",
+      "We werken samen aan een schoolproject."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-9d07204fbfa6",
+    "nl": "hut",
+    "meanings": [
+      "hut / cabin"
+    ],
+    "examples": [
+      "We overnachtten in een knusse houten hut in het bos.",
+      "We sliepen in een kleine houten hut."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-9209526aaa61",
+    "nl": "fruit",
+    "meanings": [
+      "fruit"
+    ],
+    "examples": [
+      "Het eten van vers seizoensfruit is erg gezond.",
+      "Elke ochtend eet ik vers fruit."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-568139212cd6",
+    "nl": "communicatie",
+    "meanings": [
+      "communication"
+    ],
+    "examples": [
+      "Goede en open communicatie voorkomt misverstanden.",
+      "Goede communicatie is erg belangrijk."
+    ],
+    "decks": [
+      "Core 5"
+    ]
+  },
+  {
+    "id": "word-7e6e9877fff0",
+    "nl": "dom",
+    "meanings": [
+      "dumb / silly",
+      "stupid / silly"
+    ],
+    "examples": [
+      "Het was een domme fout die we gelukkig snel konden herstellen.",
+      "Dat was een domme fout.",
+      "Dat was een hele domme vergissing van mij."
+    ],
+    "decks": [
+      "Core 5",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-81f52337ebb4",
+    "nl": "de boom",
+    "meanings": [
+      "tree"
+    ],
+    "examples": [
+      "De vogel zit in de boom.",
+      "In de herfst vallen de bladeren van de boom."
+    ],
+    "decks": [
+      "Medium 1",
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-ab184a6f1d4b",
+    "nl": "de stoel",
+    "meanings": [
+      "chair"
+    ],
+    "examples": [
+      "Ik zit op een stoel.",
+      "Neem gerust plaats op deze comfortabele stoel."
+    ],
+    "decks": [
+      "Medium 1",
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-970b1897af0a",
+    "nl": "van",
+    "meanings": [
+      "from / of"
+    ],
+    "examples": [
+      "Dit boek is van mij."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-bb07d1178131",
+    "nl": "zijn",
+    "meanings": [
+      "to be"
+    ],
+    "examples": [
+      "Wij zijn vandaag thuis."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-6efcbfb1f9f1",
+    "nl": "met",
+    "meanings": [
+      "with"
+    ],
+    "examples": [
+      "Ik ga met de fiets naar het werk."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-ee7637bd419d",
+    "nl": "als",
+    "meanings": [
+      "if / when"
+    ],
+    "examples": [
+      "Bel me als je tijd hebt."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-cfdb1aeb8cc3",
+    "nl": "maar",
+    "meanings": [
+      "but"
+    ],
+    "examples": [
+      "Ik wil wel, maar ik kan niet."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-2e23f8b81d15",
+    "nl": "om",
+    "meanings": [
+      "around / at"
+    ],
+    "examples": [
+      "De winkel gaat om negen uur open."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-61662b23d5f7",
+    "nl": "naar",
+    "meanings": [
+      "to"
+    ],
+    "examples": [
+      "Morgen gaan we naar Amsterdam."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-d773c6ef7075",
+    "nl": "ook",
+    "meanings": [
+      "also / too"
+    ],
+    "examples": [
+      "Ik wil ook een kopje koffie."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-f44c1a1e3640",
+    "nl": "bij",
+    "meanings": [
+      "at / near"
+    ],
+    "examples": [
+      "Zij woont bij het station."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-cb65a96799cc",
+    "nl": "nog",
+    "meanings": [
+      "yet / still"
+    ],
+    "examples": [
+      "Ben je nog op kantoor?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-1e84b08c59bf",
+    "nl": "tot",
+    "meanings": [
+      "until"
+    ],
+    "examples": [
+      "Tot morgenochtend!"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-ac00812872a1",
+    "nl": "ons / onze",
+    "meanings": [
+      "our"
+    ],
+    "examples": [
+      "Dit is onze nieuwe woning."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-d90cc3627e0f",
+    "nl": "veel",
+    "meanings": [
+      "many / much"
+    ],
+    "examples": [
+      "Er zijn veel mensen op het plein."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-b1e1c5bd0574",
+    "nl": "de mens",
+    "meanings": [
+      "human / person"
+    ],
+    "examples": [
+      "Ieder mens maakt fouten."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-2a0f6c597f81",
+    "nl": "toch",
+    "meanings": [
+      "however / still"
+    ],
+    "examples": [
+      "Het regende, maar we gingen toch wandelen."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-3d9fc4bde7ce",
+    "nl": "na",
+    "meanings": [
+      "after"
+    ],
+    "examples": [
+      "We eten na het werk."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-9012467af79f",
+    "nl": "de tijd",
+    "meanings": [
+      "time"
+    ],
+    "examples": [
+      "Heb je even tijd voor mij?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-0b27c158feb3",
+    "nl": "het kind",
+    "meanings": [
+      "child"
+    ],
+    "examples": [
+      "Het kind speelt in de tuin."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-809400ee66d0",
+    "nl": "de vrouw",
+    "meanings": [
+      "woman / wife"
+    ],
+    "examples": [
+      "De vrouw leest een krant."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-d83dd64fa3d6",
+    "nl": "het oog",
+    "meanings": [
+      "eye"
+    ],
+    "examples": [
+      "Zij heeft blauwe ogen."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-37c7ea07a0e0",
+    "nl": "dus",
+    "meanings": [
+      "so / therefore"
+    ],
+    "examples": [
+      "Het regent, dus ik neem een paraplu mee."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-aee12eebcac8",
+    "nl": "heel",
+    "meanings": [
+      "very"
+    ],
+    "examples": [
+      "Dit brood is heel lekker."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-ec38063c881f",
+    "nl": "even",
+    "meanings": [
+      "for a bit / for a while"
+    ],
+    "examples": [
+      "Wacht even op mij."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-e3b59765567b",
+    "nl": "zelfs",
+    "meanings": [
+      "even"
+    ],
+    "examples": [
+      "Zelfs mijn broer weet het antwoord niet."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-f4263395bc3b",
+    "nl": "het hoofd",
+    "meanings": [
+      "head"
+    ],
+    "examples": [
+      "Ik heb een beetje pijn in mijn hoofd."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-cc4d6e7934a0",
+    "nl": "zeer",
+    "meanings": [
+      "very"
+    ],
+    "examples": [
+      "Het is een zeer goede film."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-1fdefa82bf3a",
+    "nl": "een paar",
+    "meanings": [
+      "a couple / a few"
+    ],
+    "examples": [
+      "Ik heb een paar appels gekocht."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-f24199739e95",
+    "nl": "de vraag",
+    "meanings": [
+      "question"
+    ],
+    "examples": [
+      "Mag ik een korte vraag stellen?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-ec4578cc1738",
+    "nl": "vaak",
+    "meanings": [
+      "often"
+    ],
+    "examples": [
+      "Wij gaan vaak naar het park."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-3fbea8967ed6",
+    "nl": "de keer",
+    "meanings": [
+      "time / occurrence"
+    ],
+    "examples": [
+      "Dit is de eerste keer dat ik hier ben."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-027bd14fb78f",
+    "nl": "weg",
+    "meanings": [
+      "away"
+    ],
+    "examples": [
+      "Mijn sleutel is plotseling weg."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-ac38333b636f",
+    "nl": "de zaak",
+    "meanings": [
+      "matter / business / store"
+    ],
+    "examples": [
+      "Hij opent binnenkort een eigen zaak."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-a08a0fcbdeaf",
+    "nl": "net",
+    "meanings": [
+      "just"
+    ],
+    "examples": [
+      "Ik ben net thuisgekomen."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-4cc8b911b2bd",
+    "nl": "heen",
+    "meanings": [
+      "away / towards"
+    ],
+    "examples": [
+      "Waar ga je nu heen?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-5b78db4de3fc",
+    "nl": "hoog",
+    "meanings": [
+      "high / tall"
+    ],
+    "examples": [
+      "De toren van de stad is erg hoog."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-b2338ebb683e",
+    "nl": "juist",
+    "meanings": [
+      "right / correct"
+    ],
+    "examples": [
+      "Dat antwoord is helemaal juist."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-4aaa7f4bddf1",
+    "nl": "sterk",
+    "meanings": [
+      "strong"
+    ],
+    "examples": [
+      "Mijn opa is nog altijd heel sterk."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-22664bd794d0",
+    "nl": "waar",
+    "meanings": [
+      "true / where"
+    ],
+    "examples": [
+      "Is dat verhaal echt waar?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-8073c5350194",
+    "nl": "het deel",
+    "meanings": [
+      "part"
+    ],
+    "examples": [
+      "Dit is het leukste deel van het boek."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-6438e74fe497",
+    "nl": "snel",
+    "meanings": [
+      "fast / quick"
+    ],
+    "examples": [
+      "De sneltrein rijdt heel snel."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-05b09763f03a",
+    "nl": "mooi",
+    "meanings": [
+      "beautiful / pretty",
+      "beautiful / handsome"
+    ],
+    "examples": [
+      "Wat een mooie bloem is dat!",
+      "Wat een uitzonderlijk mooi uitzicht over de stad."
+    ],
+    "decks": [
+      "Medium 1",
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-43f52410ceeb",
+    "nl": "de zin",
+    "meanings": [
+      "sentence / mood"
+    ],
+    "examples": [
+      "Kun je deze zin vertalen?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-005950447284",
+    "nl": "kort",
+    "meanings": [
+      "short"
+    ],
+    "examples": [
+      "We hebben een korte pauze van tien minuten."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-375eca5944bc",
+    "nl": "vast",
+    "meanings": [
+      "fixed / surely"
+    ],
+    "examples": [
+      "Hij komt vast op tijd."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-87fdde2c04f5",
+    "nl": "de stad",
+    "meanings": [
+      "city"
+    ],
+    "examples": [
+      "Eindhoven is een leuke stad."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-03f853899ed6",
+    "nl": "vroeg",
+    "meanings": [
+      "early"
+    ],
+    "examples": [
+      "Ik sta morgen vroeg op."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-919a11f94809",
+    "nl": "de stem",
+    "meanings": [
+      "voice"
+    ],
+    "examples": [
+      "Zij heeft een zachte stem."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-f59c0081df30",
+    "nl": "de kant",
+    "meanings": [
+      "side"
+    ],
+    "examples": [
+      "Ga alsjeblieft aan de kant."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-086325a3ff84",
+    "nl": "het geld",
+    "meanings": [
+      "money"
+    ],
+    "examples": [
+      "Ik heb niet genoeg contant geld bij me."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-dccaf79dcf04",
+    "nl": "het stuk",
+    "meanings": [
+      "piece"
+    ],
+    "examples": [
+      "Wil je een stuk appeltaart?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-f5896e6ee580",
+    "nl": "graag",
+    "meanings": [
+      "gladly / please"
+    ],
+    "examples": [
+      "Ik drink heel graag verse muntthee."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-d89d557fdf63",
+    "nl": "nou",
+    "meanings": [
+      "well / now"
+    ],
+    "examples": [
+      "Nou, dat is goed nieuws!"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-7f1f073d8bb9",
+    "nl": "pas",
+    "meanings": [
+      "only / just"
+    ],
+    "examples": [
+      "Ik woon pas twee maanden in Nederland."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-e01ff276a679",
+    "nl": "recht",
+    "meanings": [
+      "straight"
+    ],
+    "examples": [
+      "Loop rechtdoor naar het station."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-d2b21472c84b",
+    "nl": "zwaar",
+    "meanings": [
+      "heavy"
+    ],
+    "examples": [
+      "Deze doos is te zwaar om alleen te tillen."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-98fbb7ef6012",
+    "nl": "het lid",
+    "meanings": [
+      "member"
+    ],
+    "examples": [
+      "Hij is al jaren lid van de sportclub."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-607f70312d36",
+    "nl": "de eeuw",
+    "meanings": [
+      "century"
+    ],
+    "examples": [
+      "Deze kerk stamt uit de zeventiende eeuw."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-510038af5883",
+    "nl": "opnieuw",
+    "meanings": [
+      "again"
+    ],
+    "examples": [
+      "Laten we het opnieuw proberen."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-0f10e9964d4c",
+    "nl": "thuis",
+    "meanings": [
+      "at home"
+    ],
+    "examples": [
+      "Vanavond blijf ik lekker thuis."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-3bab35af3494",
+    "nl": "de kracht",
+    "meanings": [
+      "power / strength"
+    ],
+    "examples": [
+      "Zij heeft de kracht om dit probleem op te lossen."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-9efa85772b97",
+    "nl": "ooit",
+    "meanings": [
+      "ever"
+    ],
+    "examples": [
+      "Ben je ooit in Japan geweest?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-ab58eb0fe1cd",
+    "nl": "de kerk",
+    "meanings": [
+      "church"
+    ],
+    "examples": [
+      "De oude kerk staat midden in het dorp."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-2fd5a745a44c",
+    "nl": "de blik",
+    "meanings": [
+      "look / glance / can"
+    ],
+    "examples": [
+      "Hij wierp een korte blik op zijn horloge."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-c99ca645732a",
+    "nl": "de kans",
+    "meanings": [
+      "opportunity / chance"
+    ],
+    "examples": [
+      "Dit is een uitstekende kans voor jou."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-29a8825bd242",
+    "nl": "de brief",
+    "meanings": [
+      "letter"
+    ],
+    "examples": [
+      "Ik stuur een brief naar mijn oma."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-2c3e72ed0c21",
+    "nl": "het beeld",
+    "meanings": [
+      "statue / image"
+    ],
+    "examples": [
+      "Er staat een groot beeld op het marktplein."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-67e71f105533",
+    "nl": "zacht",
+    "meanings": [
+      "soft"
+    ],
+    "examples": [
+      "Het kussen op de bank is heel zacht."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-948c2674ef58",
+    "nl": "de macht",
+    "meanings": [
+      "power"
+    ],
+    "examples": [
+      "Wie heeft de macht in het land?"
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-dafcc7a01636",
+    "nl": "via / door",
+    "meanings": [
+      "through / via"
+    ],
+    "examples": [
+      "We reizen via Utrecht naar het noorden."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-3e17c0d0d0bf",
+    "nl": "de gang",
+    "meanings": [
+      "corridor / hallway"
+    ],
+    "examples": [
+      "De schoenen staan netjes in de gang."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-853916b1dbc2",
+    "nl": "het been",
+    "meanings": [
+      "leg"
+    ],
+    "examples": [
+      "Mijn linkerbeen doet pijn na het rennen."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-63be4630112c",
+    "nl": "slecht",
+    "meanings": [
+      "bad"
+    ],
+    "examples": [
+      "Het weer is vandaag erg slecht."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-534c51e17770",
+    "nl": "de wet",
+    "meanings": [
+      "law"
+    ],
+    "examples": [
+      "Iedereen moet zich aan de wet houden."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-1ae3d35454b6",
+    "nl": "bang",
+    "meanings": [
+      "afraid / scared"
+    ],
+    "examples": [
+      "De kleine jongen is bang in het donker."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-38c71ac9a698",
+    "nl": "het dier",
+    "meanings": [
+      "animal"
+    ],
+    "examples": [
+      "De kat is een lief dier."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-6cd08fff369b",
+    "nl": "de lucht",
+    "meanings": [
+      "sky / air"
+    ],
+    "examples": [
+      "Er drijven witte wolken in de lucht."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-9fdaa7ee3f13",
+    "nl": "de rug",
+    "meanings": [
+      "back"
+    ],
+    "examples": [
+      "Ik draag een zware tas op mijn rug."
+    ],
+    "decks": [
+      "Medium 1"
+    ]
+  },
+  {
+    "id": "word-8bc324acda6e",
+    "nl": "de angst",
+    "meanings": [
+      "fear"
+    ],
+    "examples": [
+      "Zij overwon haar angst voor honden."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-2c9be11d3de6",
+    "nl": "laag",
+    "meanings": [
+      "low"
+    ],
+    "examples": [
+      "De tafel in de kamer is vrij laag."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-149a5a5e93ae",
+    "nl": "het raam",
+    "meanings": [
+      "window"
+    ],
+    "examples": [
+      "Kun je het raam even openzetten?"
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-397de336e509",
+    "nl": "de hond",
+    "meanings": [
+      "dog"
+    ],
+    "examples": [
+      "De hond rent vrolijk door het gras."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-69374da4f93b",
+    "nl": "stil",
+    "meanings": [
+      "quiet / silent"
+    ],
+    "examples": [
+      "Wees even stil, de baby slaapt."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-cfe46b274eb2",
+    "nl": "het doel",
+    "meanings": [
+      "target / goal"
+    ],
+    "examples": [
+      "Mijn doel is om goed Nederlands te spreken."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-e0e8898cdd01",
+    "nl": "de dienst",
+    "meanings": [
+      "shift / service"
+    ],
+    "examples": [
+      "Mijn broer werkt vandaag in de avonddienst."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-1bb7117ae7ea",
+    "nl": "zwart",
+    "meanings": [
+      "black"
+    ],
+    "examples": [
+      "Zij draagt een mooie zwarte jas."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-025da59d5112",
+    "nl": "dik",
+    "meanings": [
+      "fat / thick"
+    ],
+    "examples": [
+      "Het woordenboek is een heel dik boek."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-7405a091db99",
+    "nl": "het paard",
+    "meanings": [
+      "horse"
+    ],
+    "examples": [
+      "Het paard loopt rustig door de wei."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-c32961cd6371",
+    "nl": "vreemd",
+    "meanings": [
+      "strange / odd"
+    ],
+    "examples": [
+      "Ik hoorde vannacht een vreemd geluid buiten."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-a6d11e126c61",
+    "nl": "de taal",
+    "meanings": [
+      "language"
+    ],
+    "examples": [
+      "Welke taal spreken jullie thuis?"
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-f624819fb979",
+    "nl": "het volk",
+    "meanings": [
+      "people / nation"
+    ],
+    "examples": [
+      "Er stroomde veel volk toe op het festival."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-5f99eb5c11ac",
+    "nl": "de aarde",
+    "meanings": [
+      "soil / earth"
+    ],
+    "examples": [
+      "De aarde in de plantenbak is erg droog."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-f5625254ce42",
+    "nl": "de muur",
+    "meanings": [
+      "wall"
+    ],
+    "examples": [
+      "We hangen een kleurrijk schilderij aan de muur."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-82dfe0c4d3e9",
+    "nl": "de raad",
+    "meanings": [
+      "advice"
+    ],
+    "examples": [
+      "Dank je wel voor je goede en wijze raad."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-523cd901496c",
+    "nl": "het dorp",
+    "meanings": [
+      "village"
+    ],
+    "examples": [
+      "Hij woont rustig in een klein groen dorp."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-a8ff1c41b841",
+    "nl": "breed",
+    "meanings": [
+      "wide"
+    ],
+    "examples": [
+      "De straat is breed genoeg voor twee bussen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-a96ee790b59b",
+    "nl": "leeg",
+    "meanings": [
+      "empty"
+    ],
+    "examples": [
+      "Het glas water is helemaal leeg."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-cf0c59571439",
+    "nl": "lief",
+    "meanings": [
+      "sweet / kind"
+    ],
+    "examples": [
+      "Wat een lief en behulpzaam kind ben jij."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-056d4bfb1ee0",
+    "nl": "klaar",
+    "meanings": [
+      "ready / finished"
+    ],
+    "examples": [
+      "Het warme eten is over vijf minuten klaar."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-d97c2ccbf0f1",
+    "nl": "de zorg",
+    "meanings": [
+      "care / worry"
+    ],
+    "examples": [
+      "Maak je alsjeblieft geen onnodige zorgen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-19280f0055de",
+    "nl": "gauw",
+    "meanings": [
+      "soon / quickly"
+    ],
+    "examples": [
+      "Ik hoop dat we elkaar gauw weer zien."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-11ba65852271",
+    "nl": "de trap",
+    "meanings": [
+      "stairs"
+    ],
+    "examples": [
+      "Ik neem altijd de trap naar de tweede verdieping."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-7a5198d24886",
+    "nl": "gek",
+    "meanings": [
+      "crazy / weird"
+    ],
+    "examples": [
+      "Dat is echt een heel gek idee!"
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-5ac741c22156",
+    "nl": "het blad",
+    "meanings": [
+      "sheet / leaf"
+    ],
+    "examples": [
+      "Schrijf je naam bovenaan op het blad papier."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-41ce4b07d17d",
+    "nl": "het spel",
+    "meanings": [
+      "game"
+    ],
+    "examples": [
+      "We spelen vanavond gezellig een bordspel."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-396ee989f794",
+    "nl": "de zak",
+    "meanings": [
+      "bag / pocket"
+    ],
+    "examples": [
+      "Er zit een klein gat in mijn broekzak."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-a564a7563a15",
+    "nl": "de borst",
+    "meanings": [
+      "chest"
+    ],
+    "examples": [
+      "Hij drukte de baby zachtjes tegen zijn borst."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-34d8c19c576f",
+    "nl": "de fles",
+    "meanings": [
+      "bottle"
+    ],
+    "examples": [
+      "Zet de fles koude melk maar in de koelkast."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-4bfa34f67e6c",
+    "nl": "de grens",
+    "meanings": [
+      "border"
+    ],
+    "examples": [
+      "We passeren zo meteen met de auto de grens."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-706f9ef4d5a3",
+    "nl": "de hoek",
+    "meanings": [
+      "corner"
+    ],
+    "examples": [
+      "De warme bakker zit om de hoek."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-cd2452db7d58",
+    "nl": "de oom",
+    "meanings": [
+      "uncle"
+    ],
+    "examples": [
+      "Mijn oom en tante komen vanmiddag op bezoek."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-1f5e952505ee",
+    "nl": "vlak",
+    "meanings": [
+      "flat"
+    ],
+    "examples": [
+      "Het Nederlandse landschap is heel vlak."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-845981a90f55",
+    "nl": "de buurt",
+    "meanings": [
+      "neighborhood"
+    ],
+    "examples": [
+      "Wij wonen in een rustige en prettige buurt."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-9b4e601776d0",
+    "nl": "ruim",
+    "meanings": [
+      "spacious"
+    ],
+    "examples": [
+      "Dit appartement heeft een ruime woonkamer."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-fb9cada92597",
+    "nl": "blij",
+    "meanings": [
+      "happy / glad"
+    ],
+    "examples": [
+      "Ik ben heel blij met je attente hulp."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-1f9d638c5690",
+    "nl": "het eten",
+    "meanings": [
+      "food / to eat"
+    ],
+    "examples": [
+      "Het eten in dit restaurant smaakt heerlijk."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-98a489cc96c9",
+    "nl": "het stof",
+    "meanings": [
+      "dust / fabric"
+    ],
+    "examples": [
+      "Er ligt een laagje stof op de oude kast."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-d137d43ec26c",
+    "nl": "het gat",
+    "meanings": [
+      "hole"
+    ],
+    "examples": [
+      "Er zit een klein gaatje in mijn wollen sok."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-b117956b783c",
+    "nl": "de boer",
+    "meanings": [
+      "farmer"
+    ],
+    "examples": [
+      "De boer heeft twintig koeien op zijn boerderij."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-9f0686a5bcd7",
+    "nl": "de reis",
+    "meanings": [
+      "trip / journey"
+    ],
+    "examples": [
+      "We wensen je een hele goede reis naar huis."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-63e00133baf5",
+    "nl": "de druk",
+    "meanings": [
+      "busy",
+      "pressure"
+    ],
+    "examples": [
+      "De supermarkt is vandaag ontzettend druk.",
+      "Er staat voldoende druk op de waterleiding."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-df14f40cc4fc",
+    "nl": "vlug / snel",
+    "meanings": [
+      "quickly"
+    ],
+    "examples": [
+      "Kom vlug binnen, want het begint te regenen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-a4e7ed39eb94",
+    "nl": "de schuld",
+    "meanings": [
+      "debt / fault"
+    ],
+    "examples": [
+      "Het was niet jouw schuld dat het fout ging."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-ec00098e6609",
+    "nl": "leuk",
+    "meanings": [
+      "fun / nice"
+    ],
+    "examples": [
+      "We hebben gisteren een heel leuke dag gehad."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-d1dfaaa0db57",
+    "nl": "de bloem",
+    "meanings": [
+      "flower / flour"
+    ],
+    "examples": [
+      "Zij plukte een gele bloem in het veld."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-56f6169e1102",
+    "nl": "de huisarts",
+    "meanings": [
+      "general practitioner / doctor"
+    ],
+    "examples": [
+      "Ik heb vanochtend een afspraak bij de huisarts."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-133a98e0e51e",
+    "nl": "fijn",
+    "meanings": [
+      "nice / pleasant"
+    ],
+    "examples": [
+      "Fijn weekend en geniet van je vrije dagen!"
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-eef8b9fd5d43",
+    "nl": "links",
+    "meanings": [
+      "left"
+    ],
+    "examples": [
+      "Sla bij het stoplicht meteen linksaf."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-193136c8ffd4",
+    "nl": "de plek",
+    "meanings": [
+      "place / spot"
+    ],
+    "examples": [
+      "Dit is een heerlijke en rustige plek om te lezen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-8842a870d636",
+    "nl": "niks",
+    "meanings": [
+      "nothing"
+    ],
+    "examples": [
+      "Er is helemaal niks aan de hand, maak je geen zorgen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-976d0dcab798",
+    "nl": "de tand",
+    "meanings": [
+      "tooth"
+    ],
+    "examples": [
+      "Vergeet niet om je tanden te poetsen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-1c1c65e8f2de",
+    "nl": "de rand",
+    "meanings": [
+      "edge"
+    ],
+    "examples": [
+      "Zet het glas niet te dicht bij de rand van de tafel."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-4d2d1dfcb8d0",
+    "nl": "het bos",
+    "meanings": [
+      "forest / woods"
+    ],
+    "examples": [
+      "We maken een lange wandeling door het bos."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-521fe5c9ece1",
+    "nl": "de rust",
+    "meanings": [
+      "peace / calm"
+    ],
+    "examples": [
+      "Na een drukke werkdag geniet ik van de rust."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-71460e2b0049",
+    "nl": "de kring",
+    "meanings": [
+      "circle"
+    ],
+    "examples": [
+      "De kinderen zaten in een grote kring op de grond."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-521c1528cf2f",
+    "nl": "grijs",
+    "meanings": [
+      "gray"
+    ],
+    "examples": [
+      "De lucht ziet er vandaag donker en grijs uit."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-2587cec1562f",
+    "nl": "de haast",
+    "meanings": [
+      "rush / hurry"
+    ],
+    "examples": [
+      "Ik heb een beetje haast om de trein te halen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-6adb542ff51c",
+    "nl": "het vlees",
+    "meanings": [
+      "meat"
+    ],
+    "examples": [
+      "Eet jij vanavond vis of vlees bij de groenten?"
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-d8b0a188279d",
+    "nl": "de eis",
+    "meanings": [
+      "demand / requirement"
+    ],
+    "examples": [
+      "Voldoen aan deze veiligheidseisen is verplicht."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-24c6931680f5",
+    "nl": "de streek",
+    "meanings": [
+      "region / area"
+    ],
+    "examples": [
+      "Dit is een hele mooie en groene streek."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-dd0625938959",
+    "nl": "de smaak",
+    "meanings": [
+      "taste / flavor"
+    ],
+    "examples": [
+      "De smaak van deze zelfgemaakte soep is heerlijk."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-8359f78e7109",
+    "nl": "de traan",
+    "meanings": [
+      "tear"
+    ],
+    "examples": [
+      "Er rolde een warme traan over haar wang."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-99735bd80246",
+    "nl": "de rij",
+    "meanings": [
+      "queue / line / row"
+    ],
+    "examples": [
+      "Er stond een lange rij voor de kassa."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-600b861067c1",
+    "nl": "het spoor",
+    "meanings": [
+      "track / train platform"
+    ],
+    "examples": [
+      "De trein naar Den Haag vertrekt vanaf spoor 4."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-3547cb112ac4",
+    "nl": "de last",
+    "meanings": [
+      "burden / trouble"
+    ],
+    "examples": [
+      "Heb je veel last van die harde muziek?"
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-a29a8b8314be",
+    "nl": "smal",
+    "meanings": [
+      "narrow"
+    ],
+    "examples": [
+      "De oude brug over de gracht is vrij smal."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-6558838331b7",
+    "nl": "het slot",
+    "meanings": [
+      "lock / castle / ending"
+    ],
+    "examples": [
+      "Ik steek de fietssleutel in het slot."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-a312332b83bf",
+    "nl": "zwak",
+    "meanings": [
+      "weak"
+    ],
+    "examples": [
+      "De zieke patiënt voelt zich nog een beetje zwak."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-34e8d549bc91",
+    "nl": "de geur",
+    "meanings": [
+      "smell / scent"
+    ],
+    "examples": [
+      "De geur van verse koffie vult de keuken."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-adff7a76b217",
+    "nl": "de buik",
+    "meanings": [
+      "stomach / belly"
+    ],
+    "examples": [
+      "Het kind had buikpijn na het eten van te veel snoep."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-7f0253236396",
+    "nl": "flink",
+    "meanings": [
+      "hefty / substantial"
+    ],
+    "examples": [
+      "We hebben vandaag een flinke wandeling gemaakt."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-648b793f805e",
+    "nl": "de beurt",
+    "meanings": [
+      "turn"
+    ],
+    "examples": [
+      "Wie is er nu aan de beurt bij de balie?"
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-962192edf60d",
+    "nl": "de wangen",
+    "meanings": [
+      "cheeks"
+    ],
+    "examples": [
+      "Zijn wangen waren rood van de frisse buitenlucht."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-2c2b76080bad",
+    "nl": "de rook",
+    "meanings": [
+      "smoke"
+    ],
+    "examples": [
+      "Er kwam grijze rook uit de schoorsteen."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-edf5e73441f8",
+    "nl": "de slag",
+    "meanings": [
+      "battle / stroke / blow"
+    ],
+    "examples": [
+      "Zij gaan morgen meteen aan de slag met het werk."
+    ],
+    "decks": [
+      "Medium 2"
+    ]
+  },
+  {
+    "id": "word-beeafb3ceb5d",
+    "nl": "de sfeer",
+    "meanings": [
+      "ambiance / atmosphere"
+    ],
+    "examples": [
+      "Er hing een hele gezellige sfeer in het café."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-aac6544421ee",
+    "nl": "de bron",
+    "meanings": [
+      "source / fountain"
+    ],
+    "examples": [
+      "De rivier ontspringt bij een natuurlijke bron."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-3f97b6b0901f",
+    "nl": "droog",
+    "meanings": [
+      "dry"
+    ],
+    "examples": [
+      "Hang de natte handdoek op zodat hij droog wordt."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-723eb5074aa9",
+    "nl": "het bord",
+    "meanings": [
+      "plate / sign"
+    ],
+    "examples": [
+      "Er ligt lekker eten op je bord."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-56d7d3888851",
+    "nl": "de jeugd",
+    "meanings": [
+      "youth"
+    ],
+    "examples": [
+      "Zij heeft een hele gelukkige jeugd gehad."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-006b37c4daf9",
+    "nl": "schoon",
+    "meanings": [
+      "clean"
+    ],
+    "examples": [
+      "De keuken is weer netjes en schoon."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-d6dba7e8a54d",
+    "nl": "de keel",
+    "meanings": [
+      "throat"
+    ],
+    "examples": [
+      "Ik heb een beetje keelpijn van het koude weer."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-43729710aeaf",
+    "nl": "het pak",
+    "meanings": [
+      "business suit / package"
+    ],
+    "examples": [
+      "Hij draagt een net pak naar het sollicitatiegesprek."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-1beb68fbd75e",
+    "nl": "de broek",
+    "meanings": [
+      "pants / trousers"
+    ],
+    "examples": [
+      "Deze blauwe spijkerbroek zit erg comfortabel."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-625fe74cad46",
+    "nl": "de golf",
+    "meanings": [
+      "wave"
+    ],
+    "examples": [
+      "De hoge golven slaan tegen het strand."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-63d59737bfde",
+    "nl": "het lichaam",
+    "meanings": [
+      "body"
+    ],
+    "examples": [
+      "Regelmatig bewegen is gezond voor je lichaam."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-5dd80a5b8d36",
+    "nl": "de groei",
+    "meanings": [
+      "growth"
+    ],
+    "examples": [
+      "We zien een snelle groei van het jonge plantje."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-d919a100ce6b",
+    "nl": "nat",
+    "meanings": [
+      "wet"
+    ],
+    "examples": [
+      "Mijn kleren zijn nat geworden van de zware regen."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-26925b585687",
+    "nl": "duur",
+    "meanings": [
+      "expensive"
+    ],
+    "examples": [
+      "Die nieuwe jas in de etalage is erg duur."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-02750c9c6b14",
+    "nl": "het feest",
+    "meanings": [
+      "party / celebration"
+    ],
+    "examples": [
+      "We vieren zaterdagavond een groot verjaardagsfeest."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-e00ecd7d3d0d",
+    "nl": "de reeks",
+    "meanings": [
+      "series / row"
+    ],
+    "examples": [
+      "De schrijver publiceerde een hele reeks boeken."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-31fa1dc26c2e",
+    "nl": "strak",
+    "meanings": [
+      "tight / rigid"
+    ],
+    "examples": [
+      "Deze nieuwe leren schoenen zitten me iets te strak."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-0c3f49f1df5d",
+    "nl": "het kleed",
+    "meanings": [
+      "carpet / rug / blanket"
+    ],
+    "examples": [
+      "Er ligt een warm kleed op de vloer bij de bank."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-5b6aaf8a9d51",
+    "nl": "de vlucht",
+    "meanings": [
+      "flight"
+    ],
+    "examples": [
+      "Onze vlucht naar Spanje vertrekt over twee uur."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-7fd357322a67",
+    "nl": "het dak",
+    "meanings": [
+      "roof"
+    ],
+    "examples": [
+      "Er zitten drie duiven op het rode dak."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-92f340fd44a4",
+    "nl": "de hals",
+    "meanings": [
+      "neck"
+    ],
+    "examples": [
+      "Zij draagt een zilveren ketting om haar hals."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-733f4f22a285",
+    "nl": "geel",
+    "meanings": [
+      "yellow"
+    ],
+    "examples": [
+      "Zonnebloemen hebben prachtige gele bladeren."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-1c54c26e4e7e",
+    "nl": "streng",
+    "meanings": [
+      "strict"
+    ],
+    "examples": [
+      "De leraar op de basisschool was vroeger erg streng."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-4b6f50ec6e06",
+    "nl": "moe",
+    "meanings": [
+      "tired"
+    ],
+    "examples": [
+      "Na een lange dag hard werken ben ik heel erg moe."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-27065e758a1e",
+    "nl": "het geloof",
+    "meanings": [
+      "faith / belief"
+    ],
+    "examples": [
+      "Geloof in jezelf is belangrijk om te slagen."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-2959bb1215ae",
+    "nl": "de tak",
+    "meanings": [
+      "branch"
+    ],
+    "examples": [
+      "Er brak een dikke tak van de boom tijdens de storm."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-1eb4b9186adc",
+    "nl": "kwijt",
+    "meanings": [
+      "lost"
+    ],
+    "examples": [
+      "Ik ben mijn fietssleutel ergens op straat kwijt."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-8e9daa4d39ce",
+    "nl": "de zaal",
+    "meanings": [
+      "hall / large room"
+    ],
+    "examples": [
+      "Er zitten honderd bezoekers in de bioscoopzaal."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-a304d2237a2a",
+    "nl": "de greep",
+    "meanings": [
+      "grip"
+    ],
+    "examples": [
+      "Hij hield stevige greep op het stuur van de fiets."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-e2abd17b5d90",
+    "nl": "boos",
+    "meanings": [
+      "angry"
+    ],
+    "examples": [
+      "Waarom ben je zo boos op je kleine broertje?"
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-01d45e8f4ba8",
+    "nl": "de brug",
+    "meanings": [
+      "bridge"
+    ],
+    "examples": [
+      "De brug over de rivier gaat open voor een groot schip."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-0d563256b074",
+    "nl": "het vak",
+    "meanings": [
+      "field / subject / compartment"
+    ],
+    "examples": [
+      "Wiskunde was op school mijn favoriete vak."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-c71e2d9d4d0b",
+    "nl": "het strand",
+    "meanings": [
+      "beach"
+    ],
+    "examples": [
+      "De kinderen bouwen mooie zandkastelen op het strand."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-8f15156bc594",
+    "nl": "de fout",
+    "meanings": [
+      "mistake / error"
+    ],
+    "examples": [
+      "Het is niet erg om een kleine taalfout te maken."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-b7cf0ab84343",
+    "nl": "de moed",
+    "meanings": [
+      "courage"
+    ],
+    "examples": [
+      "Hij verzamelde al zijn moed om de waarheid te vertellen."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-094fbbc94920",
+    "nl": "de jas",
+    "meanings": [
+      "jacket / coat"
+    ],
+    "examples": [
+      "Trek je warme jas aan, want het vriest buiten."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-a3fa5da0e97c",
+    "nl": "de trots",
+    "meanings": [
+      "pride"
+    ],
+    "examples": [
+      "Haar ouders keken met grote trots naar haar diploma."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-5a82956b84ac",
+    "nl": "zoet",
+    "meanings": [
+      "sweet"
+    ],
+    "examples": [
+      "Rijpe aardbeien smaken heerlijk zoet."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-8bd7758180ab",
+    "nl": "de fiets",
+    "meanings": [
+      "bicycle / bike"
+    ],
+    "examples": [
+      "In Nederland rijdt bijna iedereen op de fiets."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-d7c7225bb69e",
+    "nl": "de wolk",
+    "meanings": [
+      "cloud"
+    ],
+    "examples": [
+      "Er drijft geen enkel wolkje aan de strakblauwe lucht."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-d76953719022",
+    "nl": "de kast",
+    "meanings": [
+      "closet / cupboard"
+    ],
+    "examples": [
+      "Hang je kleren netjes op in de kledingkast."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-4699a4fa4a5a",
+    "nl": "de klap",
+    "meanings": [
+      "blow / clap / bang"
+    ],
+    "examples": [
+      "We hoorden een harde klap toen de deur dichtsloeg."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-c3f7556ad570",
+    "nl": "de stroom",
+    "meanings": [
+      "flow / electricity"
+    ],
+    "examples": [
+      "Er staat gelukkig weer veilige stroom op het stopcontact."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-99c1f106cf17",
+    "nl": "de winst",
+    "meanings": [
+      "profit / gain"
+    ],
+    "examples": [
+      "Het kleine bedrijf maakte dit jaar een mooie winst."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-9a7078c3f2ee",
+    "nl": "knap",
+    "meanings": [
+      "good looking / smart"
+    ],
+    "examples": [
+      "Hij vond een hele knappe oplossing voor de puzzel."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-a4f710705df0",
+    "nl": "de straf",
+    "meanings": [
+      "punishment"
+    ],
+    "examples": [
+      "De stoute jongen kreeg huisarrest als straf."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-5561a3cec62a",
+    "nl": "langzaam",
+    "meanings": [
+      "slow"
+    ],
+    "examples": [
+      "Rij alsjeblieft langzaam in deze drukke woonwijk."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-7e9653bd0c04",
+    "nl": "de boog",
+    "meanings": [
+      "bow / arch"
+    ],
+    "examples": [
+      "We zagen een kleurrijke regenboog na de bui."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-7db23ada06d6",
+    "nl": "een poos",
+    "meanings": [
+      "a while"
+    ],
+    "examples": [
+      "We hebben een poosje gewacht op de bus."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-7c9547aadf0f",
+    "nl": "strekken",
+    "meanings": [
+      "to stretch"
+    ],
+    "examples": [
+      "Even de benen strekken na een lange autorit doet goed."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-04a9fba2f0c4",
+    "nl": "de brand",
+    "meanings": [
+      "fire"
+    ],
+    "examples": [
+      "De dappere brandweer bluste direct de uitslaande brand."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-4c0c7a08d702",
+    "nl": "dwars",
+    "meanings": [
+      "transverse / across"
+    ],
+    "examples": [
+      "De hond rende dwars door de mooie bloementuin."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-9263b18de22d",
+    "nl": "de kist",
+    "meanings": [
+      "chest / wooden box"
+    ],
+    "examples": [
+      "In de kelder staat een oude houten kist vol boeken."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-04224b1d2fb4",
+    "nl": "de wand",
+    "meanings": [
+      "wall / partition"
+    ],
+    "examples": [
+      "We schilderen de binnenste wand van de kamer wit."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-acfd1606de27",
+    "nl": "de klacht",
+    "meanings": [
+      "complaint"
+    ],
+    "examples": [
+      "De klant diende een formele klacht in over de trage service."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-6108d356d9c1",
+    "nl": "het stuur",
+    "meanings": [
+      "steering wheel / handlebars"
+    ],
+    "examples": [
+      "Houd altijd beide handen stevig aan het stuur."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-65e2d70166c9",
+    "nl": "de kern",
+    "meanings": [
+      "core / nucleus"
+    ],
+    "examples": [
+      "Dat raakt precies de kern van het probleem."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-f13f8e16a9f7",
+    "nl": "het leer",
+    "meanings": [
+      "leather"
+    ],
+    "examples": [
+      "Deze degelijke schoenen zijn gemaakt van echt leer."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-97f7f46124a7",
+    "nl": "het liefst",
+    "meanings": [
+      "most preferably / rather"
+    ],
+    "examples": [
+      "Ik drink 's ochtends het liefst een warme cappuccino."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-af03ef0c8c28",
+    "nl": "de jurk",
+    "meanings": [
+      "dress"
+    ],
+    "examples": [
+      "Zij draagt een hele elegante rode jurk naar het feest."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-13c55171a015",
+    "nl": "de troep",
+    "meanings": [
+      "mess / junk"
+    ],
+    "examples": [
+      "Ruim je rondslingerende troep op voor het slapengaan."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-2bd816eae894",
+    "nl": "sturen",
+    "meanings": [
+      "to send / to steer"
+    ],
+    "examples": [
+      "Ik zal je vanmiddag even een berichtje sturen."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-7b7abb6e7e84",
+    "nl": "de tocht",
+    "meanings": [
+      "tour / trip / draft"
+    ],
+    "examples": [
+      "We fietsten een prachtige en ontspannen tocht langs het meer."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-f1308241eb02",
+    "nl": "het mes",
+    "meanings": [
+      "knife"
+    ],
+    "examples": [
+      "Dit scherpe keukenmes snijdt heel makkelijk door brood."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-0995f756830c",
+    "nl": "de maat",
+    "meanings": [
+      "measure / size"
+    ],
+    "examples": [
+      "Welke maat schoenen heb jij precies?"
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-7b6f5bd67b64",
+    "nl": "de poot",
+    "meanings": [
+      "leg (animal / furniture)"
+    ],
+    "examples": [
+      "De houten poot van de eettafel staat een beetje scheef."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-aa7ff82f4935",
+    "nl": "de vent",
+    "meanings": [
+      "guy / fellow"
+    ],
+    "examples": [
+      "Hij is echt een hele aardige en betrouwbare vent."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-8310a7982323",
+    "nl": "de maag",
+    "meanings": [
+      "stomach"
+    ],
+    "examples": [
+      "Mijn maag knort van de honger."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-26426400be2f",
+    "nl": "het lijk",
+    "meanings": [
+      "corpse / body"
+    ],
+    "examples": [
+      "De rechercheurs vonden het lijk in de oude schuur."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-13609d74cc8e",
+    "nl": "de eer",
+    "meanings": [
+      "honor"
+    ],
+    "examples": [
+      "Het was me een waar genoegen en grote eer u te ontmoeten."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-637c02d71a2b",
+    "nl": "de doos",
+    "meanings": [
+      "box / carton"
+    ],
+    "examples": [
+      "We pakken alle spullen in een stevige kartonnen doos."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-cfaa955ced55",
+    "nl": "de vrucht",
+    "meanings": [
+      "fruit"
+    ],
+    "examples": [
+      "De appel is een hele gezonde en smaakvolle vrucht."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-e126893893b4",
+    "nl": "klein",
+    "meanings": [
+      "small / little"
+    ],
+    "examples": [
+      "Zij wonen gezellig in een klein huisje met een tuin."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  },
+  {
+    "id": "word-65475a50fdf0",
+    "nl": "makkelijk",
+    "meanings": [
+      "easy"
+    ],
+    "examples": [
+      "Deze eerste Nederlandse oefening is heel erg makkelijk."
+    ],
+    "decks": [
+      "Medium 3"
+    ]
+  }
+]

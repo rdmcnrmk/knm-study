@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "articles",
+    "title": "Articles",
+    "nl": "Lidwoorden",
+    "summary": "Choose de, het or een, and learn nouns together with their article.",
+    "sections": [
+      {
+        "title": "De and het",
+        "text": "Both mean “the”. Use de with common-gender nouns and all definite plurals. Use het with neuter singular nouns and singular diminutives. Learn the article as part of each noun; a word merely ending in the letters je is not automatically a diminutive."
+      },
+      {
+        "title": "Een and no article",
+        "text": "Een means “a/an” and is normally unstressed. It works with singular countable de- and het-words. There is no indefinite plural article. General uncountable nouns often appear without an article; specific ones can take an article."
+      }
+    ],
+    "headers": [
+      "Category",
+      "Definite",
+      "Indefinite"
+    ],
+    "rows": [
+      [
+        "Common singular",
+        "de cursus",
+        "een cursus"
+      ],
+      [
+        "Neuter singular",
+        "het boek",
+        "een boek"
+      ],
+      [
+        "Diminutive singular",
+        "het rondje",
+        "een rondje"
+      ],
+      [
+        "Plural",
+        "de boeken",
+        "boeken"
+      ],
+      [
+        "Uncountable",
+        "de rode wijn (specific)",
+        "rode wijn (general)"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Ik lees een boek.",
+        "en": "I am reading a book."
+      },
+      {
+        "nl": "De boeken liggen op tafel.",
+        "en": "The books are on the table."
+      },
+      {
+        "nl": "Ik drink rode wijn.",
+        "en": "I drink red wine."
+      }
+    ],
+    "tips": [
+      "Learn het huis, not just huis.",
+      "A singular diminutive takes het; its plural takes de: het huisje → de huisjes."
+    ],
+    "quiz": [
+      {
+        "prompt": "___ boeken liggen hier.",
+        "options": [
+          "Het",
+          "De",
+          "Een"
+        ],
+        "correct": 1,
+        "explanation": "All definite plural nouns take de."
+      },
+      {
+        "prompt": "Choose the singular diminutive.",
+        "options": [
+          "de huisje",
+          "het huisje",
+          "het huizen"
+        ],
+        "correct": 1,
+        "explanation": "Huisje is a singular diminutive, so it takes het."
+      }
+    ]
+  },
+  {
+    "id": "personal",
+    "title": "Personal pronouns",
+    "nl": "Persoonlijke voornaamwoorden",
+    "summary": "Choose the subject: who is doing the action?",
+    "sections": [
+      {
+        "title": "Subject forms",
+        "text": "Subject pronouns replace the person or thing doing the action. Zij/ze can mean “she” or “they”; the verb and context show which one."
+      },
+      {
+        "title": "Emphasis and politeness",
+        "text": "Jij, wij and zij are useful for emphasis or contrast; je, we and ze are common neutral forms in speech and writing. Use u for polite address, with a singular verb even when addressing several people. Jullie is informal plural. Forms such as ’k and -ie are mainly colloquial."
+      }
+    ],
+    "headers": [
+      "Meaning",
+      "Subject",
+      "Neutral/reduced"
+    ],
+    "rows": [
+      [
+        "I",
+        "ik",
+        "’k (colloquial)"
+      ],
+      [
+        "you (singular)",
+        "jij",
+        "je"
+      ],
+      [
+        "you (polite)",
+        "u",
+        "u"
+      ],
+      [
+        "he",
+        "hij",
+        "-ie (colloquial)"
+      ],
+      [
+        "she",
+        "zij",
+        "ze"
+      ],
+      [
+        "it",
+        "het",
+        "’t"
+      ],
+      [
+        "we",
+        "wij",
+        "we"
+      ],
+      [
+        "you (plural)",
+        "jullie",
+        "jullie"
+      ],
+      [
+        "they",
+        "zij",
+        "ze"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Ik woon in Nederland, en jij?",
+        "en": "I live in the Netherlands, and you?"
+      },
+      {
+        "nl": "We luisteren naar de tekst.",
+        "en": "We listen to the text."
+      },
+      {
+        "nl": "Waar woont u?",
+        "en": "Where do you live? (polite)"
+      },
+      {
+        "nl": "Ze woont hier. / Ze wonen hier.",
+        "en": "She lives here. / They live here."
+      }
+    ],
+    "tips": [
+      "Use the full form when contrasting people: jij, not je.",
+      "Zij is not always plural: check woont versus wonen."
+    ],
+    "quiz": [
+      {
+        "prompt": "___ luisteren naar de tekst.",
+        "options": [
+          "Wij",
+          "Hij",
+          "Ik"
+        ],
+        "correct": 0,
+        "explanation": "Wij is plural and takes luisteren."
+      },
+      {
+        "prompt": "Which form addresses several friends?",
+        "options": [
+          "jullie",
+          "hij",
+          "het"
+        ],
+        "correct": 0,
+        "explanation": "Jullie means informal plural “you”."
+      }
+    ]
+  },
+  {
+    "id": "possessive",
+    "title": "Possessive pronouns",
+    "nl": "Bezittelijke voornaamwoorden",
+    "summary": "Say whose something is, and choose ons or onze.",
+    "sections": [
+      {
+        "title": "Possessives before a noun",
+        "text": "Use mijn, je/jouw, uw, zijn, haar, ons/onze, jullie or hun before the thing owned. The noun being owned determines ons versus onze, not the owner."
+      },
+      {
+        "title": "Ons or onze",
+        "text": "Use ons before a singular het-word: ons huis. Use onze before a singular de-word and before all plural nouns: onze docent, onze huizen."
+      },
+      {
+        "title": "Other ways to express ownership",
+        "text": "Use van + name/object pronoun: het boek van Anna; het boek is van haar. Names normally take a joined -s (Jans boek). After a long vowel written as one letter, use apostrophe + s (Anna’s boek, Felicia’s boek). After an s-sound, use only an apostrophe (Kees’ boek)."
+      }
+    ],
+    "headers": [
+      "Subject",
+      "Possessive",
+      "English"
+    ],
+    "rows": [
+      [
+        "ik",
+        "mijn / m’n",
+        "my"
+      ],
+      [
+        "jij",
+        "je / jouw (emphatic)",
+        "your"
+      ],
+      [
+        "u",
+        "uw",
+        "your (polite)"
+      ],
+      [
+        "hij",
+        "zijn",
+        "his"
+      ],
+      [
+        "zij (singular)",
+        "haar",
+        "her"
+      ],
+      [
+        "wij",
+        "ons / onze",
+        "our"
+      ],
+      [
+        "jullie",
+        "jullie / je (context)",
+        "your (plural)"
+      ],
+      [
+        "zij (plural)",
+        "hun",
+        "their"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Ons adres is hier.",
+        "en": "Our address is here."
+      },
+      {
+        "nl": "Onze docent komt uit Nederland.",
+        "en": "Our teacher comes from the Netherlands."
+      },
+      {
+        "nl": "Het boek is van haar.",
+        "en": "The book is hers."
+      }
+    ],
+    "tips": [
+      "Je can mean “you” or “your”: check its role in the sentence.",
+      "Uw is possessive; u is a subject or object pronoun."
+    ],
+    "quiz": [
+      {
+        "prompt": "___ huis is groot.",
+        "options": [
+          "Onze",
+          "Ons",
+          "Wij"
+        ],
+        "correct": 1,
+        "explanation": "Huis is a singular het-word: ons huis."
+      },
+      {
+        "prompt": "___ kinderen zijn thuis.",
+        "options": [
+          "Ons",
+          "Onze",
+          "Wij"
+        ],
+        "correct": 1,
+        "explanation": "All plural nouns take onze."
+      }
+    ]
+  },
+  {
+    "id": "object",
+    "title": "Object pronouns",
+    "nl": "Objectvoornaamwoorden",
+    "summary": "Use mij, jou, hem, haar, het, ons and ze as objects.",
+    "sections": [
+      {
+        "title": "Subject versus object",
+        "text": "Use object forms for the person receiving an action and after a preposition: ik → mij/me, jij → jou/je, hij → hem, zij → haar, wij → ons. Full forms carry emphasis; reduced forms are often neutral."
+      },
+      {
+        "title": "Referring to things",
+        "text": "For many singular de-words, Dutch uses hij/hem: de trui → ik koop hem. Het-words use het: het boek → ik lees het. Some feminine nouns take zij/haar; natural gender and usage matter. Plural things use ze."
+      },
+      {
+        "title": "Hen, hun and ze",
+        "text": "For people, the traditional written rule uses hen as direct object and after a preposition, and hun as indirect object without a preposition. Unstressed ze is often a natural alternative in both object roles. Do not use hun as a standard subject pronoun."
+      }
+    ],
+    "headers": [
+      "Subject",
+      "Object",
+      "English"
+    ],
+    "rows": [
+      [
+        "ik",
+        "mij / me",
+        "me"
+      ],
+      [
+        "jij",
+        "jou / je",
+        "you"
+      ],
+      [
+        "u",
+        "u",
+        "you (polite)"
+      ],
+      [
+        "hij",
+        "hem",
+        "him"
+      ],
+      [
+        "zij (singular)",
+        "haar",
+        "her"
+      ],
+      [
+        "het",
+        "het",
+        "it"
+      ],
+      [
+        "wij",
+        "ons",
+        "us"
+      ],
+      [
+        "jullie",
+        "jullie",
+        "you (plural)"
+      ],
+      [
+        "zij (people)",
+        "hen / hun / ze",
+        "them"
+      ],
+      [
+        "zij (things)",
+        "ze",
+        "them"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Kunt u mij helpen?",
+        "en": "Can you help me?"
+      },
+      {
+        "nl": "Mijn buurman praat met mij.",
+        "en": "My neighbour talks to me."
+      },
+      {
+        "nl": "Waar is het boek? Ik zie het niet.",
+        "en": "Where is the book? I do not see it."
+      },
+      {
+        "nl": "Ik koop tomaten. Ik koop ze op de markt.",
+        "en": "I buy tomatoes. I buy them at the market."
+      }
+    ],
+    "tips": [
+      "Use jou after a preposition: met jou. Jouw means “your”.",
+      "For plural things, use ze rather than hen."
+    ],
+    "quiz": [
+      {
+        "prompt": "Mijn buurman praat met ___.",
+        "options": [
+          "ik",
+          "mij",
+          "mijn"
+        ],
+        "correct": 1,
+        "explanation": "After met, use an object form: mij."
+      },
+      {
+        "prompt": "Waar is het boek? Ik lees ___.",
+        "options": [
+          "hem",
+          "haar",
+          "het"
+        ],
+        "correct": 2,
+        "explanation": "Het boek is a het-word, so the pronoun is het."
+      }
+    ]
+  },
+  {
+    "id": "regular",
+    "title": "Regular verbs",
+    "nl": "Regelmatige werkwoorden",
+    "summary": "Build the present tense from the stem and use the finite verb in the right place.",
+    "sections": [
+      {
+        "title": "Build the stem",
+        "text": "Start from the infinitive without -en and adjust spelling: wonen → woon, maken → maak, werken → werk, leven → leef, reizen → reis. Preserve the vowel sound and standard spelling."
+      },
+      {
+        "title": "Present tense",
+        "text": "Ik uses the stem. Jij/je, u and hij/zij/het normally use stem + t. If the stem already ends in t, do not add another t. All plural subjects use the infinitive."
+      },
+      {
+        "title": "Inversion",
+        "text": "When jij/je is the subject after the finite verb, drop the added -t: jij werkt → werk jij? Keep a t belonging to the stem: jij zit → zit jij? U keeps the usual ending: werkt u? In a declarative main clause, the finite verb is in the second constituent position."
+      }
+    ],
+    "headers": [
+      "Subject",
+      "Pattern",
+      "Luisteren"
+    ],
+    "rows": [
+      [
+        "ik",
+        "stem",
+        "ik luister"
+      ],
+      [
+        "jij / je",
+        "stem + t",
+        "jij luistert"
+      ],
+      [
+        "u",
+        "stem + t",
+        "u luistert"
+      ],
+      [
+        "hij / zij / het",
+        "stem + t",
+        "hij luistert"
+      ],
+      [
+        "wij / jullie / zij",
+        "infinitive",
+        "wij luisteren"
+      ],
+      [
+        "verb + jij/je",
+        "stem",
+        "luister je?"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Wij wonen nu in Nederland.",
+        "en": "We live in the Netherlands now."
+      },
+      {
+        "nl": "Waar woon je?",
+        "en": "Where do you live?"
+      },
+      {
+        "nl": "Woont u ook in Utrecht?",
+        "en": "Do you also live in Utrecht?"
+      }
+    ],
+    "tips": [
+      "Je must be the subject for the inversion rule: Werkt je vader? keeps -t because vader is the subject.",
+      "A second position is a sentence part, not necessarily the second word."
+    ],
+    "quiz": [
+      {
+        "prompt": "Morgen ___ je hier.",
+        "options": [
+          "werkt",
+          "werk",
+          "werken"
+        ],
+        "correct": 1,
+        "explanation": "The subject je follows the verb, so the added -t disappears."
+      },
+      {
+        "prompt": "___ u hier?",
+        "options": [
+          "Werk",
+          "Werkt",
+          "Werken"
+        ],
+        "correct": 1,
+        "explanation": "U keeps stem + t, including in questions."
+      }
+    ]
+  },
+  {
+    "id": "hebben-zijn",
+    "title": "Hebben & zijn",
+    "nl": "Hebben en zijn",
+    "summary": "Learn the irregular present forms of “to have” and “to be”.",
+    "sections": [
+      {
+        "title": "Irregular singular forms",
+        "text": "Memorise heb/hebt/heeft and ben/bent/is. Plurals are hebben and zijn. The polite u can take hebt or heeft; with zijn, use bent."
+      },
+      {
+        "title": "Questions and inversion",
+        "text": "Jij hebt → heb jij? Jij bent → ben jij? The ending -t disappears with subject jij/je after the verb. It stays with u: hebt u? bent u?"
+      }
+    ],
+    "headers": [
+      "Subject",
+      "Hebben",
+      "Zijn"
+    ],
+    "rows": [
+      [
+        "ik",
+        "heb",
+        "ben"
+      ],
+      [
+        "jij / je",
+        "hebt",
+        "bent"
+      ],
+      [
+        "u",
+        "hebt / heeft",
+        "bent"
+      ],
+      [
+        "hij / zij / het",
+        "heeft",
+        "is"
+      ],
+      [
+        "wij / we",
+        "hebben",
+        "zijn"
+      ],
+      [
+        "jullie",
+        "hebben",
+        "zijn"
+      ],
+      [
+        "zij / ze (plural)",
+        "hebben",
+        "zijn"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Ik ben Suzie.",
+        "en": "I am Suzie."
+      },
+      {
+        "nl": "Heeft iedereen het boek?",
+        "en": "Does everyone have the book?"
+      },
+      {
+        "nl": "Wanneer heb je pauze?",
+        "en": "When do you have a break?"
+      },
+      {
+        "nl": "Wie ben jij?",
+        "en": "Who are you?"
+      }
+    ],
+    "tips": [
+      "Iedereen is grammatically singular: iedereen heeft.",
+      "Learn these forms first: they also build the perfect tense."
+    ],
+    "quiz": [
+      {
+        "prompt": "Wie ___ jij?",
+        "options": [
+          "bent",
+          "ben",
+          "zijn"
+        ],
+        "correct": 1,
+        "explanation": "With jij after the verb, bent becomes ben."
+      },
+      {
+        "prompt": "Iedereen ___ het boek.",
+        "options": [
+          "hebben",
+          "heeft",
+          "heb"
+        ],
+        "correct": 1,
+        "explanation": "Iedereen takes the third-person singular form heeft."
+      }
+    ]
+  },
+  {
+    "id": "inversion",
+    "title": "Inversion",
+    "nl": "Inversie",
+    "summary": "Start with time or another element while keeping the finite verb second.",
+    "sections": [
+      {
+        "title": "The V2 rule",
+        "text": "In a declarative main clause the finite verb occupies position two. Position one can be the subject, a time expression, an object or another constituent. A whole phrase such as om elf uur counts as one constituent."
+      },
+      {
+        "title": "Move the subject after the verb",
+        "text": "When another constituent takes the first position, the subject follows the finite verb: Ik werk morgen → Morgen werk ik. This is inversion."
+      },
+      {
+        "title": "Questions have their own pattern",
+        "text": "A yes/no question starts with the finite verb: Werk je morgen? A question word can come first: Waar woon je? These are not exceptions to a rule for declarative main clauses; they are different sentence patterns."
+      }
+    ],
+    "headers": [
+      "First constituent",
+      "Finite verb",
+      "Subject",
+      "Rest"
+    ],
+    "rows": [
+      [
+        "Morgen",
+        "werk",
+        "ik",
+        "thuis."
+      ],
+      [
+        "Om elf uur",
+        "hebben",
+        "we",
+        "pauze."
+      ],
+      [
+        "Dat",
+        "weet",
+        "ik",
+        "niet."
+      ],
+      [
+        "Nu",
+        "wil",
+        "ik",
+        "koffie."
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Zondag is Jenny jarig.",
+        "en": "Jenny’s birthday is on Sunday."
+      },
+      {
+        "nl": "Dat weet ik niet.",
+        "en": "I do not know that."
+      },
+      {
+        "nl": "Morgen kom je hier.",
+        "en": "Tomorrow you are coming here."
+      }
+    ],
+    "tips": [
+      "Keep a whole phrase together: Om elf uur | hebben | we | pauze.",
+      "Drop the added -t when subject jij/je follows the verb."
+    ],
+    "quiz": [
+      {
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          "Morgen ik werk thuis.",
+          "Morgen werk ik thuis.",
+          "Morgen thuis ik werk."
+        ],
+        "correct": 1,
+        "explanation": "Morgen is first, werk second, then the subject ik."
+      },
+      {
+        "prompt": "___ hebben we pauze.",
+        "options": [
+          "Om elf uur",
+          "Om hebben",
+          "We om"
+        ],
+        "correct": 0,
+        "explanation": "The full time phrase counts as one constituent."
+      }
+    ]
+  },
+  {
+    "id": "sentence-order",
+    "title": "Time, manner & place",
+    "nl": "Tijd, manier en plaats",
+    "summary": "A useful neutral order for the middle of a Dutch sentence.",
+    "sections": [
+      {
+        "title": "A practical starting pattern",
+        "text": "After subject + finite verb, a common neutral sequence is time → manner/means/company → place/destination. Ask wanneer? hoe/met wie? waar/waarnaartoe?"
+      },
+      {
+        "title": "Use it as a guide, not an absolute law",
+        "text": "Dutch word order can change with emphasis, information structure and the type of phrase. A time phrase at the end is not automatically ungrammatical. These examples teach a reliable beginner pattern, not every possible order."
+      },
+      {
+        "title": "Combine it with the verb bracket",
+        "text": "With a modal or the perfect tense, the infinitive or participle normally comes after the middle: Ik wil morgen met de trein naar Utrecht gaan. If time is first, use inversion: Morgen ga ik met de trein naar Utrecht."
+      }
+    ],
+    "headers": [
+      "Subject + verb",
+      "Time",
+      "Manner / company",
+      "Place"
+    ],
+    "rows": [
+      [
+        "Ik ga",
+        "morgen",
+        "met de trein",
+        "naar Utrecht."
+      ],
+      [
+        "Ik fiets",
+        "na het werk",
+        "door de regen",
+        "naar huis."
+      ],
+      [
+        "Ik studeer",
+        "de hele dag",
+        "met mijn medecursisten",
+        "op school."
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Ik ga morgen met mijn vrienden naar het park.",
+        "en": "I am going to the park with my friends tomorrow."
+      },
+      {
+        "nl": "Morgen ga ik met de trein naar Utrecht.",
+        "en": "Tomorrow I am going to Utrecht by train."
+      },
+      {
+        "nl": "Ik fiets in de ochtend snel naar de supermarkt.",
+        "en": "I cycle quickly to the supermarket in the morning."
+      }
+    ],
+    "tips": [
+      "First build a short correct sentence, then add when, how and where.",
+      "Time–manner–place is a neutral default, not a test that makes every other order wrong."
+    ],
+    "quiz": [
+      {
+        "prompt": "Which phrase answers “hoe”?",
+        "options": [
+          "morgen",
+          "met de trein",
+          "naar Utrecht"
+        ],
+        "correct": 1,
+        "explanation": "Met de trein tells us the means of transport."
+      },
+      {
+        "prompt": "Choose the neutral beginner pattern.",
+        "options": [
+          "Ik ga morgen met de trein naar Utrecht.",
+          "Ik morgen ga met de trein naar Utrecht.",
+          "Ik morgen met de trein ga naar Utrecht."
+        ],
+        "correct": 0,
+        "explanation": "The finite verb ga is second; time, means and destination follow."
+      }
+    ]
+  },
+  {
+    "id": "modals",
+    "title": "Modal verbs",
+    "nl": "Modale werkwoorden",
+    "summary": "Express ability, permission, obligation, wishes and suggestions.",
+    "sections": [
+      {
+        "title": "Meaning",
+        "text": "Kunnen expresses ability or possibility; mogen permission; moeten necessity; willen a wish; zullen an offer, intention, promise or suggestion. Meaning depends on context."
+      },
+      {
+        "title": "Verb bracket",
+        "text": "Conjugate the modal in the normal finite-verb position and put the action verb in the infinitive at the end: Ik moet morgen werken. Do not add te after these modals."
+      },
+      {
+        "title": "When the action is understood",
+        "text": "Dutch can omit an obvious infinitive: Ik wil koffie (hebben/drinken). Ik moet naar de les (gaan). With hij/zij/het, modal forms do not gain a regular extra -t: hij wil, hij kan, hij mag, hij zal."
+      }
+    ],
+    "headers": [
+      "Subject",
+      "kunnen",
+      "mogen",
+      "moeten",
+      "willen",
+      "zullen"
+    ],
+    "rows": [
+      [
+        "ik",
+        "kan",
+        "mag",
+        "moet",
+        "wil",
+        "zal"
+      ],
+      [
+        "jij / je",
+        "kunt / kan",
+        "mag",
+        "moet",
+        "wilt / wil",
+        "zult / zal"
+      ],
+      [
+        "u",
+        "kunt / kan",
+        "mag",
+        "moet",
+        "wilt / wil",
+        "zult / zal"
+      ],
+      [
+        "hij / zij / het",
+        "kan",
+        "mag",
+        "moet",
+        "wil",
+        "zal"
+      ],
+      [
+        "wij / jullie / zij",
+        "kunnen",
+        "mogen",
+        "moeten",
+        "willen",
+        "zullen"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Mag ik u iets vragen?",
+        "en": "May I ask you something?"
+      },
+      {
+        "nl": "We moeten opdracht drie maken.",
+        "en": "We have to do exercise three."
+      },
+      {
+        "nl": "Zullen we bestellen?",
+        "en": "Shall we order?"
+      },
+      {
+        "nl": "Jullie kunnen daar zitten.",
+        "en": "You can sit there."
+      }
+    ],
+    "tips": [
+      "Hij wil is correct; hij wilt is not standard.",
+      "An infinitive stays intact after a modal: ik kan werken."
+    ],
+    "quiz": [
+      {
+        "prompt": "Hij ___ morgen werken.",
+        "options": [
+          "wilt",
+          "wil",
+          "willen"
+        ],
+        "correct": 1,
+        "explanation": "Third-person singular is hij wil, without an added -t."
+      },
+      {
+        "prompt": "Ik moet morgen ___.",
+        "options": [
+          "werk",
+          "werkt",
+          "werken"
+        ],
+        "correct": 2,
+        "explanation": "The action verb after a modal is an infinitive at the end."
+      }
+    ]
+  },
+  {
+    "id": "perfectum",
+    "title": "The perfect tense",
+    "nl": "Het perfectum",
+    "summary": "Use hebben or zijn plus a past participle to talk about completed events.",
+    "sections": [
+      {
+        "title": "Build a sentence",
+        "text": "Use a present form of hebben or zijn as the finite verb, plus a past participle at the end of a simple main clause: Ik heb gisteren gewerkt. English may translate this as “I worked” or “I have worked”, depending on context."
+      },
+      {
+        "title": "Regular participles",
+        "text": "Usually form ge- + correctly spelled stem + t/d. Use -t for voiceless final stem sounds represented by ’t kofschip (t, k, f, s, ch, p; also relevant loanword sounds such as sj). Otherwise use -d. Check the consonant before -en in the infinitive for v/z: leven → geleefd; reizen → gereisd. Do not decide from leef/reis alone."
+      },
+      {
+        "title": "Prefixes and irregular forms",
+        "text": "Unstressed inseparable prefixes such as be-, ge-, her-, ont- and ver- normally receive no extra ge-: betaald, gebruikt, herhaald, ontmoet, verhuurd. Memorise irregular participles such as gedronken, geweest, gebleven and geworden. Separable verbs insert ge after the separable prefix: opgebeld."
+      },
+      {
+        "title": "Hebben or zijn",
+        "text": "Most activities take hebben. Many changes of state and certain verbs take zijn, for example worden, blijven and gebeuren. Movement can use hebben for an activity (ik heb gefietst) and zijn for movement to a destination (ik ben naar huis gefietst). Learn the auxiliary with the verb and construction; movement alone does not guarantee zijn."
+      }
+    ],
+    "headers": [
+      "Infinitive",
+      "Auxiliary",
+      "Participle"
+    ],
+    "rows": [
+      [
+        "werken",
+        "hebben",
+        "gewerkt"
+      ],
+      [
+        "spelen",
+        "hebben",
+        "gespeeld"
+      ],
+      [
+        "leven",
+        "hebben",
+        "geleefd"
+      ],
+      [
+        "reizen",
+        "hebben",
+        "gereisd"
+      ],
+      [
+        "betalen",
+        "hebben",
+        "betaald"
+      ],
+      [
+        "drinken",
+        "hebben",
+        "gedronken"
+      ],
+      [
+        "fietsen",
+        "hebben / zijn",
+        "gefietst"
+      ],
+      [
+        "zijn",
+        "zijn",
+        "geweest"
+      ],
+      [
+        "blijven",
+        "zijn",
+        "gebleven"
+      ],
+      [
+        "worden",
+        "zijn",
+        "geworden"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Overdag heb ik gewerkt.",
+        "en": "I worked during the day."
+      },
+      {
+        "nl": "Ik ben naar huis gefietst.",
+        "en": "I cycled home."
+      },
+      {
+        "nl": "We hebben een biertje gedronken.",
+        "en": "We drank a beer."
+      },
+      {
+        "nl": "We zijn om negen uur begonnen.",
+        "en": "We started at nine o’clock."
+      }
+    ],
+    "tips": [
+      "Do not add ge- twice: betalen → betaald, not gebetaald.",
+      "Learn verb + auxiliary + participle as one unit: blijven → is gebleven."
+    ],
+    "quiz": [
+      {
+        "prompt": "Ik heb gisteren ___. (werken)",
+        "options": [
+          "gewerken",
+          "gewerkt",
+          "gewerkd"
+        ],
+        "correct": 1,
+        "explanation": "Werk ends in k, so the regular participle is gewerkt."
+      },
+      {
+        "prompt": "Ik ___ naar huis gefietst.",
+        "options": [
+          "ben",
+          "hebben",
+          "zijn"
+        ],
+        "correct": 0,
+        "explanation": "Movement to a destination takes zijn here; with ik use ben."
+      }
+    ]
+  },
+  {
+    "id": "separable",
+    "title": "Separable verbs",
+    "nl": "Scheidbare werkwoorden",
+    "summary": "Learn what happens to prefixes in statements, modals and the perfect tense.",
+    "sections": [
+      {
+        "title": "Two parts, one meaning",
+        "text": "A separable prefix and verb create a new meaning: instappen (board), uitstappen (get off), meenemen (take along), opbellen (phone). Not every prefixed verb is separable; learn the complete verb."
+      },
+      {
+        "title": "Finite main-clause verb",
+        "text": "In present or simple past main clauses, conjugate the base verb and place the prefix near the end: Ik bel je morgen op. Hij nam de kaart mee. An imperative also separates: Neem de kaart mee! A subordinate clause keeps the finite verb together: omdat ik je opbel."
+      },
+      {
+        "title": "Modal, participle and te",
+        "text": "After a modal, keep the full infinitive together: Ik wil je opbellen. In the participle, insert ge after the prefix when the base verb takes ge: opgebeld, ingestapt, meegenomen. With te, separate into prefix + te + verb: op te bellen; mee te nemen. Some base verbs, such as betalen, do not take ge: terugbetalen → terugbetaald."
+      }
+    ],
+    "headers": [
+      "Construction",
+      "Pattern",
+      "Example"
+    ],
+    "rows": [
+      [
+        "Present",
+        "finite verb … prefix",
+        "Ik bel je op."
+      ],
+      [
+        "Simple past",
+        "past verb … prefix",
+        "Ik belde je op."
+      ],
+      [
+        "Perfect",
+        "auxiliary … participle",
+        "Ik heb je opgebeld."
+      ],
+      [
+        "Modal",
+        "modal … full infinitive",
+        "Ik wil je opbellen."
+      ],
+      [
+        "With te",
+        "prefix + te + verb",
+        "Ik hoef je niet op te bellen."
+      ],
+      [
+        "Imperative",
+        "stem … prefix",
+        "Bel me op!"
+      ]
+    ],
+    "examples": [
+      {
+        "nl": "Hij is bij het station ingestapt.",
+        "en": "He boarded at the station."
+      },
+      {
+        "nl": "U kunt direct instappen.",
+        "en": "You can board immediately."
+      },
+      {
+        "nl": "U hoeft de straat niet over te steken.",
+        "en": "You do not need to cross the street."
+      },
+      {
+        "nl": "Neemt u de plattegrond maar mee.",
+        "en": "Please take the map with you."
+      }
+    ],
+    "tips": [
+      "Meenemen has an irregular base participle: meegenomen, not meegeneemd.",
+      "Compare: Ik bel op / ik wil opbellen / ik heb opgebeld / om op te bellen."
+    ],
+    "quiz": [
+      {
+        "prompt": "Ik wil je morgen ___.",
+        "options": [
+          "op bellen",
+          "opbellen",
+          "bel op"
+        ],
+        "correct": 1,
+        "explanation": "After a modal, use the full infinitive together."
+      },
+      {
+        "prompt": "Ik hoef je niet ___.",
+        "options": [
+          "te opbellen",
+          "op te bellen",
+          "op bellen te"
+        ],
+        "correct": 1,
+        "explanation": "With te, use prefix + te + base verb."
+      }
+    ]
+  }
+]
